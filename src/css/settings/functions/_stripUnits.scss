@@ -1,0 +1,27 @@
+// -----------------------------------------------------------------------------
+// -- Strip Units
+// -----------------------------------------------------------------------------
+// This'll strip the unit from any number passed to it. It has a check to
+// ensure there's no failure if the parameter that is passed in is unitless.
+// It is recommended that you load this early in your manifest, since many other
+// functions use this to avoid unit errors.
+//
+// Courtesy of https://css-tricks.com/snippets/sass/strip-unit-function/
+//
+// PARAMETERS:
+// - $num: Any number that contains a unit of measurement
+//
+// EXAMPLE:
+// line-height: stripUnits(1.5em);
+//
+// RETURNS (Integer):
+// line-height: 1.5;
+// -----------------------------------------------------------------------------
+
+@function stripUnits($num) {
+  @if type-of($num) == "number" and not unitless($num) {
+    @return $num / ($num * 0 + 1);
+  }
+
+  @return $num;
+}

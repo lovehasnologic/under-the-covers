@@ -1,0 +1,2 @@
+"use strict";var _react=_interopRequireDefault(require("react")),_reactDom=_interopRequireDefault(require("react-dom")),_Jukebox=_interopRequireDefault(require("./components/Jukebox"));function _interopRequireDefault(e){return e&&e.__esModule?e:{default:e}}_reactDom.default.render(_react.default.createElement(_Jukebox.default,null),document.getElementById("jukebox"));
+//# sourceMappingURL=index-dist.js.map

@@ -1,0 +1,28 @@
+// -----------------------------------------------------------------------------
+// -- REM Sizing
+// -----------------------------------------------------------------------------
+// Converts a pixel measurement to a rem measurement, which is relative to the
+// size of the document's root element.
+//
+// Since there are many ways of declaring the document's base font size, I've
+// added a variable, for use with this mixin, so that the mixin itself needs no
+// changes as it is used in different environments.
+//
+// REQUIREMENTS:
+// - stripUnits function (from this repo)
+//
+// PARAMETERS:
+// - $pixels: A number that represents a measurement in pixels.
+//
+// EXAMPLE: ($remFontBase is assumed to be 14 in example)
+// font-size: rem(18px);
+//
+// RETURNS (Integer w/ em unit):
+// font-size: 1.285714286rem;
+// -----------------------------------------------------------------------------
+
+$remFontBase: var(--baseFontSize);
+
+@function rem($pixels) {
+  @return stripUnits($pixels) / stripUnits($remFontBase) * 1rem;
+}

@@ -1,0 +1,294 @@
+// -----------------------------------------------------------------------------
+// Table of Contents
+//
+//  - Variables
+//  - Set Specific Breakpoints
+//  - Create Breakpoint Zones
+//  - Apply Zones
+//  - Media Query Mixin
+//  - Media Query Scoped Classes
+// -----------------------------------------------------------------------------
+
+// -----------------------------------------------------------------------------
+// -- Variables
+// -----------------------------------------------------------------------------
+
+$bp--screen: "only screen";
+$bp--landscape: "#{$bp--screen} and (orientation: landscape)";
+$bp--portrait: "#{$bp--screen} and (orientation: portrait)";
+
+// -----------------------------------------------------------------------------
+// -- Set Specific Breakpoints
+// -----------------------------------------------------------------------------
+// First things first, we want to define our breakpoints. We can use pixels
+// here since we'll be converting those to ems below. You can add, or remove,
+// breakpoints from this map and the changes will cascade throughout the entire
+// breakpoint system.
+//
+// At this point, the values can be visualized as such...
+//
+//               |                   |                     |               etc.
+//         map-get($bp, 1)     map-get($bp, 2)       map-get($bp, 3)
+// -----------------------------------------------------------------------------
+
+$bp: (
+  1: 550,
+  2: 825,
+  3: 1100,
+);
+
+$bp--count: length($bp);
+
+// -----------------------------------------------------------------------------
+// -- Create Breakpoint Zones
+// -----------------------------------------------------------------------------
+// When thinking about a site's design, it's easier to think of the range that
+// it applies to, rather than the specific point at which is changes. A zone
+// can be entered from either side, whereas a specific change only occurs at a
+// single point.
+//
+// These variables give us the lower and upper boundaries of each zone, so we
+// can now visualize the breakpoints as such...
+//
+//   (Zone 1)    |     (Zone 2)      |      (Zone 3)       |         etc.
+//
+// -----------------------------------------------------------------------------
+
+// Set lower bounds map
+$bp--lowerBound: (
+  1: pem(0, 16),
+);
+
+// Add lower bounds keys dynamically, based on amount of $bp's set.
+// Need to add 1 to account for the final zone, since zones end at the $bp.
+@for $key from 2 through ($bp--count + 1) {
+  $bp--lowerBound: map-merge($bp--lowerBound, ($key: pem(map-get($bp, $key - 1) + 1, 16)));
+}
+
+// Set upper bounds map
+$bp--upperBound: (
+  1: pem(map-get($bp, 1), 16),
+);
+
+// Add upper bounds keys dynamically, based on amount of $bp's set.
+@for $key from 2 through $bp--count {
+  $bp--upperBound: map-merge($bp--upperBound, ($key: pem(map-get($bp, $key), 16)));
+}
+
+// -----------------------------------------------------------------------------
+// -- Apply Zones
+// -----------------------------------------------------------------------------
+// Here is where we apply the breakpoints in the browser. When applying media
+// scoped CSS, you either want to apply it to a single zone, you want to apply
+// it to a zone and have it apply to all the zones that are wider, or you want
+// to apply it to a zone and apply it to all the other zones that are narrower.
+//
+// Examples:
+// - map-get($bp--only, 2)
+//   (  NO  )    |     (  YES  )      |      (  NO  )       |         etc.
+//
+// - map-get($bp--up, 2)
+//   (  NO  )    |     (  YES  )      |      (  YES )       |         etc.
+//
+// - map-get($bp--down, 2)
+//   (  YES )    |     (  YES  )      |      (  NO  )       |         etc.
+// -----------------------------------------------------------------------------
+
+// Set zone map that scopes MQ's to apply upwards
+$bp--up: (
+  2: "(min-width: #{map-get($bp--lowerBound, 2)})",
+);
+
+// Dynamically build the other upward scoped zones based on the amount of $bp's
+@for $key from 3 through $bp--count {
+  $bp--up: map-merge($bp--up, ($key: "(min-width: #{map-get($bp--lowerBound, $key)})"));
+}
+
+// Set zone map that scopes MQ's to apply downwards
+$bp--down: (
+  2: "(max-width: #{map-get($bp--upperBound, 2)})",
+);
+
+// Dynamically build the other downward scoped zones based on the amount of $bp's
+@for $key from 3 through $bp--count {
+  $bp--down: map-merge($bp--down, ($key: "(max-width: #{map-get($bp--upperBound, $key)})"));
+}
+
+// Set zone map that scopes MQ's to a single MQ
+$bp--only: (
+  1: "(max-width: #{map-get($bp--upperBound, 1)})",
+);
+
+// Dynamically build the other single scoped zones based on the amount of $bp's
+@for $key from 2 through $bp--count {
+  $bp--only: map-merge($bp--only, ($key: "(min-width: #{map-get($bp--lowerBound, $key)}) and (max-width: #{map-get($bp--upperBound, $key)})"));
+}
+
+// Need to add a final single scoped zone for the last $bp the final zone, since
+// zones end at the $bp.
+$bp--only: map-merge($bp--only, (($bp--count + 1): "(min-width: #{map-get($bp--upperBound, $bp--count)})"));
+
+// -----------------------------------------------------------------------------
+// -- Media Query Mixin
+// -----------------------------------------------------------------------------
+//  This mixin makes media queries easier to read and work with, while also
+//  accounting for a bug in our combing and linting tools that chokes on
+//  interpolated values in `@` blocks.
+//
+//  You can pass multiple query blocks into the mixin by sending a list to each
+//  argument. The amount of items in the $zones and $spans list should match.
+//  The $divider doesn't accept a list.
+//
+//  $zones: integer(s) (corresponds to breakpoint zone)
+//  $spans: up / down / only (fallback)
+//  $divider: "," (default) / "and"
+//
+// EX: (breakpoint zones 2 and up)
+//    (NO)   |    (YES)     |     (YES)     |     (YES)     |     (YES)
+// .selector {
+//   @include mq(2, up) {
+//     ... styles here ...
+//   };
+// }
+//
+// EX: (breakpoint zones 2 down and 4 only)
+//    (YES)   |    (YES)     |     (NO)     |     (YES)     |     (NO)
+// .selector {
+//   @include mq(2 4, down only) {
+//     ... styles here ...
+//   };
+// }
+//
+// EX: (breakpoint zones 2 through 4)
+//    (NO)   |    (YES)     |     (YES)     |     (YES)     |     (NO)
+// .selector {
+//   @include mq(2 4, up down, "and") {
+//     ... styles here ...
+//   };
+// }
+//
+// EX: (breakpoint zone 1)
+//    (YES)   |    (NO)     |     (YES)     |     (YES)     |     (NO)
+// .selector {
+//   @include mq('1') {
+//     ... styles here ...
+//   };
+// }
+// -----------------------------------------------------------------------------
+
+// Find the appropriate breakpoint application map. We do it this way because
+// trying to build the map dynamically via $bp--#{direction} returns the right
+// value, but sass doesn't understand that it's a map.
+@function mqMap($zone, $direction) {
+  @if $direction == down {
+    @return map-get($bp--down, $zone);
+  } @else if $direction == up {
+    @return map-get($bp--up, $zone);
+  } @else {
+    @return map-get($bp--only, $zone);
+  }
+}
+
+// Loop through the zones in the mixin and use the map finder to get the correct
+// media query. When there are multiple mqs that are being combined, use the
+// divider to split them.
+@function mqLoop($zones, $spans, $divider: ",") {
+  $mqList: mqMap(nth($zones, 1), nth($spans, 1));
+
+  @if length($zones) > 1 {
+    @for $i from 2 through length($zones) {
+      $mqList: $mqList + $divider + mqMap(nth($zones, $i), nth($spans, $i));
+    }
+  }
+
+  @return $mqList;
+}
+
+// Create the mixin for use
+@mixin mq($zones, $spans: "only", $divider: ",") {
+  @media #{mqLoop($zones, $spans, $divider)} {
+    @content;
+  }
+}
+
+// -----------------------------------------------------------------------------
+// -- Media Query Scoped Classes
+// -----------------------------------------------------------------------------
+// Apply styles to a class, but also create additional classes with the same
+// styles that are scoped to our breakpoint zones. This will loop throughout all
+// of our breakpoints and create single zone classes, `--bp-#`, classes that
+// start at a zone and apply upwards, `--bp-up-#`, and classes that start as a
+// zone and apply downwards, `--bp-down-#`.
+//
+// NOTE:
+// This mixin MUST be used nested inside a class.
+//
+// PARAMETERS:
+// - none, must pass through CSS rules to be passed to `@content`
+//
+// .flying {
+//   @include mq-scoped {
+//     z-index: 10000000;
+//   }
+// }
+//
+// RETURNS (* All scoped classes would be inside the appropriate media query):
+// .flying { z-index: 10000000; }
+// (*) .flying--bp1 { z-index: 10000000; }
+// (*) .flying--bp2 { z-index: 10000000; }
+// (*) .flying--bp3 { z-index: 10000000; }
+// (*) .flying--bp4 { z-index: 10000000; }
+// (*) .flying--bp5 { z-index: 10000000; }
+// (*) .flying--bp6 { z-index: 10000000; }
+// (*) .flying--bp2up { z-index: 10000000; }
+// (*) .flying--bp3up { z-index: 10000000; }
+// (*) .flying--bp4up { z-index: 10000000; }
+// (*) .flying--bp5up { z-index: 10000000; }
+// (*) .flying--bp2down { z-index: 10000000; }
+// (*) .flying--bp3down { z-index: 10000000; }
+// (*) .flying--bp4down { z-index: 10000000; }
+// (*) .flying--bp5down { z-index: 10000000; }
+// -----------------------------------------------------------------------------
+
+@mixin mq-scoped {
+  @content;
+
+  @for $bp from 1 through (length($bp) + 1) {
+    @include mq($bp, only) {
+      &--bp#{$bp} {
+        @content;
+      }
+    }
+  }
+
+  @for $bp from 2 through length($bp) {
+    @include mq($bp, up) {
+      &--bp#{$bp}up {
+        @content;
+      }
+    }
+
+    @include mq($bp, down) {
+      &--bp#{$bp}down {
+        @content;
+      }
+    }
+  }
+}
+
+// -----------------------------------------------------------------------------
+// -- Sprockets Media Query Combiner
+// -----------------------------------------------------------------------------
+// The Sprockets Media Query Combiner gem  does exactly what it says, combines
+// all like media queries and then places them at the end of the file. What it
+// doesn't do is change the order of them, so whatever appears first in the
+// compiled file is placed first, etc. This declaration below ensures that all
+// our media queries are built from smallest to largest upwards, then largest to
+// smallest downward, and then the individual zones are added.
+// -----------------------------------------------------------------------------
+
+.smqc {
+  @include mq-scoped {
+    zoom: 1;
+  }
+}

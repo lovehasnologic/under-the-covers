@@ -1,0 +1,25 @@
+// -----------------------------------------------------------------------------
+// -- Convert Pixels to Ems
+// -----------------------------------------------------------------------------
+// Converts a pixel value to ems. The default is to use a base of 16, relative
+// to the parent element, however, that can be overridden for any use cases
+// where the calculated em value of the element has been changed.
+//
+// REQUIREMENTS:
+// - stripUnits function (from this repo)
+//
+// PARAMETERS:
+// - $pixels: A number that represents a measurement in pixels.
+// - $base: The calculated em value, in pixels.
+//          (default) $baseFontSize
+//
+// EXAMPLE:
+// margin: pem(10px, 18px) 0;
+//
+// RETURNS (Integer w/ em unit):
+// margin: .555555556em 0;
+// -----------------------------------------------------------------------------
+
+@function pem($pixels, $base: var(--baseFontSize)) {
+  @return stripUnits($pixels) / stripUnits($base) * 1em;
+}
