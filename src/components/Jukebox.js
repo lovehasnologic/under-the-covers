@@ -11,7 +11,7 @@ class Jukebox extends React.Component {
     return (
       <ol className="volumes">
         {this.state.volumes.map(volume => (
-          <Tag volume={volume} key={volume.volume} />
+          <Tag volume={volume} key={volume.number} />
         ))}
       </ol>
     );
