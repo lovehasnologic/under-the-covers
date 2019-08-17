@@ -179,6 +179,17 @@
 		"sC": 0,
 		"tS": 0
 		},
+	"/src/components/Volume.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/src/components/Volume-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"/src/css/base/_reset.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -295,6 +306,14 @@
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
+		},
+	"/src/data/volumes.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/src/data/volumes-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
 		},
 	"/src/index.js": {
 		"bF": 0,
