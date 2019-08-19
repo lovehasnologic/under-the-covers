@@ -11,6 +11,8 @@
 
 .tag {
   grid-column: tag-start / player-window;
+  text-decoration: none;
+  font-family: var(--font--deco);
 }
 
 // -----------------------------------------------------------------------------
@@ -18,6 +20,38 @@
 // -----------------------------------------------------------------------------
 
 .tag__label {
-  display: block;
+  display: flex;
   grid-column: tag-start / tag-end;
+  position: relative;
+  mix-blend-mode: screen;
+
+  &::before {
+    position: absolute;
+    content: "";
+    background: var(--white);
+    z-index: 1;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    transition: var(--duration) right var(--ease-in-out);
+
+    .tag:hover & {
+      right: -20px;
+    }
+  }
+}
+
+.tag__volumeNumber {
+  position: relative;
+  flex: 1;
+  z-index: 2;
+  font-size: 7vh;
+  line-height: 1;
+  mix-blend-mode: difference;
+  color: var(--white);
+  display: block;
+  padding-right: 20px;
+  text-align: right;
+  align-self: center;
 }

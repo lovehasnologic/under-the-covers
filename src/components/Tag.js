@@ -12,7 +12,11 @@ class Tag extends React.Component {
     return (
       <li className="jukebox__volume">
         <a href="/" className="tag grid">
-          <span className="tag__label">{this.props.volume.number}</span>
+          <span className="tag__label">
+            <span className="tag__volumeNumber">
+              {this.props.volume.number}
+            </span>
+          </span>
         </a>
       </li>
     );
