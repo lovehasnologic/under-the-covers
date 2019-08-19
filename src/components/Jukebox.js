@@ -5,7 +5,8 @@ import volumes from "../data/volumes.json";
 
 class Jukebox extends React.Component {
   state = {
-    volumes: {}
+    volumes: {},
+    currentAlbum: ""
   };
 
   componentDidMount() {
@@ -13,6 +14,12 @@ class Jukebox extends React.Component {
       volumes: volumes
     });
   }
+
+  setActiveAlbum = volumeNumber => {
+    this.setState({
+      currentAlbum: volumeNumber
+    });
+  };
 
   render() {
     return (
@@ -26,6 +33,8 @@ class Jukebox extends React.Component {
               details={this.state.volumes[volume]}
               volume={volume}
               key={volume}
+              currentAlbum={this.state.currentAlbum}
+              setActiveAlbum={this.setActiveAlbum}
             />
           ))}
         </ol>

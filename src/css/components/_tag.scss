@@ -39,6 +39,10 @@
     .tag:hover & {
       right: -20px;
     }
+
+    .active & {
+      right: 100% !important;
+    }
   }
 }
 
