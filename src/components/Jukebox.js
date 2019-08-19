@@ -4,8 +4,14 @@ import volumes from "../data/volumes.json";
 
 class Jukebox extends React.Component {
   state = {
-    volumes: volumes
+    volumes: []
   };
+
+  componentDidMount() {
+    this.setState({
+      volumes: volumes
+    });
+  }
 
   render() {
     return (

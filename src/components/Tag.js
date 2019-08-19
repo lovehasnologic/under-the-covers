@@ -10,7 +10,10 @@ class Tag extends React.Component {
 
   render() {
     return (
-      <li className="jukebox__volume">
+      <li
+        className="jukebox__volume"
+        style={{ background: this.props.volume.color.primary }}
+      >
         <a href="/" className="tag grid">
           <span className="tag__label">
             <span className="tag__volumeNumber">

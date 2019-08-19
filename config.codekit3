@@ -72,22 +72,6 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"/public/assets/fonts/tofinopropersonalwide-ultra.woff": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/public/assets/fonts/tofinopropersonalwide-ultra.woff",
-		"oF": 0
-		},
-	"/public/assets/fonts/tofinopropersonalwide-ultra.woff2": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/public/assets/fonts/tofinopropersonalwide-ultra.woff2",
-		"oF": 0
-		},
 	"/public/assets/js/index-dist.js": {
 		"bF": 0,
 		"ft": 64,
