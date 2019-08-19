@@ -679,7 +679,7 @@
 	"bowerTargetDependencyListType": 1,
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 1,
-	"browserslistString": ">0.2%, last 2 versions, Firefox ESR, not dead",
+	"browserslistString": "ie >= 10, Edge >= 12, Firefox > 31, Chrome > 28, Safari > 7, Opera > 27, iOS >= 8, last 3 versions",
 	"buildFolderActive": 0,
 	"buildFolderName": "build",
 	"cleanBuild": 1,
