@@ -23,6 +23,17 @@
 		"oAP": "/build/node_modules",
 		"oF": 0
 		},
+	"/node_modules/prop-types/index.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/node_modules/prop-types/index-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"/node_modules/react-dom/index.js": {
 		"bF": 0,
 		"ft": 64,
@@ -179,16 +190,29 @@
 		"sC": 0,
 		"tS": 0
 		},
-	"/src/components/Volume.js": {
+	"/src/components/Tag.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "/src/components/Volume-min.js",
+		"oAP": "/src/components/Tag-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
+		},
+	"/src/css/base/_grid.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "/public/assets/css/base/_grid.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
 		},
 	"/src/css/base/_reset.scss": {
 		"aP": 1,
@@ -199,6 +223,32 @@
 		"ma": 1,
 		"oA": 1,
 		"oAP": "/public/assets/css/base/_reset.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/src/css/components/_jukebox.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "/public/assets/css/components/_jukebox.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/src/css/components/_tag.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "/public/assets/css/components/_tag.css",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1

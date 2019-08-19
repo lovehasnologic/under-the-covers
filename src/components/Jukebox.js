@@ -9,7 +9,7 @@ class Jukebox extends React.Component {
 
   render() {
     return (
-      <ol className="volumes">
+      <ol className="jukebox__volumes grid">
         {this.state.volumes.map(volume => (
           <Tag volume={volume} key={volume.number} />
         ))}

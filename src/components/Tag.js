@@ -10,9 +10,9 @@ class Tag extends React.Component {
 
   render() {
     return (
-      <li className="tag">
-        <a href="/" className="tag__label">
-          {this.props.volume.number}
+      <li className="jukebox__volume">
+        <a href="/" className="tag grid">
+          <span className="tag__label">{this.props.volume.number}</span>
         </a>
       </li>
     );

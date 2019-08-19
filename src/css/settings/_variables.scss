@@ -1,10 +1,20 @@
 // -----------------------------------------------------------------------------
 // Table of Contents
 //
-//  - Colors
-//  - Measurements
-//  - Typography
+//  - Sass Variables
+//  - CSS Custom Properties
+//    - Colors
+//    - Measurements
+//    - Typography
 // -----------------------------------------------------------------------------
+
+// -----------------------------------------------------------------------------
+// -- Sass Variables
+// -----------------------------------------------------------------------------
+
+$dimensions: top right bottom left vertical horizontal;
+$baseFontSize: 18px;
+$tagWidth: 175px;
 
 :root {
   // -----------------------------------------------------------------------------
@@ -35,11 +45,5 @@
   --font--deco: "tofino", var(--font--body);
 
   --baseFontFamily: var(--font--body);
-  --baseFontSize: 18px;
+  --baseFontSize: #{$baseFontSize};
 }
-
-// -----------------------------------------------------------------------------
-// -- Sass Variables
-// -----------------------------------------------------------------------------
-
-$dimensions: top right bottom left vertical horizontal;

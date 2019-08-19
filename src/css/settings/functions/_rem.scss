@@ -21,7 +21,7 @@
 // font-size: 1.285714286rem;
 // -----------------------------------------------------------------------------
 
-$remFontBase: var(--baseFontSize);
+$remFontBase: $baseFontSize;
 
 @function rem($pixels) {
   @return stripUnits($pixels) / stripUnits($remFontBase) * 1rem;

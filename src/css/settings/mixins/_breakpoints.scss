@@ -34,7 +34,7 @@ $bp--portrait: "#{$bp--screen} and (orientation: portrait)";
 $bp: (
   1: 550,
   2: 825,
-  3: 1100,
+  3: 1100
 );
 
 $bp--count: length($bp);
@@ -56,23 +56,33 @@ $bp--count: length($bp);
 
 // Set lower bounds map
 $bp--lowerBound: (
-  1: pem(0, 16),
+  1: pem(0, 16)
 );
 
 // Add lower bounds keys dynamically, based on amount of $bp's set.
 // Need to add 1 to account for the final zone, since zones end at the $bp.
 @for $key from 2 through ($bp--count + 1) {
-  $bp--lowerBound: map-merge($bp--lowerBound, ($key: pem(map-get($bp, $key - 1) + 1, 16)));
+  $bp--lowerBound: map-merge(
+    $bp--lowerBound,
+    (
+      $key: pem(map-get($bp, $key - 1) + 1, 16)
+    )
+  );
 }
 
 // Set upper bounds map
 $bp--upperBound: (
-  1: pem(map-get($bp, 1), 16),
+  1: pem(map-get($bp, 1), 16)
 );
 
 // Add upper bounds keys dynamically, based on amount of $bp's set.
 @for $key from 2 through $bp--count {
-  $bp--upperBound: map-merge($bp--upperBound, ($key: pem(map-get($bp, $key), 16)));
+  $bp--upperBound: map-merge(
+    $bp--upperBound,
+    (
+      $key: pem(map-get($bp, $key), 16)
+    )
+  );
 }
 
 // -----------------------------------------------------------------------------
@@ -96,37 +106,61 @@ $bp--upperBound: (
 
 // Set zone map that scopes MQ's to apply upwards
 $bp--up: (
-  2: "(min-width: #{map-get($bp--lowerBound, 2)})",
+  2: "(min-width: #{map-get($bp--lowerBound, 2)})"
 );
 
 // Dynamically build the other upward scoped zones based on the amount of $bp's
 @for $key from 3 through $bp--count {
-  $bp--up: map-merge($bp--up, ($key: "(min-width: #{map-get($bp--lowerBound, $key)})"));
+  $bp--up: map-merge(
+    $bp--up,
+    (
+      $key: "(min-width: #{map-get($bp--lowerBound, $key)})"
+    )
+  );
 }
 
 // Set zone map that scopes MQ's to apply downwards
 $bp--down: (
-  2: "(max-width: #{map-get($bp--upperBound, 2)})",
+  2: "(max-width: #{map-get($bp--upperBound, 2)})"
 );
 
 // Dynamically build the other downward scoped zones based on the amount of $bp's
 @for $key from 3 through $bp--count {
-  $bp--down: map-merge($bp--down, ($key: "(max-width: #{map-get($bp--upperBound, $key)})"));
+  $bp--down: map-merge(
+    $bp--down,
+    (
+      $key: "(max-width: #{map-get($bp--upperBound, $key)})"
+    )
+  );
 }
 
 // Set zone map that scopes MQ's to a single MQ
 $bp--only: (
-  1: "(max-width: #{map-get($bp--upperBound, 1)})",
+  1: "(max-width: #{map-get($bp--upperBound, 1)})"
 );
 
 // Dynamically build the other single scoped zones based on the amount of $bp's
 @for $key from 2 through $bp--count {
-  $bp--only: map-merge($bp--only, ($key: "(min-width: #{map-get($bp--lowerBound, $key)}) and (max-width: #{map-get($bp--upperBound, $key)})"));
+  $bp--only: map-merge(
+    $bp--only,
+    (
+      $key:
+        "(min-width: #{map-get($bp--lowerBound, $key)}) and (max-width: #{map-get($bp--upperBound, $key)})"
+    )
+  );
 }
 
 // Need to add a final single scoped zone for the last $bp the final zone, since
 // zones end at the $bp.
-$bp--only: map-merge($bp--only, (($bp--count + 1): "(min-width: #{map-get($bp--upperBound, $bp--count)})"));
+$bp--only: map-merge(
+  $bp--only,
+  (
+    (
+        $bp--count + 1
+      ):
+      "(min-width: #{map-get($bp--upperBound, $bp--count)})"
+  )
+);
 
 // -----------------------------------------------------------------------------
 // -- Media Query Mixin
@@ -273,22 +307,5 @@ $bp--only: map-merge($bp--only, (($bp--count + 1): "(min-width: #{map-get($bp--u
         @content;
       }
     }
-  }
-}
-
-// -----------------------------------------------------------------------------
-// -- Sprockets Media Query Combiner
-// -----------------------------------------------------------------------------
-// The Sprockets Media Query Combiner gem  does exactly what it says, combines
-// all like media queries and then places them at the end of the file. What it
-// doesn't do is change the order of them, so whatever appears first in the
-// compiled file is placed first, etc. This declaration below ensures that all
-// our media queries are built from smallest to largest upwards, then largest to
-// smallest downward, and then the individual zones are added.
-// -----------------------------------------------------------------------------
-
-.smqc {
-  @include mq-scoped {
-    zoom: 1;
   }
 }
