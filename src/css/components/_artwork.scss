@@ -1,0 +1,73 @@
+// -----------------------------------------------------------------------------
+//  Table of Contents
+//
+//  - Artwork
+//  - Title
+//  - Description
+// -----------------------------------------------------------------------------
+
+// -----------------------------------------------------------------------------
+// -- Artwork
+// -----------------------------------------------------------------------------
+
+.artwork {
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: sticky;
+  top: 0;
+}
+
+// -----------------------------------------------------------------------------
+// -- Title
+// -----------------------------------------------------------------------------
+
+.artwork__title {
+  font-family: var(--font--deco);
+  font-weight: normal;
+  font-size: 14vw;
+  text-transform: uppercase;
+  margin: 0;
+
+  * {
+    display: inline-block;
+    line-height: 1;
+  }
+}
+
+.artwork__title--under {
+  font-size: 1.078838174em;
+  transform: translateX(0.215em);
+}
+.artwork__title--the {
+  transform: rotate(90deg) translateX(-104%) translateY(-0.675em);
+  transform-origin: left bottom;
+  font-size: 0.37em;
+}
+.artwork__title--covers {
+  transform: translateY(-0.4em);
+}
+
+// -----------------------------------------------------------------------------
+// -- Description
+// -----------------------------------------------------------------------------
+
+.artwork__description {
+  margin: 0;
+  line-height: 1;
+}
+
+.artwork__count {
+  font-weight: normal;
+  font-family: var(--font--deco);
+  font-size: 2.4em;
+  line-height: 0;
+
+  &:after {
+    content: " ";
+    font-size: 0.5em;
+    line-height: 0;
+  }
+}

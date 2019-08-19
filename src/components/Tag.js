@@ -4,7 +4,10 @@ import PropTypes from "prop-types";
 class Tag extends React.Component {
   static propTypes = {
     volume: PropTypes.shape({
-      number: PropTypes.number
+      number: PropTypes.number,
+      color: PropTypes.shape({
+        primary: PropTypes.string
+      })
     })
   };
 

@@ -1,5 +1,6 @@
 import React from "react";
 import Tag from "./Tag";
+import Artwork from "./Artwork";
 import volumes from "../data/volumes.json";
 
 class Jukebox extends React.Component {
@@ -15,11 +16,16 @@ class Jukebox extends React.Component {
 
   render() {
     return (
-      <ol className="jukebox__volumes grid">
-        {this.state.volumes.map(volume => (
-          <Tag volume={volume} key={volume.number} />
-        ))}
-      </ol>
+      <React.Fragment>
+        <div className="jukebox__player">
+          <Artwork volumes={this.state.volumes} />
+        </div>
+        <ol className="jukebox__volumes grid">
+          {this.state.volumes.map(volume => (
+            <Tag volume={volume} key={volume.number} />
+          ))}
+        </ol>
+      </React.Fragment>
     );
   }
 }

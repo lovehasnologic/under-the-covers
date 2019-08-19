@@ -28,7 +28,7 @@
   &::before {
     position: absolute;
     content: "";
-    background: var(--white);
+    background: var(--baseFontColor);
     z-index: 1;
     top: 0;
     bottom: 0;
@@ -49,7 +49,7 @@
   font-size: 7vh;
   line-height: 1;
   mix-blend-mode: difference;
-  color: var(--white);
+  color: var(--baseFontColor);
   display: block;
   padding-right: 20px;
   text-align: right;
