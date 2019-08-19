@@ -5,7 +5,7 @@ import volumes from "../data/volumes.json";
 
 class Jukebox extends React.Component {
   state = {
-    volumes: []
+    volumes: {}
   };
 
   componentDidMount() {
@@ -18,11 +18,15 @@ class Jukebox extends React.Component {
     return (
       <React.Fragment>
         <div className="jukebox__player">
-          <Artwork volumes={this.state.volumes} />
+          <Artwork volumeCount={Object.keys(this.state.volumes).length} />
         </div>
         <ol className="jukebox__volumes grid">
-          {this.state.volumes.map(volume => (
-            <Tag volume={volume} key={volume.number} />
+          {Object.keys(this.state.volumes).map(volume => (
+            <Tag
+              details={this.state.volumes[volume]}
+              volume={volume}
+              key={volume}
+            />
           ))}
         </ol>
       </React.Fragment>

@@ -1,98 +1,82 @@
-[
-  {
-    "number": 1,
+{
+  "1": {
     "color": {
       "primary": "#234968"
     }
   },
-  {
-    "number": 2,
+  "2": {
     "color": {
       "primary": "#992217"
     }
   },
-  {
-    "number": 3,
+  "3": {
     "color": {
       "primary": "#695929"
     }
   },
-  {
-    "number": 4,
+  "4": {
     "color": {
       "primary": "#6262a9"
     }
   },
-  {
-    "number": 5,
+  "5": {
     "color": {
       "primary": "#1c3674"
     }
   },
-  {
-    "number": 6,
+  "6": {
     "color": {
       "primary": "#2d3000"
     }
   },
-  {
-    "number": 7,
+  "7": {
     "color": {
       "primary": "#541e15"
     }
   },
-  {
-    "number": 8,
+  "8": {
     "color": {
       "primary": "#e60427"
     }
   },
-  {
-    "number": 9,
+  "9": {
     "color": {
       "primary": "#5e202c"
     }
   },
-  {
-    "number": 10,
+  "10": {
     "color": {
       "primary": ""
     }
   },
-  {
-    "number": 11,
+  "11": {
     "color": {
       "primary": ""
     }
   },
-  {
-    "number": 12,
+  "12": {
     "color": {
       "primary": ""
     }
   },
-  {
-    "number": 13,
+  "13": {
     "color": {
       "primary": ""
     }
   },
-  {
-    "number": 14,
+  "14": {
     "color": {
       "primary": ""
     }
   },
-  {
-    "number": 15,
+  "15": {
     "color": {
       "primary": ""
     }
   },
-  {
-    "number": 16,
+  "16": {
     "color": {
       "primary": ""
     }
   }
-]
+}

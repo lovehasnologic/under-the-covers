@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 
 class Artwork extends React.Component {
   static propTypes = {
-    volume: PropTypes.object
+    volumeCount: PropTypes.number
   };
 
   render() {
@@ -16,9 +16,7 @@ class Artwork extends React.Component {
           <span className="artwork__title--covers">Covers</span>
         </h1>
         <h2 className="artwork__description">
-          <strong className="artwork__count">
-            {this.props.volumes.length}
-          </strong>
+          <strong className="artwork__count">{this.props.volumeCount}</strong>
           volumes of songs <u>not</u> written by the people playing them
         </h2>
       </header>
