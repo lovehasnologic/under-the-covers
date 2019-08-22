@@ -1,7 +1,7 @@
 import React from "react";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Tag from "./Tag";
-import Artwork from "./Artwork";
+import Billboard from "./Billboard";
 import Album from "./Album";
 import volumes from "../data/volumes.json";
 
@@ -39,7 +39,7 @@ class Jukebox extends React.Component {
               exact
               path="/"
               render={props => (
-                <Artwork
+                <Billboard
                   {...props}
                   volumeCount={Object.keys(this.state.volumes).length}
                 />

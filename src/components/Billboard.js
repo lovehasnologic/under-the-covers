@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-class Artwork extends React.Component {
+class Billboard extends React.Component {
   static propTypes = {
     volumeCount: PropTypes.number
   };
@@ -24,4 +24,4 @@ class Artwork extends React.Component {
   }
 }
 
-export default Artwork;
+export default Billboard;

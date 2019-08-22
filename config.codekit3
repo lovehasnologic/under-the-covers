@@ -284,17 +284,6 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"/src/components/Album-min.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/src/components/Album-min-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
 	"/src/components/Album.js": {
 		"bF": 0,
 		"ft": 64,
@@ -306,35 +295,13 @@
 		"sC": 3,
 		"tS": 0
 		},
-	"/src/components/Artwork-min.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/src/components/Artwork-min-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/src/components/Artwork.js": {
+	"/src/components/Billboard.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 1,
-		"oAP": "/src/components/Artwork-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/src/components/Jukebox-min.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/src/components/Jukebox-min-min.js",
+		"oAP": "/src/components/Billboard-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
