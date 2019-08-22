@@ -2,6 +2,11 @@ import React from "react";
 import PropTypes from "prop-types";
 
 class Album extends React.Component {
+  static propTypes = {
+    setActiveAlbum: PropTypes.func,
+    match: PropTypes.object
+  };
+
   componentDidMount() {
     this.props.setActiveAlbum(this.props.match.params.volume);
   }
