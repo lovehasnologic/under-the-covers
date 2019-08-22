@@ -6,7 +6,8 @@ import volumes from "../data/volumes.json";
 class Jukebox extends React.Component {
   state = {
     volumes: {},
-    currentAlbum: ""
+    currentAlbum: "",
+    primaryColor: ""
   };
 
   componentDidMount() {
@@ -16,9 +17,17 @@ class Jukebox extends React.Component {
   }
 
   setActiveAlbum = volumeNumber => {
-    this.setState({
-      currentAlbum: volumeNumber
-    });
+    this.setState(
+      {
+        currentAlbum: volumeNumber,
+        primaryColor: this.state.volumes[volumeNumber].color.primary
+      },
+      () =>
+        document.documentElement.style.setProperty(
+          "--bgColor",
+          this.state.primaryColor
+        )
+    );
   };
 
   render() {
@@ -27,7 +36,11 @@ class Jukebox extends React.Component {
         <div className="jukebox__player">
           <Artwork volumeCount={Object.keys(this.state.volumes).length} />
         </div>
-        <ol className="jukebox__volumes grid">
+        <ol
+          className={`jukebox__volumes grid ${
+            this.state.currentAlbum !== "" ? "nowPlaying" : ""
+          }`}
+        >
           {Object.keys(this.state.volumes).map(volume => (
             <Tag
               details={this.state.volumes[volume]}

@@ -11,7 +11,7 @@
 // -----------------------------------------------------------------------------
 
 #jukebox {
-  background: var(--baseBgColor);
+  background: var(--bgColor);
   color: var(--baseFontColor);
   display: grid;
   grid-template-columns: $grid--columns;
@@ -28,6 +28,12 @@
   grid-column: tag-start / player-window;
   grid-row: 1;
   z-index: 1;
+  width: 100vw;
+  transition: width var(--duration--slow) var(--ease-in-out);
+
+  &.nowPlaying {
+    width: rem($tagWidth);
+  }
 }
 
 .jukebox__volume {
