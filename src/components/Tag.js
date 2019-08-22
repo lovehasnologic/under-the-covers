@@ -22,13 +22,7 @@ class Tag extends React.Component {
         }`}
         style={{ background: this.props.details.color.primary }}
       >
-        <Link
-          to={`/volume/${this.props.volume}`}
-          className="tag grid"
-          onClick={() => {
-            this.props.setActiveAlbum(this.props.volume);
-          }}
-        >
+        <Link to={`/volume/${this.props.volume}`} className="tag grid">
           <span className="tag__label">
             <span className="tag__volumeNumber">{this.props.volume}</span>
           </span>

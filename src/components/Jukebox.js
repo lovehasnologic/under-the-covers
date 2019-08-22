@@ -8,8 +8,7 @@ import volumes from "../data/volumes.json";
 class Jukebox extends React.Component {
   state = {
     volumes: {},
-    currentAlbum: "",
-    primaryColor: ""
+    currentAlbum: ""
   };
 
   componentDidMount() {
@@ -21,13 +20,12 @@ class Jukebox extends React.Component {
   setActiveAlbum = volumeNumber => {
     this.setState(
       {
-        currentAlbum: volumeNumber,
-        primaryColor: this.state.volumes[volumeNumber].color.primary
+        currentAlbum: volumeNumber
       },
       () =>
         document.documentElement.style.setProperty(
           "--bgColor",
-          this.state.primaryColor
+          this.state.volumes[this.state.currentAlbum].color.primary
         )
     );
   };
@@ -47,7 +45,13 @@ class Jukebox extends React.Component {
                 />
               )}
             />
-            <Route exact path="/volume/:volume" component={Album} />
+            <Route
+              exact
+              path="/volume/:volume"
+              render={props => (
+                <Album {...props} setActiveAlbum={this.setActiveAlbum} />
+              )}
+            />
           </Switch>
         </div>
         <ol
