@@ -1,82 +1,98 @@
 {
   "1": {
     "color": {
-      "primary": "#234968"
+      "primary": "#234968",
+      "secondary": "#f9b571"
     }
   },
   "2": {
     "color": {
-      "primary": "#992217"
+      "primary": "#992217",
+      "secondary": "#ffcfb6"
     }
   },
   "3": {
     "color": {
-      "primary": "#695929"
+      "primary": "#695929",
+      "secondary": "#f1a353"
     }
   },
   "4": {
     "color": {
-      "primary": "#6262a9"
+      "primary": "#6262a9",
+      "secondary": "#ffd41c"
     }
   },
   "5": {
     "color": {
-      "primary": "#1c3674"
+      "primary": "#1c3674",
+      "secondary": "#ffbf28"
     }
   },
   "6": {
     "color": {
-      "primary": "#2d3000"
+      "primary": "#2d3000",
+      "secondary": "#fafead"
     }
   },
   "7": {
     "color": {
-      "primary": "#541e15"
+      "primary": "#541e15",
+      "secondary": "#edb955"
     }
   },
   "8": {
     "color": {
-      "primary": "#e60427"
+      "primary": "#e60427",
+      "secondary": "#e9f3fe"
     }
   },
   "9": {
     "color": {
-      "primary": "#5e202c"
+      "primary": "#5e202c",
+      "secondary": "#dce0e1"
     }
   },
   "10": {
     "color": {
-      "primary": ""
+      "primary": "#5c3629",
+      "Secondary": "#b0d6ea"
     }
   },
   "11": {
     "color": {
-      "primary": ""
+      "primary": "#5e040e",
+      "secondary": "#ecbc40"
     }
   },
   "12": {
     "color": {
-      "primary": ""
+      "primary": "#883d1a",
+      "secondary": "#e7bc60"
     }
   },
   "13": {
     "color": {
-      "primary": ""
+      "primary": "#333333",
+      "secondary": "#979797"
     }
   },
   "14": {
     "color": {
-      "primary": ""
+      "primary": "#f3292f",
+      "secondary": "#f9f707"
     }
   },
   "15": {
     "color": {
-      "primary": ""
+      "primary": "#3b8354",
+      "secondary": "#fef66f"
     }
   },
   "16": {
     "color": {
-      "primary": ""
+      "primary": "#2d385f",
+      "secondary": "#f4b834"
     }
   }
 }
