@@ -38,7 +38,7 @@ class Jukebox extends React.Component {
         </div>
         <ol
           className={`jukebox__volumes grid ${
-            this.state.currentAlbum !== "" ? "nowPlaying" : ""
+            this.state.currentAlbum !== "" ? "albumSelected" : ""
           }`}
         >
           {Object.keys(this.state.volumes).map(volume => (

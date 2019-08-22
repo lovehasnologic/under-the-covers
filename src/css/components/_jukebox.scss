@@ -31,7 +31,7 @@
   width: 100vw;
   transition: width var(--duration--slow) var(--ease-in-out);
 
-  &.nowPlaying {
+  &.albumSelected {
     width: rem($tagWidth);
   }
 }
