@@ -1,6 +1,8 @@
 import React from "react";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Tag from "./Tag";
 import Artwork from "./Artwork";
+import Album from "./Album";
 import volumes from "../data/volumes.json";
 
 class Jukebox extends React.Component {
@@ -32,9 +34,21 @@ class Jukebox extends React.Component {
 
   render() {
     return (
-      <React.Fragment>
+      <Router>
         <div className="jukebox__player">
-          <Artwork volumeCount={Object.keys(this.state.volumes).length} />
+          <Switch>
+            <Route
+              exact
+              path="/"
+              render={props => (
+                <Artwork
+                  {...props}
+                  volumeCount={Object.keys(this.state.volumes).length}
+                />
+              )}
+            />
+            <Route exact path="/volume/:volume" component={Album} />
+          </Switch>
         </div>
         <ol
           className={`jukebox__volumes grid ${
@@ -51,7 +65,7 @@ class Jukebox extends React.Component {
             />
           ))}
         </ol>
-      </React.Fragment>
+      </Router>
     );
   }
 }

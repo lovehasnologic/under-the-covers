@@ -1,5 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
+import { Link } from "react-router-dom";
 
 class Tag extends React.Component {
   static propTypes = {
@@ -21,18 +22,17 @@ class Tag extends React.Component {
         }`}
         style={{ background: this.props.details.color.primary }}
       >
-        <a
-          href="/"
+        <Link
+          to={`/volume/${this.props.volume}`}
           className="tag grid"
-          onClick={e => {
-            e.preventDefault();
+          onClick={() => {
             this.props.setActiveAlbum(this.props.volume);
           }}
         >
           <span className="tag__label">
             <span className="tag__volumeNumber">{this.props.volume}</span>
           </span>
-        </a>
+        </Link>
       </li>
     );
   }
