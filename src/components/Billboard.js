@@ -3,8 +3,13 @@ import PropTypes from "prop-types";
 
 class Billboard extends React.Component {
   static propTypes = {
-    volumeCount: PropTypes.number
+    volumeCount: PropTypes.number,
+    clearAlbum: PropTypes.func
   };
+
+  componentDidMount() {
+    this.props.clearAlbum();
+  }
 
   render() {
     return (

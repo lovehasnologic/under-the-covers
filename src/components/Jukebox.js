@@ -30,10 +30,20 @@ class Jukebox extends React.Component {
     );
   };
 
+  clearAlbum = () => {
+    this.setState({
+      currentAlbum: ""
+    });
+  };
+
   render() {
     return (
       <Router>
-        <div className="jukebox__player">
+        <div
+          className={`jukebox__player ${
+            this.state.currentAlbum !== "" ? "loaded" : ""
+          }`}
+        >
           <Switch>
             <Route
               exact
@@ -42,6 +52,7 @@ class Jukebox extends React.Component {
                 <Billboard
                   {...props}
                   volumeCount={Object.keys(this.state.volumes).length}
+                  clearAlbum={this.clearAlbum}
                 />
               )}
             />
