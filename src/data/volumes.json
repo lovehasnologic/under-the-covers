@@ -1,95 +1,304 @@
 {
   "1": {
+    "tracklist": {
+      "1": {
+        "artist": "Doveman",
+        "title": "Airbag",
+        "album": "Stereogum Presents… OKX: A Tribute To OK Computer",
+        "original_artist": "Radiohead",
+        "url": "https://www.discogs.com/Various-OKX-A-Tribute-To-OK-Computer/release/1023910",
+        "notes": ""
+      },
+      "2": {
+        "artist": "Yo La Tengo",
+        "title": "Here Comes My Baby",
+        "album": "Fakebook",
+        "original_artist": "Cat Stevens",
+        "url": "https://www.discogs.com/Yo-La-Tengo-Fakebook/master/32451",
+        "notes": ""
+      },
+      "3": {
+        "artist": "We Versus The Shark",
+        "title": "Suddenly It's A Folk Song",
+        "album": "MurMurMur",
+        "original_artist": "Future Of The Left",
+        "url": "http://www.quoteunquoterecords.com/qur017.htm",
+        "notes": ""
+      },
+      "4": {
+        "artist": "Lifesavas",
+        "title": "Happiness",
+        "album": "To: Elliott, From: Portland",
+        "original_artist": "Elliott Smith",
+        "url": "https://www.discogs.com/master/view/976037",
+        "notes": ""
+      },
+      "5": {
+        "artist": "The Kitchen",
+        "title": "100%",
+        "album": "Multiplies/The Kitchen Split EP",
+        "original_artist": "Sonic Youth",
+        "url": "https://www.discogs.com/Kitchen-Multiplies-The-Kitchen-Multiplies/release/263846",
+        "notes": "The Kitchen is Manda from Bis and Ryan from Discount/The Monikers."
+      },
+      "6": {
+        "artist": "J Church",
+        "title": "Da Da Da",
+        "album": "My Favourite Place EP",
+        "original_artist": "Trio",
+        "url": "https://www.discogs.com/J-Church-My-Favorite-Place/master/417502",
+        "notes": ""
+      },
+      "7": {
+        "artist": "The Get Up Kids",
+        "title": "Close To Me",
+        "album": "Eudora",
+        "original_artist": "The Cure",
+        "url": "https://www.discogs.com/master/view/178199",
+        "notes": ""
+      },
+      "8": {
+        "artist": "Patti Smith",
+        "title": "Are You Experienced",
+        "album": "Twelve",
+        "original_artist": "Jimi Hendrix",
+        "url": "https://www.discogs.com/Patti-Smith-Twelve/master/113550",
+        "notes": ""
+      },
+      "9": {
+        "artist": "Ergquist",
+        "title": "Your Star Is Killing Me",
+        "album": "42,069 Seconds With… Ergquist",
+        "original_artist": "Chisel",
+        "url": "https://www.discogs.com/Ergquist-42069-Seconds-With/master/702757",
+        "notes": "Chisel was Ted Leo’s band before the Pharmacists."
+      },
+      "10": {
+        "artist": "Carissa's Wierd",
+        "title": "Asleep",
+        "album": "Scrap Book",
+        "original_artist": "The Smiths",
+        "url": "https://www.discogs.com/Carissas-Wierd-Scrap-Book/master/282691",
+        "notes": ""
+      },
+      "11": {
+        "artist": "The Cardigans",
+        "title": "Iron Man",
+        "album": "First Band On The Moon",
+        "original_artist": "Black Sabbath",
+        "url": "https://www.discogs.com/Cardigans-First-Band-On-The-Moon/master/50870",
+        "notes": ""
+      },
+      "12": {
+        "artist": "Bomb The Music Industry!",
+        "title": "Gold Soundz",
+        "album": "Under The Influence Vol. 3, split EP w/ Mustard Plug",
+        "original_artist": "Pavement",
+        "url": "https://www.discogs.com/Mustard-Plug-Bomb-The-Music-Industry-Under-The-Influence-Vol-3/master/403520",
+        "notes": ""
+      },
+      "13": {
+        "artist": "Atom And His Package",
+        "title": "Waiting Room",
+        "album": "A Society Of People Named Elihu",
+        "original_artist": "Fugazi",
+        "url": "https://www.discogs.com/master/view/310060",
+        "notes": ""
+      },
+      "14": {
+        "artist": "Unicorn Dream Attack",
+        "title": "Jamie",
+        "album": "Weezer: The 8-bit Album",
+        "original_artist": "Weezer",
+        "url": "https://www.discogs.com/Various-Weezer-The-8-Bit-Album/release/3108000",
+        "notes": ""
+      },
+      "15": {
+        "artist": "River City High",
+        "title": "Working For The Weekend",
+        "album": "Doghouse Records Fan Series Vol. 3 EP",
+        "original_artist": "Loverboy",
+        "url": "https://www.discogs.com/River-City-High-Working-For-The-Weekend-The-Boys-Are-Back-In-Town/release/2182023",
+        "notes": ""
+      },
+      "16": {
+        "artist": "The Vindictives",
+        "title": "Radio Radio",
+        "album": "Party Time For Assholes",
+        "original_artist": "Elvis Costello & The Attractions",
+        "url": "https://www.discogs.com/Vindictives-Party-Time-For-Assholes/master/340973",
+        "notes": ""
+      },
+      "17": {
+        "artist": "Lifetime",
+        "title": "It's Not Funny Anymore",
+        "album": "Hello Bastards",
+        "original_artist": "Hüsker Dü",
+        "url": "https://www.discogs.com/Lifetime-Hello-Bastards/master/148865",
+        "notes": ""
+      },
+      "18": {
+        "artist": "Baroness",
+        "title": "Descendents",
+        "album": "A Horse Called Golgotha EP",
+        "original_artist": "Bikeage",
+        "url": "https://www.discogs.com/Baroness-A-Horse-Called-Golgotha/master/274280",
+        "notes": ""
+      },
+      "19": {
+        "artist": "NOFX",
+        "title": "Straight Edge",
+        "album": "White Trash, Two Heebs And A Bean",
+        "original_artist": "Minor Threat",
+        "url": "https://www.discogs.com/NOFX-White-Trash-Two-Heebs-And-A-Bean/master/24711",
+        "notes": ""
+      },
+      "20": {
+        "artist": "Milemarker",
+        "title": "Tame",
+        "album": "Changing Caring Humans",
+        "original_artist": "Pixies",
+        "url": "https://www.discogs.com/Milemarker-Changing-Caring-Humans-1997-1999-A-Collection-Of-Singles-And-Compilation-Songs/release/1919414",
+        "notes": ""
+      },
+      "21": {
+        "artist": "Melt-Banana",
+        "title": "We Will Rock You",
+        "album": "Dynamite With A Laserbeam: Queen As Heard Through The Meat Grinder Of Three One G",
+        "original_artist": "Queen",
+        "url": "https://www.discogs.com/master/view/84596",
+        "notes": ""
+      },
+      "22": {
+        "artist": "Coalesce",
+        "title": "Immigrant Song",
+        "album": "There Is Nothing New Under The Sun",
+        "original_artist": "Led Zeppelin",
+        "url": "https://www.discogs.com/Coalesce-There-Is-Nothing-New-Under-The-Sun/master/127913",
+        "notes": ""
+      },
+      "23": {
+        "artist": "Alkaline Trio",
+        "title": "Two Lips, Two Lungs & One Tongue",
+        "album": "This Addiction",
+        "original_artist": "Nomeansno",
+        "url": "https://www.discogs.com/Alkaline-Trio-This-Addiction/release/8804696",
+        "notes": "This track was included as a bonus on the Japanese version of this album."
+      },
+      "24": {
+        "artist": "Melvins",
+        "title": "My Generation",
+        "album": "The Bride Screamed Murder",
+        "original_artist": "The Who",
+        "url": "https://www.discogs.com/Melvins-The-Bride-Screamed-Murder/master/307182",
+        "notes": ""
+      }
+    },
     "color": {
       "primary": "#234968",
       "secondary": "#f9b571"
     }
   },
   "2": {
+    "tracklist": {},
     "color": {
       "primary": "#992217",
       "secondary": "#ffcfb6"
     }
   },
   "3": {
+    "tracklist": {},
     "color": {
       "primary": "#695929",
       "secondary": "#f1a353"
     }
   },
   "4": {
+    "tracklist": {},
     "color": {
       "primary": "#6262a9",
       "secondary": "#ffd41c"
     }
   },
   "5": {
+    "tracklist": {},
     "color": {
       "primary": "#1c3674",
       "secondary": "#ffbf28"
     }
   },
   "6": {
+    "tracklist": {},
     "color": {
       "primary": "#2d3000",
       "secondary": "#fafead"
     }
   },
   "7": {
+    "tracklist": {},
     "color": {
       "primary": "#541e15",
       "secondary": "#edb955"
     }
   },
   "8": {
+    "tracklist": {},
     "color": {
       "primary": "#e60427",
       "secondary": "#e9f3fe"
     }
   },
   "9": {
+    "tracklist": {},
     "color": {
       "primary": "#5e202c",
       "secondary": "#dce0e1"
     }
   },
   "10": {
+    "tracklist": {},
     "color": {
       "primary": "#5c3629",
       "Secondary": "#b0d6ea"
     }
   },
   "11": {
+    "tracklist": {},
     "color": {
       "primary": "#5e040e",
       "secondary": "#ecbc40"
     }
   },
   "12": {
+    "tracklist": {},
     "color": {
       "primary": "#883d1a",
       "secondary": "#e7bc60"
     }
   },
   "13": {
+    "tracklist": {},
     "color": {
       "primary": "#333333",
       "secondary": "#979797"
     }
   },
   "14": {
+    "tracklist": {},
     "color": {
       "primary": "#f3292f",
       "secondary": "#f9f707"
     }
   },
   "15": {
+    "tracklist": {},
     "color": {
       "primary": "#3b8354",
       "secondary": "#fef66f"
     }
   },
   "16": {
+    "tracklist": {},
     "color": {
       "primary": "#2d385f",
       "secondary": "#f4b834"
