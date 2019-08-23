@@ -200,7 +200,176 @@
     }
   },
   "2": {
-    "tracklist": {},
+    "tracklist": {
+      "1": {
+        "artist": "The Mr. T Experience",
+        "title": "Sex Offender",
+        "album": "Sex Offender EP",
+        "original_artist": "Blondie",
+        "url": "https://www.discogs.com/Mr-T-Experience-Sex-Offender/master/470130",
+        "notes": "Released by Blondie as X-Offender."
+      },
+      "2": {
+        "artist": "Screeching Weasel",
+        "title": "Ain’t Got No Sense",
+        "album": "Wiggle",
+        "original_artist": "Teenage Head",
+        "url": "https://www.discogs.com/Screeching-Weasel-Wiggle/master/28774",
+        "notes": ""
+      },
+      "3": {
+        "artist": "They Might Be Giants",
+        "title": "New York City",
+        "album": "Dial-A-Song: 20 Years Of They Might Be Giants",
+        "original_artist": "Cub",
+        "url": "https://www.discogs.com/They-Might-Be-Giants-Dial-A-Song-20-Years-Of-They-Might-Be-Giants/master/25726",
+        "notes": ""
+      },
+      "4": {
+        "artist": "Lunchbox",
+        "title": "Here",
+        "album": "Everything Is Ending Here: A Tribute To Pavement",
+        "original_artist": "Pavement",
+        "url": "https://www.discogs.com/Various-Everything-Is-Ending-Here-A-Tribute-To-Pavement/release/1695561",
+        "notes": ""
+      },
+      "5": {
+        "artist": "The Gaslight Anthem",
+        "title": "Tumbling Dice",
+        "album": "Tumbling Dice EP",
+        "original_artist": "The Rolling Stones",
+        "url": "https://www.discogs.com/Gaslight-Anthem-Tumbling-Dice/master/290683",
+        "notes": ""
+      },
+      "6": {
+        "artist": "Mike Hale",
+        "title": "Turnstile",
+        "album": "Under The Influence Vol. 11, split EP w/ Joey Cape",
+        "original_artist": "Hot Water Music",
+        "url": "https://www.discogs.com/Joey-Cape-Mike-Hale-Under-The-Influence-Vol-11/master/238038",
+        "notes": "Mike Hale played in both Gunmoll and In The Red before going solo."
+      },
+      "7": {
+        "artist": "Jim Adkins",
+        "title": "Don't Act Like Your Heart Isn't Hard",
+        "album": "Love Don't Wait EP",
+        "original_artist": "Beck",
+        "url": "https://www.discogs.com/Jim-Adkins-Love-Dont-Wait/release/7555084",
+        "notes": ""
+      },
+      "8": {
+        "artist": "Billy Bragg",
+        "title": "That's Entertainment",
+        "album": "Workers Playtime",
+        "original_artist": "The Jam",
+        "url": "https://www.discogs.com/Billy-Bragg-Workers-Playtime/release/1959767",
+        "notes": ""
+      },
+      "9": {
+        "artist": "Andrew Jackson Jihad",
+        "title": "2 Headed Boy",
+        "album": "Under The Influence Vol. 6, split EP w/ Cobra Skulls",
+        "original_artist": "Neutral Milk Hotel",
+        "url": "https://www.discogs.com/Andrew-Jackson-Jihad-Cobra-Skulls-Under-The-Influence-Vol-6/master/247115",
+        "notes": "A few years ago Andrew Jackson Jihad changed their name to AJJ."
+      },
+      "10": {
+        "artist": "Resplendent",
+        "title": "Drink Deep",
+        "album": "Am I Free? I Am Free",
+        "original_artist": "Rites Of Spring",
+        "url": "https://www.discogs.com/Resplendent-Am-I-Free-I-Am-Free/release/1550969",
+        "notes": ""
+      },
+      "11": {
+        "artist": "Horse Feathers",
+        "title": "Drain You",
+        "album": "Drain You EP",
+        "original_artist": "Nirvana",
+        "url": "https://www.discogs.com/Horse-Feathers-Drain-You/release/2781528",
+        "notes": ""
+      },
+      "12": {
+        "artist": "Lemuria",
+        "title": "Alec Eiffel",
+        "album": "Under The Influence Vol. 7, split EP w/ Off With Their Heads",
+        "original_artist": "Pixies",
+        "url": "https://www.discogs.com/Lemuria-3-Off-With-Their-Heads-Under-The-Influence-Vol-7/master/254673",
+        "notes": ""
+      },
+      "13": {
+        "artist": "Against Me!",
+        "title": "Bastards Of Young",
+        "album": "We'll Inherit The Earth… A Tribute To The Replacements",
+        "original_artist": "The Replacements",
+        "url": "https://www.discogs.com/Various-Well-Inherit-The-EarthA-Tribute-To-The-Replacements/release/3704719",
+        "notes": ""
+      },
+      "14": {
+        "artist": "Lucero",
+        "title": "Kiss The Bottle",
+        "album": "My Best Girl EP",
+        "original_artist": "Jawbreaker",
+        "url": "https://www.discogs.com/Lucero-My-Best-Girl-Kiss-The-Bottle/release/2934802",
+        "notes": ""
+      },
+      "15": {
+        "artist": "Nada Surf",
+        "title": "Enjoy The Silence",
+        "album": "If I Had A Hi-Fi",
+        "original_artist": "Depeche Mode",
+        "url": "https://www.discogs.com/Nada-Surf-If-I-Had-A-Hi-Fi/master/287206",
+        "notes": ""
+      },
+      "16": {
+        "artist": "Sara Quin (feat. Kaki King)",
+        "title": "Sweetness Follows",
+        "album": "Stereogum Presents… Drive XV: A Tribute to Automatic For the People",
+        "original_artist": "R.E.M.",
+        "url": "https://www.discogs.com/Various-Drive-XV-A-Tribute-To-Automatic-For-The-People/release/1808330",
+        "notes": ""
+      },
+      "17": {
+        "artist": "Ryan Adams",
+        "title": "Wonderwall",
+        "album": "Love Is Hell",
+        "original_artist": "Oasis",
+        "url": "https://www.discogs.com/Ryan-Adams-Love-Is-Hell/master/20728",
+        "notes": ""
+      },
+      "18": {
+        "artist": "Jawbreaker",
+        "title": "Into You Like A Train",
+        "album": "Etc.",
+        "original_artist": "The Psychedelic Furs",
+        "url": "https://www.discogs.com/Jawbreaker-Etc/master/16571",
+        "notes": ""
+      },
+      "19": {
+        "artist": "Fight Like Apes",
+        "title": "Lightsabre Cocksucking Blues",
+        "album": "Fight Like Apes And The Mystery Of The Golden Medallion",
+        "original_artist": "Mclusky",
+        "url": "https://www.discogs.com/Fight-Like-Apes-Fight-Like-Apes-And-The-Mystery-Of-The-Golden-Medallion/release/6934812",
+        "notes": "This track was added onto the 2CD edition of this album."
+      },
+      "20": {
+        "artist": "7 Seconds",
+        "title": "These Boots Are Made For Walking",
+        "album": "Old School",
+        "original_artist": "Nancy Sinatra",
+        "url": "https://www.discogs.com/7-Seconds-Old-School/master/17248",
+        "notes": ""
+      },
+      "21": {
+        "artist": "The Hope Conspiracy",
+        "title": "Treason",
+        "album": "File03",
+        "original_artist": "Naked Raygun",
+        "url": "https://www.discogs.com/Hope-Conspiracy-File03/master/439758",
+        "notes": ""
+      }
+    },
     "color": {
       "primary": "#992217",
       "secondary": "#ffcfb6"
