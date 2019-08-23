@@ -10,7 +10,7 @@
 // -- Artwork
 // -----------------------------------------------------------------------------
 
-.artwork {
+.billboard {
   text-align: center;
   min-height: 100vh;
   display: flex;
@@ -24,7 +24,7 @@
 // -- Title
 // -----------------------------------------------------------------------------
 
-.artwork__title {
+.billboard__title {
   font-family: var(--font--deco);
   font-weight: normal;
   font-size: 14vw;
@@ -37,16 +37,16 @@
   }
 }
 
-.artwork__title--under {
+.billboard__title--under {
   font-size: 1.078838174em;
   transform: translateX(0.215em);
 }
-.artwork__title--the {
+.billboard__title--the {
   transform: rotate(90deg) translateX(-104%) translateY(-0.675em);
   transform-origin: left bottom;
   font-size: 0.37em;
 }
-.artwork__title--covers {
+.billboard__title--covers {
   transform: translateY(-0.4em);
 }
 
@@ -54,12 +54,12 @@
 // -- Description
 // -----------------------------------------------------------------------------
 
-.artwork__description {
+.billboard__description {
   margin: 0;
   line-height: 1;
 }
 
-.artwork__count {
+.billboard__count {
   font-weight: normal;
   font-family: var(--font--deco);
   font-size: 2.4em;
