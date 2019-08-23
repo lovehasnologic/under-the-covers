@@ -43,6 +43,7 @@ class Jukebox extends React.Component {
           volumes={this.state.volumes}
           clearAlbum={this.clearAlbum}
           setActiveAlbum={this.setActiveAlbum}
+          albumDetails={this.state.albumDetails}
         />
         <Selections
           volumes={this.state.volumes}
