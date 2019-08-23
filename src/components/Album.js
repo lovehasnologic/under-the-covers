@@ -4,6 +4,10 @@ import { Link } from "react-router-dom";
 import Track from "./Track";
 
 class Album extends React.Component {
+  state = {
+    selectedTrack: ""
+  };
+
   static propTypes = {
     setActiveAlbum: PropTypes.func,
     match: PropTypes.object,
@@ -24,18 +28,30 @@ class Album extends React.Component {
 
   renderTracklist(currentAlbum) {
     if (currentAlbum in this.props.volumes) {
+      document.documentElement.style.setProperty(
+        "--accentColor",
+        this.props.volumes[currentAlbum].color.secondary
+      );
       const tracklist = this.props.volumes[currentAlbum].tracklist;
       return Object.keys(tracklist).map(track => (
         <Track
-          track={tracklist[track]}
+          trackDetails={tracklist[track]}
+          trackNumber={track}
           key={track}
           accentColor={this.props.volumes[currentAlbum].color.secondary}
+          selectedTrack={this.props.selectedTrack}
         />
       ));
     } else {
       return false;
     }
   }
+
+  selectedTrack = track => {
+    this.setState({
+      selectedTrack: track
+    });
+  };
 
   render() {
     const currentAlbum = this.props.currentAlbum;
