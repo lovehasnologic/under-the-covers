@@ -1,8 +1,7 @@
 import React from "react";
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-import Tag from "./Tag";
-import Billboard from "./Billboard";
-import Album from "./Album";
+import { BrowserRouter as Router } from "react-router-dom";
+import Selections from "./Selections";
+import PlayerWindow from "./PlayerWindow";
 import volumes from "../data/volumes.json";
 
 class Jukebox extends React.Component {
@@ -39,47 +38,17 @@ class Jukebox extends React.Component {
   render() {
     return (
       <Router>
-        <div
-          className={`jukebox__player ${
-            this.state.currentAlbum !== "" ? "loaded" : ""
-          }`}
-        >
-          <Switch>
-            <Route
-              exact
-              path="/"
-              render={props => (
-                <Billboard
-                  {...props}
-                  volumeCount={Object.keys(this.state.volumes).length}
-                  clearAlbum={this.clearAlbum}
-                />
-              )}
-            />
-            <Route
-              exact
-              path="/volume/:volume"
-              render={props => (
-                <Album {...props} setActiveAlbum={this.setActiveAlbum} />
-              )}
-            />
-          </Switch>
-        </div>
-        <ol
-          className={`jukebox__volumes grid ${
-            this.state.currentAlbum !== "" ? "albumSelected" : ""
-          }`}
-        >
-          {Object.keys(this.state.volumes).map(volume => (
-            <Tag
-              details={this.state.volumes[volume]}
-              volume={volume}
-              key={volume}
-              currentAlbum={this.state.currentAlbum}
-              setActiveAlbum={this.setActiveAlbum}
-            />
-          ))}
-        </ol>
+        <PlayerWindow
+          currentAlbum={this.state.currentAlbum}
+          volumes={this.state.volumes}
+          clearAlbum={this.clearAlbum}
+          setActiveAlbum={this.setActiveAlbum}
+        />
+        <Selections
+          volumes={this.state.volumes}
+          currentAlbum={this.state.currentAlbum}
+          setActiveAlbum={this.setActiveAlbum}
+        />
       </Router>
     );
   }
