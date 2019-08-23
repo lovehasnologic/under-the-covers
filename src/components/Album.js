@@ -1,5 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
+import { Link } from "react-router-dom";
 
 class Album extends React.Component {
   static propTypes = {
@@ -20,7 +21,12 @@ class Album extends React.Component {
   }
 
   render() {
-    return <h2>Album Info Goes Here</h2>;
+    return (
+      <React.Fragment>
+        <h2>Album Info Goes Here</h2>
+        <Link to="/">Close &times;</Link>
+      </React.Fragment>
+    );
   }
 }
 
