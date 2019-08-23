@@ -1,0 +1,92 @@
+// -----------------------------------------------------------------------------
+//  Table of Contents
+//
+//  - Variables
+//  - Album
+//  - Tracklist
+//  - Track
+// -----------------------------------------------------------------------------
+
+// -----------------------------------------------------------------------------
+// -- Variables
+// -----------------------------------------------------------------------------
+
+$albumPadding: rem(50);
+
+// -----------------------------------------------------------------------------
+// -- Album
+// -----------------------------------------------------------------------------
+
+.album {
+  display: flex;
+  flex-wrap: wrap;
+  margin: $albumPadding / 2;
+  position: relative;
+}
+
+.album__artwork {
+  flex: 1;
+  flex-basis: 30vw;
+  position: sticky;
+  top: $albumPadding;
+  margin: $albumPadding / 2;
+}
+
+.album__tracklist {
+  flex: 999;
+  min-width: 50%;
+  padding: $albumPadding / 2;
+  list-style: none;
+  margin: 0;
+  counter-reset: tracklisting;
+}
+
+// -----------------------------------------------------------------------------
+// -- Tracklist
+// -----------------------------------------------------------------------------
+
+// -----------------------------------------------------------------------------
+// -- Track
+// -----------------------------------------------------------------------------
+
+.track {
+  padding: 0.25em;
+  padding-left: 2em;
+  font-size: 0.8em;
+  counter-increment: tracklisting;
+  position: relative;
+
+  &::before {
+    content: counter(tracklisting);
+    position: absolute;
+    right: calc(100% - #{rem(24)});
+    font-weight: bold;
+    color: var(--accentColor, var(--baseFontColor));
+  }
+
+  a {
+    color: var(--accentColor, var(--baseFontColor));
+  }
+
+  &:hover,
+  &.track--selected {
+    background: rgba(255, 255, 255, 0.2);
+  }
+
+  &.track--selected {
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+  }
+}
+
+.track__info {
+  display: none;
+
+  p {
+    margin: 0.25em 0 0;
+  }
+
+  .track--selected & {
+    display: block;
+  }
+}

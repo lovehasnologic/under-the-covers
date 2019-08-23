@@ -217,7 +217,7 @@
 		},
 	"/public/assets/images/1/1500.jpg": {
 		"ft": 16384,
-		"iS": 250570,
+		"iS": 392397,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/1/1500.jpg",
@@ -943,7 +943,7 @@
 		},
 	"/public/assets/images/2/2400.jpg": {
 		"ft": 16384,
-		"iS": 430804,
+		"iS": 301043,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/2/.2400~imageoptim.jpg",
@@ -987,7 +987,7 @@
 		},
 	"/public/assets/images/2/900.jpg": {
 		"ft": 16384,
-		"iS": 80313,
+		"iS": 122795,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/public/assets/images/2/900.jpg",
@@ -998,7 +998,7 @@
 		},
 	"/public/assets/images/3/1200.jpg": {
 		"ft": 16384,
-		"iS": 191951,
+		"iS": 310593,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/3/1200.jpg",
@@ -1196,7 +1196,7 @@
 		},
 	"/public/assets/images/5/1800.jpg": {
 		"ft": 16384,
-		"iS": 643058,
+		"iS": 416007,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/5/1800.jpg",
@@ -1317,7 +1317,7 @@
 		},
 	"/public/assets/images/6/400.jpg": {
 		"ft": 16384,
-		"iS": 26951,
+		"iS": 42913,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/6/.400~imageoptim.jpg",
@@ -1328,7 +1328,7 @@
 		},
 	"/public/assets/images/6/600.jpg": {
 		"ft": 16384,
-		"iS": 78025,
+		"iS": 50239,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/public/assets/images/6/600.jpg",
@@ -1350,7 +1350,7 @@
 		},
 	"/public/assets/images/7/1200.jpg": {
 		"ft": 16384,
-		"iS": 269752,
+		"iS": 154477,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/7/1200.jpg",
@@ -1394,7 +1394,7 @@
 		},
 	"/public/assets/images/7/300.jpg": {
 		"ft": 16384,
-		"iS": 16350,
+		"iS": 25901,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/7/300.jpg",
@@ -1548,7 +1548,7 @@
 		},
 	"/public/assets/images/9/1800.jpg": {
 		"ft": 16384,
-		"iS": 526134,
+		"iS": 339307,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/9/1800.jpg",
@@ -1795,7 +1795,7 @@
 		"oS": 3,
 		"uL": 1
 		},
-	"/src/css/components/_artwork.scss": {
+	"/src/css/components/_album.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
@@ -1803,7 +1803,20 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "/public/assets/css/components/_artwork.css",
+		"oAP": "/public/assets/css/components/_album.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/src/css/components/_billboard.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "/public/assets/css/components/_billboard.css",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1

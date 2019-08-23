@@ -17,6 +17,6 @@ $grid--columns: [tag-start] rem($tagWidth) [tag-end] 1fr [player-window];
 .grid {
   display: grid;
   grid-template-columns: $grid--columns;
-  grid-auto-rows: (100 / 8.5) * 1vh; // Show 8 1/2 Volumes in one screen)
+  grid-auto-rows: (100 / $rows) * 1vh;
   grid-gap: 0;
 }
