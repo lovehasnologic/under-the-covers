@@ -60,7 +60,7 @@ $albumPadding: rem(50);
     content: counter(tracklisting);
     position: absolute;
     right: calc(100% - #{rem(24)});
-    font-weight: bold;
+    font-weight: 900;
     color: var(--accentColor, var(--baseFontColor));
   }
 
@@ -75,11 +75,6 @@ $albumPadding: rem(50);
 
   &:hover {
     cursor: pointer;
-  }
-
-  &.track--selected {
-    padding-top: 0.5em;
-    padding-bottom: 0.5em;
   }
 }
 
