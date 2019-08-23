@@ -26,6 +26,12 @@ class Album extends React.Component {
     }
   }
 
+  handleTrackLoading = track => {
+    this.setState({
+      selectedTrack: track === this.state.selectedTrack ? "" : track
+    });
+  };
+
   renderTracklist(currentAlbum) {
     if (currentAlbum in this.props.volumes) {
       document.documentElement.style.setProperty(
@@ -39,19 +45,14 @@ class Album extends React.Component {
           trackNumber={track}
           key={track}
           accentColor={this.props.volumes[currentAlbum].color.secondary}
-          selectedTrack={this.props.selectedTrack}
+          selectedTrack={this.state.selectedTrack}
+          handleTrackLoading={this.handleTrackLoading}
         />
       ));
     } else {
       return false;
     }
   }
-
-  selectedTrack = track => {
-    this.setState({
-      selectedTrack: track
-    });
-  };
 
   render() {
     const currentAlbum = this.props.currentAlbum;

@@ -13,7 +13,8 @@ class Track extends React.Component {
     }),
     trackNumber: PropTypes.string,
     accentColor: PropTypes.string,
-    selectedTrack: PropTypes.string
+    selectedTrack: PropTypes.string,
+    loadTrack: PropTypes.func
   };
 
   hasNotes(notes) {
@@ -39,6 +40,7 @@ class Track extends React.Component {
             ? "track--selected"
             : ""
         }`}
+        onClick={() => this.props.handleTrackLoading(this.props.trackNumber)}
       >
         <strong className="track__artist">{artist}</strong> {title}{" "}
         <em className="track__originalArtist">({original_artist})</em>

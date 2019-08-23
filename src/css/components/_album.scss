@@ -70,7 +70,11 @@ $albumPadding: rem(50);
 
   &:hover,
   &.track--selected {
-    background: rgba(255, 255, 255, 0.2);
+    background: rgba(255, 255, 255, 0.15);
+  }
+
+  &:hover {
+    cursor: pointer;
   }
 
   &.track--selected {
