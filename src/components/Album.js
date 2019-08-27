@@ -16,6 +16,12 @@ class Album extends React.Component {
 
   componentDidMount() {
     this.props.setActiveAlbum(this.props.match.params.volume);
+
+    if (this.props.match.params.track) {
+      this.setState({
+        selectedTrack: this.props.match.params.track
+      });
+    }
   }
 
   componentDidUpdate(prevProps, prevState) {
@@ -24,12 +30,25 @@ class Album extends React.Component {
     if (selectedAlbum !== previousAlbum) {
       this.props.setActiveAlbum(selectedAlbum);
     }
+    console.log(this.props.match);
+    if (this.props.match.params.track !== prevProps.match.params.track) {
+      this.setState({
+        selectedTrack: this.props.match.params.track
+      });
+    }
   }
 
   handleTrackLoading = track => {
     this.setState({
       selectedTrack: track === this.state.selectedTrack ? "" : track
     });
+    if (track === this.props.match.params.track) {
+      this.props.history.push(`/volume/${this.props.match.params.volume}`);
+    } else {
+      this.props.history.push(
+        `/volume/${this.props.match.params.volume}/track/${track}`
+      );
+    }
   };
 
   renderTracklist(currentAlbum) {
@@ -41,6 +60,8 @@ class Album extends React.Component {
       const tracklist = this.props.volumes[currentAlbum].tracklist;
       return Object.keys(tracklist).map(track => (
         <Track
+          match={this.props.match}
+          volume={currentAlbum}
           trackDetails={tracklist[track]}
           trackNumber={track}
           key={track}

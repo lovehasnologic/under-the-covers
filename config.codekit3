@@ -283,7 +283,7 @@
 		},
 	"/public/assets/images/1/900.jpg": {
 		"ft": 16384,
-		"iS": 112465,
+		"iS": 178392,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/1/900.jpg",
@@ -932,7 +932,7 @@
 		},
 	"/public/assets/images/2/1800.jpg": {
 		"ft": 16384,
-		"iS": 202346,
+		"iS": 291827,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/public/assets/images/2/1800.jpg",
@@ -987,7 +987,7 @@
 		},
 	"/public/assets/images/2/900.jpg": {
 		"ft": 16384,
-		"iS": 80313,
+		"iS": 122795,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/public/assets/images/2/900.jpg",
@@ -1317,7 +1317,7 @@
 		},
 	"/public/assets/images/6/400.jpg": {
 		"ft": 16384,
-		"iS": 26951,
+		"iS": 42913,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/6/.400~imageoptim.jpg",
@@ -1350,7 +1350,7 @@
 		},
 	"/public/assets/images/7/1200.jpg": {
 		"ft": 16384,
-		"iS": 154477,
+		"iS": 269752,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/7/1200.jpg",
@@ -1526,7 +1526,7 @@
 		},
 	"/public/assets/images/9/1200.jpg": {
 		"ft": 16384,
-		"iS": 301109,
+		"iS": 183898,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/9/1200.jpg",
@@ -1548,7 +1548,7 @@
 		},
 	"/public/assets/images/9/1800.jpg": {
 		"ft": 16384,
-		"iS": 526134,
+		"iS": 339307,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/9/1800.jpg",
@@ -1603,7 +1603,7 @@
 		},
 	"/public/assets/images/9/900.jpg": {
 		"ft": 16384,
-		"iS": 186020,
+		"iS": 112724,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/9/900.jpg",

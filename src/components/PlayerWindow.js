@@ -43,6 +43,18 @@ class PlayerWindow extends React.Component {
               />
             )}
           />
+          <Route
+            exact
+            path="/volume/:volume/track/:track"
+            render={props => (
+              <Album
+                {...props}
+                currentAlbum={this.props.currentAlbum}
+                setActiveAlbum={this.props.setActiveAlbum}
+                volumes={this.props.volumes}
+              />
+            )}
+          />
         </Switch>
       </div>
     );

@@ -14,7 +14,8 @@ class Track extends React.Component {
     trackNumber: PropTypes.string,
     accentColor: PropTypes.string,
     selectedTrack: PropTypes.string,
-    loadTrack: PropTypes.func
+    loadTrack: PropTypes.func,
+    volume: PropTypes.string
   };
 
   hasNotes(notes) {
