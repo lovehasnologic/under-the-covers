@@ -38,17 +38,17 @@ class Jukebox extends React.Component {
   render() {
     return (
       <Router>
+        <Selections
+          volumes={this.state.volumes}
+          currentAlbum={this.state.currentAlbum}
+          setActiveAlbum={this.setActiveAlbum}
+        />
         <PlayerWindow
           currentAlbum={this.state.currentAlbum}
           volumes={this.state.volumes}
           clearAlbum={this.clearAlbum}
           setActiveAlbum={this.setActiveAlbum}
           albumDetails={this.state.albumDetails}
-        />
-        <Selections
-          volumes={this.state.volumes}
-          currentAlbum={this.state.currentAlbum}
-          setActiveAlbum={this.setActiveAlbum}
         />
       </Router>
     );

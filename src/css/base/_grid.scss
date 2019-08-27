@@ -9,6 +9,7 @@
 // -----------------------------------------------------------------------------
 
 $grid--columns: [tag-start] rem($tagWidth) [tag-end] 1fr [player-window];
+$grid--rows: (100 / $rows) * 1vh;
 
 // -----------------------------------------------------------------------------
 // -- Grid
@@ -17,6 +18,6 @@ $grid--columns: [tag-start] rem($tagWidth) [tag-end] 1fr [player-window];
 .grid {
   display: grid;
   grid-template-columns: $grid--columns;
-  grid-auto-rows: (100 / $rows) * 1vh;
   grid-gap: 0;
+  grid-auto-rows: $grid--rows;
 }

@@ -11,7 +11,7 @@
 // -- Variables
 // -----------------------------------------------------------------------------
 
-$albumPadding: rem(50);
+$albumPadding: $grid--rows;
 
 // -----------------------------------------------------------------------------
 // -- Album
@@ -20,16 +20,23 @@ $albumPadding: rem(50);
 .album {
   display: flex;
   flex-wrap: wrap;
-  margin: $albumPadding / 2;
-  position: relative;
+  flex-wrap: wrap;
+  position: sticky;
+  top: 0;
+  bottom: 0;
+  align-self: center;
+  padding: $albumPadding / 2;
+  padding-right: 0;
+  align-items: flex-start;
 }
 
 .album__artwork {
   flex: 1;
   flex-basis: 30vw;
   position: sticky;
-  top: $albumPadding;
-  margin: $albumPadding / 2;
+  top: 0;
+  padding: $albumPadding / 2;
+  padding-right: 0;
 }
 
 .album__tracklist {
@@ -39,6 +46,14 @@ $albumPadding: rem(50);
   list-style: none;
   margin: 0;
   counter-reset: tracklisting;
+}
+
+.album__close {
+  color: var(--baseFontColor);
+  position: fixed;
+  top: 0;
+  right: 0;
+  z-index: 50;
 }
 
 // -----------------------------------------------------------------------------

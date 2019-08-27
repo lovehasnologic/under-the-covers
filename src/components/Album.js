@@ -71,7 +71,9 @@ class Album extends React.Component {
             {this.renderTracklist(currentAlbum)}
           </ol>
         </div>
-        <Link to="/">Close &times;</Link>
+        <Link to="/" className="album__close">
+          Close &times;
+        </Link>
       </React.Fragment>
     );
   }
