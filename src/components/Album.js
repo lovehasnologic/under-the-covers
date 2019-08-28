@@ -30,7 +30,6 @@ class Album extends React.Component {
     if (selectedAlbum !== previousAlbum) {
       this.props.setActiveAlbum(selectedAlbum);
     }
-    console.log(this.props.match);
     if (this.props.match.params.track !== prevProps.match.params.track) {
       this.setState({
         selectedTrack: this.props.match.params.track
