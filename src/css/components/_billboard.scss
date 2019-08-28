@@ -11,13 +11,13 @@
 // -----------------------------------------------------------------------------
 
 .billboard {
-  text-align: center;
-  min-height: 100vh;
+  position: sticky;
+  top: 0;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  position: sticky;
-  top: 0;
+  min-height: 100vh;
+  text-align: center;
 }
 
 // -----------------------------------------------------------------------------
@@ -26,28 +26,30 @@
 
 .billboard__title {
   font-family: var(--font--deco);
-  font-weight: normal;
   font-size: 14vw;
-  text-transform: uppercase;
+  font-weight: normal;
   margin: 0;
+  text-transform: uppercase;
 
   * {
-    display: inline-block;
     line-height: 1;
+    display: inline-block;
   }
 }
 
 .billboard__title--under {
   font-size: 1.078838174em;
-  transform: translateX(0.215em);
+  transform: translateX(.215em);
 }
+
 .billboard__title--the {
-  transform: rotate(90deg) translateX(-104%) translateY(-0.675em);
+  font-size: .37em;
+  transform: rotate(90deg) translateX(-104%) translateY(-.675em);
   transform-origin: left bottom;
-  font-size: 0.37em;
 }
+
 .billboard__title--covers {
-  transform: translateY(-0.4em);
+  transform: translateY(-.4em);
 }
 
 // -----------------------------------------------------------------------------
@@ -55,19 +57,19 @@
 // -----------------------------------------------------------------------------
 
 .billboard__description {
-  margin: 0;
   line-height: 1;
+  margin: 0;
 }
 
 .billboard__count {
-  font-weight: normal;
   font-family: var(--font--deco);
   font-size: 2.4em;
+  font-weight: normal;
   line-height: 0;
 
   &:after {
-    content: " ";
-    font-size: 0.5em;
+    font-size: .5em;
     line-height: 0;
+    content: ' ';
   }
 }

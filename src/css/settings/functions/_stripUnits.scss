@@ -19,7 +19,7 @@
 // -----------------------------------------------------------------------------
 
 @function stripUnits($num) {
-  @if type-of($num) == "number" and not unitless($num) {
+  @if type-of($num) == 'number' and not unitless($num) {
     @return $num / ($num * 0 + 1);
   }
 

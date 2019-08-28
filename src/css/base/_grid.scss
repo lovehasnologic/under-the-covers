@@ -17,7 +17,8 @@ $grid--rows: (100 / $rows) * 1vh;
 
 .grid {
   display: grid;
-  grid-template-columns: $grid--columns;
-  grid-gap: 0;
+
   grid-auto-rows: $grid--rows;
+  grid-gap: 0;
+  grid-template-columns: $grid--columns;
 }

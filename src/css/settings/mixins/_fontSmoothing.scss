@@ -15,7 +15,7 @@
   @if $value == on {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    font-smoothing: antialiased;
+            font-smoothing: antialiased;
   }
 
   @else {
