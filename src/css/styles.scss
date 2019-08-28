@@ -13,30 +13,30 @@
 // -- Fonts
 // -----------------------------------------------------------------------------
 
-@import "vendors/fonts";
+@import 'vendors/fonts';
 
 // -----------------------------------------------------------------------------
 // -- Settings
 // -----------------------------------------------------------------------------
 
 // Variables
-@import "settings/variables";
+@import 'settings/variables';
 
 // Functions
-@import "settings/functions/stripUnits";
-@import "settings/functions/pem";
-@import "settings/functions/rem";
+@import 'settings/functions/stripUnits';
+@import 'settings/functions/pem';
+@import 'settings/functions/rem';
 
 // Mixins
-@import "settings/mixins/breakpoints";
-@import "settings/mixins/fontSmoothing";
+@import 'settings/mixins/breakpoints';
+@import 'settings/mixins/fontSmoothing';
 
 // -----------------------------------------------------------------------------
 // -- Base
 // -----------------------------------------------------------------------------
 
-@import "base/reset";
-@import "base/grid";
+@import 'base/reset';
+@import 'base/grid';
 //
 // @import "base/layout";
 // @import "base/typography";
@@ -46,10 +46,11 @@
 // -- Components
 // -----------------------------------------------------------------------------
 
-@import "components/album";
-@import "components/Billboard";
-@import "components/jukebox";
-@import "components/tag";
+@import 'components/album';
+@import 'components/billboard';
+@import 'components/jukebox';
+@import 'components/stats'
+@import 'components/tag';
 // @import "components/carousel";
 // @import "components/charts";
 // @import "components/sectionTypography";

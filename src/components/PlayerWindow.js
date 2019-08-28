@@ -3,6 +3,7 @@ import PropTypes from "prop-types";
 import { Switch, Route } from "react-router-dom";
 import Billboard from "./Billboard";
 import Album from "./Album";
+import Stats from "./Stats";
 
 class PlayerWindow extends React.Component {
   static propTypes = {
@@ -30,6 +31,11 @@ class PlayerWindow extends React.Component {
                 clearAlbum={this.props.clearAlbum}
               />
             )}
+          />
+          <Route
+            exact
+            path="/stats"
+            render={props => <Stats {...props} volumes={this.props.volumes} />}
           />
           <Route
             exact
