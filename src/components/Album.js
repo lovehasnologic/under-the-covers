@@ -81,12 +81,15 @@ class Album extends React.Component {
     return (
       <React.Fragment>
         <div className="album">
-          <figure className="album__artwork">
+          <figure className="album__jacket">
             <img
+              className="album__cover"
               src={`/assets/images/${currentAlbum}/2400.jpg`}
               alt={`Under The Covers, Vol. ${currentAlbum} Cover Artwork`}
             />
-            <Link to="/">Download Volume {currentAlbum}</Link>
+            <Link to="/" className="album__download">
+              Download Volume {currentAlbum}
+            </Link>
           </figure>
           <ol className="album__tracklist">
             {this.renderTracklist(currentAlbum)}

@@ -30,13 +30,18 @@ $albumPadding: $grid--rows;
   align-items: flex-start;
 }
 
-.album__artwork {
+.album__jacket {
   flex: 1;
   flex-basis: 30vw;
   position: sticky;
   top: 0;
   padding: $albumPadding / 2;
   padding-right: 0;
+}
+
+.album__cover {
+  border-radius: 4px;
+  box-shadow: 0 8px 16px -4px rgba(0, 0, 0, 0.5);
 }
 
 .album__tracklist {
