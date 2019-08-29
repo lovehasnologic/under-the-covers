@@ -1,0 +1,29 @@
+// -----------------------------------------------------------------------------
+//  Table of Contents
+//
+//  - Close Button
+// -----------------------------------------------------------------------------
+
+// -----------------------------------------------------------------------------
+// -- Close Button
+// -----------------------------------------------------------------------------
+
+.close {
+  font-size: 2em;
+  font-weight: 900;
+  line-height: 0;
+  position: fixed;
+  z-index: 50;
+  top: $grid--rows / 2;
+  left: calc(#{$tagWidth} + #{$grid--rows / 2});
+  display: block;
+  transition: transform var(--duration) var(--ease-in-out);
+  transform: translateX(-50%);
+  text-decoration: none;
+  color: var(--baseFontColor);
+
+  &:hover,
+  &:focus {
+    transform: translateX(-50%) scale(1.5);
+  }
+}

@@ -2,6 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import { Link } from "react-router-dom";
 import Track from "./Track";
+import Close from "./Close";
 
 class Album extends React.Component {
   state = {
@@ -94,9 +95,7 @@ class Album extends React.Component {
             {this.renderTracklist(currentAlbum)}
           </ol>
         </div>
-        <Link to="/" className="album__close">
-          Close &times;
-        </Link>
+        <Close />
       </React.Fragment>
     );
   }

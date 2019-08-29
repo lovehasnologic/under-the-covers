@@ -53,14 +53,6 @@ $albumPadding: $grid--rows;
   counter-reset: tracklisting;
 }
 
-.album__close {
-  position: fixed;
-  z-index: 50;
-  top: 0;
-  right: 0;
-  color: var(--baseFontColor);
-}
-
 // -----------------------------------------------------------------------------
 // -- Tracklist
 // -----------------------------------------------------------------------------

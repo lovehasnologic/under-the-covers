@@ -1,5 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
+import Close from "./Close";
 
 class Stats extends React.Component {
   static propTypes = {
@@ -62,6 +63,7 @@ class Stats extends React.Component {
             </li>
           ))}
         </ol>
+        <Close />
       </React.Fragment>
     );
   }
