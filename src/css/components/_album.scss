@@ -28,12 +28,12 @@ $albumPadding: $grid--rows;
   flex-wrap: wrap;
   padding: $albumPadding / 2;
   padding-right: 0;
+  justify-content: center;
 }
 
 .album__jacket {
   position: sticky;
   top: 0;
-  flex: 1;
   flex-basis: 30vw;
   padding: $albumPadding / 2;
   padding-right: 0;
@@ -45,7 +45,6 @@ $albumPadding: $grid--rows;
 }
 
 .album__tracklist {
-  flex: 999;
   min-width: 50%;
   margin: 0;
   padding: $albumPadding / 2;
