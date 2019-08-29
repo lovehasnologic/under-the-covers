@@ -26,9 +26,9 @@ $albumPadding: $grid--rows;
   align-self: center;
   flex-wrap: wrap;
   flex-wrap: wrap;
+  justify-content: center;
   padding: $albumPadding / 2;
   padding-right: 0;
-  justify-content: center;
 }
 
 .album__jacket {
