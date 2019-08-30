@@ -23,11 +23,14 @@ class Jukebox extends React.Component {
       {
         currentAlbum: volumeNumber
       },
-      () =>
+      () => {
         document.documentElement.style.setProperty(
           "--bgColor",
-          this.state.volumes[this.state.currentAlbum].color.primary
-        )
+          volumeNumber > 0
+            ? this.state.volumes[this.state.currentAlbum].color.primary
+            : ""
+        );
+      }
     );
   };
 

@@ -7,7 +7,8 @@ class Stats extends React.Component {
     volumes: PropTypes.object.isRequired,
     artists: PropTypes.array.isRequired,
     original_artists: PropTypes.array.isRequired,
-    rankUniqueValues: PropTypes.func.isRequired
+    rankUniqueValues: PropTypes.func.isRequired,
+    setActiveAlbum: PropTypes.func.isRequired
   };
 
   state = {
@@ -16,7 +17,7 @@ class Stats extends React.Component {
   };
 
   componentDidMount() {
-    this.props.clearAlbum();
+    this.props.setActiveAlbum(0);
   }
 
   componentDidUpdate(prevProps, prevState) {

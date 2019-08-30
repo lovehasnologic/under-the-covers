@@ -41,7 +41,7 @@ class PlayerWindow extends React.Component {
             render={props => (
               <Stats
                 {...props}
-                clearAlbum={this.props.clearAlbum}
+                setActiveAlbum={this.props.setActiveAlbum}
                 volumes={this.props.volumes}
                 artists={this.props.artists}
                 original_artists={this.props.original_artists}
