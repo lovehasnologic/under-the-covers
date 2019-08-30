@@ -17,7 +17,7 @@ class Stats extends React.Component {
   };
 
   componentDidMount() {
-    this.props.setActiveAlbum(0);
+    this.props.setActiveAlbum("0");
   }
 
   componentDidUpdate(prevProps, prevState) {
