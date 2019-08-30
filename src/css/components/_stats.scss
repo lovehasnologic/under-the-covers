@@ -1,9 +1,101 @@
 // -----------------------------------------------------------------------------
 //  Table of Contents
 //
-//  - 
+//  - Container
+//  - Headings
+//  - Chart(s)
 // -----------------------------------------------------------------------------
 
+$statsPadding: $grid--rows;
+
 // -----------------------------------------------------------------------------
-// --
+// -- Container
 // -----------------------------------------------------------------------------
+
+.stats {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  min-height: 100vh;
+  padding: $statsPadding ($statsPadding * 2);
+}
+
+.stats__column {
+  flex-basis: calc(50% - (#{$statsPadding} / 2));
+}
+
+// -----------------------------------------------------------------------------
+// -- Headings
+// -----------------------------------------------------------------------------
+
+.stats__heading {
+  font-weight: 900;
+  flex: 1;
+  flex-basis: 100%;
+  text-align: center;
+}
+
+.stats__subHeading {
+  text-align: center;
+}
+
+.stats__subHeading--minor {
+  margin-bottom: 0;
+}
+
+// -----------------------------------------------------------------------------
+// -- Chart(s)
+// -----------------------------------------------------------------------------
+
+.stats__topList {
+  font-size: .875em;
+  margin: 0;
+  padding: 0;
+}
+
+.stats__topItem {
+  display: flex;
+  align-items: baseline;
+  padding-bottom: .25em;
+
+  &::after {
+    flex: 1;
+    order: 2;
+    height: 1px;
+    content: '';
+    border-bottom: 1px dotted var(--baseFontColor);
+  }
+}
+
+.stats__topArtist {
+  order: 1;
+  &::after {
+    content: '\2002';
+  }
+}
+
+.stats__topCount {
+  order: 3;
+  &::before {
+    content: '\2002';
+  }
+}
+
+
+.stats__others {
+  font-size: .6em;
+  margin-top: 0;
+}
+
+.stats__otherArtist {
+  &::after {
+    content: ', ';
+  }
+
+  &:last-child {
+    &::after {
+      content: '';
+    }
+  }
+}
