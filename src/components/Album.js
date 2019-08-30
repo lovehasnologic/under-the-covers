@@ -90,6 +90,7 @@ class Album extends React.Component {
             <Link to="/" className="album__download">
               Download Volume {currentAlbum}
             </Link>
+            <Link to="/stats">Stats</Link>
           </figure>
           <ol className="album__tracklist">
             {this.renderTracklist(currentAlbum)}

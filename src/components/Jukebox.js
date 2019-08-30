@@ -7,7 +7,9 @@ import volumes from "../data/volumes.json";
 class Jukebox extends React.Component {
   state = {
     volumes: {},
-    currentAlbum: ""
+    currentAlbum: "",
+    artists: [],
+    original_artists: []
   };
 
   componentDidMount() {
@@ -35,6 +37,42 @@ class Jukebox extends React.Component {
     });
   };
 
+  grabAllTrackData = (field, state) => {
+    const volumes = this.state.volumes;
+    let values = [];
+
+    Object.keys(volumes).map(volume =>
+      Object.keys(volumes[volume].tracklist).map(track =>
+        values.push(volumes[volume].tracklist[track][field])
+      )
+    );
+
+    return values;
+  };
+
+  findUniqueValues = (field, state) => {
+    let values = this.grabAllTrackData(field, state);
+    let uniqueValues = new Set(values);
+
+    return uniqueValues;
+  };
+
+  rankUniqueValues = (field, state) => {
+    let values = this.grabAllTrackData(field, state);
+    let rankedValues = [];
+
+    this.findUniqueValues(field, state).forEach(value => {
+      let count = values.reduce((a, v) => a + (v === value), 0);
+      rankedValues.push({ value, count });
+    });
+
+    rankedValues = rankedValues.sort((a, b) => b.count - a.count);
+
+    this.setState({
+      [state]: rankedValues
+    });
+  };
+
   render() {
     return (
       <Router>
@@ -49,6 +87,9 @@ class Jukebox extends React.Component {
           clearAlbum={this.clearAlbum}
           setActiveAlbum={this.setActiveAlbum}
           albumDetails={this.state.albumDetails}
+          artists={this.state.artists}
+          original_artists={this.state.original_artists}
+          rankUniqueValues={this.rankUniqueValues}
         />
       </Router>
     );

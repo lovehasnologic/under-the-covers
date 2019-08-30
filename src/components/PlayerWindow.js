@@ -10,7 +10,10 @@ class PlayerWindow extends React.Component {
     currentAlbum: PropTypes.string,
     volumes: PropTypes.object,
     clearAlbum: PropTypes.func,
-    setActiveAlbum: PropTypes.func
+    setActiveAlbum: PropTypes.func,
+    artists: PropTypes.array,
+    original_artists: PropTypes.array,
+    rankUniqueValues: PropTypes.func
   };
 
   render() {
@@ -35,7 +38,16 @@ class PlayerWindow extends React.Component {
           <Route
             exact
             path="/stats"
-            render={props => <Stats {...props} volumes={this.props.volumes} />}
+            render={props => (
+              <Stats
+                {...props}
+                clearAlbum={this.props.clearAlbum}
+                volumes={this.props.volumes}
+                artists={this.props.artists}
+                original_artists={this.props.original_artists}
+                rankUniqueValues={this.props.rankUniqueValues}
+              />
+            )}
           />
           <Route
             exact

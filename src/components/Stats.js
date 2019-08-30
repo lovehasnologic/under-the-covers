@@ -4,7 +4,10 @@ import Close from "./Close";
 
 class Stats extends React.Component {
   static propTypes = {
-    volumes: PropTypes.object.isRequired
+    volumes: PropTypes.object.isRequired,
+    artists: PropTypes.array.isRequired,
+    original_artists: PropTypes.array.isRequired,
+    rankUniqueValues: PropTypes.func.isRequired
   };
 
   state = {
@@ -12,57 +15,59 @@ class Stats extends React.Component {
     original_artists: []
   };
 
+  componentDidMount() {
+    this.props.clearAlbum();
+  }
+
   componentDidUpdate(prevProps, prevState) {
-    if (prevState.artists === this.state.artists) {
-      this.grabAllTrackData("artist", "artists");
-    }
-    if (prevState.original_artists === this.state.original_artists) {
-      this.grabAllTrackData("original_artist", "original_artists");
+    if (this.props.artists.length < 1) {
+      this.props.rankUniqueValues("artist", "artists");
+      this.props.rankUniqueValues("original_artist", "original_artists");
     }
   }
 
-  grabAllTrackData = (field, state) => {
-    const albums = this.props.volumes;
-    let values = [];
-    let rankedValues = [];
-
-    Object.keys(albums).map(album =>
-      Object.keys(albums[album].tracklist).map(track =>
-        values.push(albums[album].tracklist[track][field])
-      )
-    );
-
-    let uniqueValues = new Set(values);
-
-    uniqueValues.forEach(value => {
-      let count = values.reduce((a, v) => a + (v === value), 0);
-      rankedValues.push({ value, count });
-    });
-
-    rankedValues = rankedValues.sort((a, b) => b.count - a.count);
-
-    this.setState({
-      [state]: rankedValues.slice(0, 20)
-    });
-  };
-
   render() {
+    const chartCount = 25;
     return (
       <React.Fragment>
-        <ol>
-          {this.state.artists.map(value => (
-            <li key={value.value}>
-              {value.value} {value.count}
-            </li>
-          ))}
-        </ol>
-        <ol>
-          {this.state.original_artists.map(value => (
-            <li key={value.value}>
-              {value.value} {value.count}
-            </li>
-          ))}
-        </ol>
+        <div>
+          <ol>
+            {this.props.artists.slice(0, chartCount).map(value => (
+              <li key={value.value}>
+                {value.value} {value.count}
+              </li>
+            ))}
+          </ol>
+          <p>
+            {this.props.artists
+              .slice(chartCount + 1)
+              .sort((a, b) =>
+                a.value.replace("The ", "") > b.value.replace("The ", "")
+                  ? 1
+                  : -1
+              )
+              .map(value => value.value)}
+          </p>
+        </div>
+        <div>
+          <ol>
+            {this.props.original_artists.slice(0, chartCount).map(value => (
+              <li key={value.value}>
+                {value.value} {value.count}
+              </li>
+            ))}
+          </ol>
+          <p>
+            {this.props.original_artists
+              .slice(chartCount + 1)
+              .sort((a, b) =>
+                a.value.replace("The ", "") > b.value.replace("The ", "")
+                  ? 1
+                  : -1
+              )
+              .map(value => value.value)}
+          </p>
+        </div>
         <Close />
       </React.Fragment>
     );
