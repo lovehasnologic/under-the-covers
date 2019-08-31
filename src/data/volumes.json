@@ -3022,7 +3022,7 @@
         "artist": "Eagles Of Death Metal",
         "title": "Just Dropped In (To See What Condition My Condition Is In)",
         "album": "Eagles Of Death Metal Presents Boots Electric ‎Performing The Best Songs We Never Wrote",
-        "original_artist": "Kenny Rogers & The First Edition",
+        "original_artist": "Kenny Rogers",
         "url": "https://www.discogs.com/Eagles-Of-Death-Metal-Presents-Boots-Electric-Eagles-Of-Death-Metal-Presents-Boots-Electric-Performi/master/1559868"
       },
       "11": {
@@ -3142,6 +3142,187 @@
     "color": {
       "primary": "#373727",
       "secondary": "#f76b90"
+    }
+  },
+  "19": {
+    "tracklist": {
+      "1": {
+        "artist": "Beach Slang",
+        "title": "Younger Us",
+        "album": "Polyvinyl Plays Polyvinyl",
+        "original_artist": "Japandroids",
+        "url": "https://www.discogs.com/Various-Polyvinyl-Plays-Polyvinyl/release/9372797"
+      },
+      "2": {
+        "artist": "Kepi Ghoulie",
+        "title": "Home",
+        "album": "Kepi Covers Collection Vol. 3: Iggy Pop",
+        "original_artist": "Iggy Pop",
+        "url": "https://www.discogs.com/Kepi-Ghoulie-Josh-Caterer-Kepi-Covers-Collection-Vol-3-Iggy-Pop/master/938328",
+        "notes": "This track also features Josh Caterer of Smoking Popes."
+      },
+      "3": {
+        "artist": "Pity Sex",
+        "title": "Gigantic",
+        "album": "Split EP w/ Adventure",
+        "original_artist": "Pixies",
+        "url": "https://www.discogs.com/Adventures-Pity-Sex-Adventures-Pity-Sex/master/742935"
+      },
+      "4": {
+        "artist": "Transplants",
+        "title": "Gratitude",
+        "album": "Take Cover",
+        "original_artist": "Beastie Boys",
+        "url": "https://www.discogs.com/master/view/1269560"
+      },
+      "5": {
+        "artist": "White Murder",
+        "title": "Nice New Outfit",
+        "album": "Everybody Wants Somewhere: A Tribute To Fugazi",
+        "original_artist": "Fugazi",
+        "url": "https://www.discogs.com/master/view/1269560"
+      },
+      "6": {
+        "artist": "The Space Invaders",
+        "title": "The Gambler",
+        "album": "2/3 Bitch",
+        "original_artist": "Kenny Rogers",
+        "url": "https://www.discogs.com/The-Space-Invaders-23-Bitch/release/5816561"
+      },
+      "7": {
+        "artist": "The Queers",
+        "title": "Murder In The Brady House",
+        "album": "Later Days And Better Lays",
+        "original_artist": "Screeching Weasel",
+        "url": "https://www.discogs.com/Queers-Later-Days-And-Better-Lays/master/500887"
+      },
+      "8": {
+        "artist": "Less Than Jake",
+        "title": "Surrender",
+        "album": "Anthem",
+        "original_artist": "Cheap Trick",
+        "url": "https://www.discogs.com/Less-Than-Jake-Anthem/master/65432"
+      },
+      "9": {
+        "artist": "Spraynard",
+        "title": "Our Retired Explorer",
+        "album": "The Mark, Tom, And Patrick Show",
+        "original_artist": "The Weakerthans",
+        "url": "https://www.discogs.com/Spraynard-The-Mark-Tom-And-Patrick-Show/master/718417"
+      },
+      "10": {
+        "artist": "The Reputation",
+        "title": "For What It’s Worth",
+        "album": "Don't Know When I'll Be Back Again - A Compilation Benefiting American Veterans Of The Vietnam War",
+        "original_artist": "Buffalo Springfield",
+        "url": "https://www.discogs.com/Various-Dont-Know-When-Ill-Be-Back-Again-A-Compilation-Benefiting-American-Veterans-Of-The-Vietnam-W/release/2608307"
+      },
+      "11": {
+        "artist": "Shout Out Louds",
+        "title": "Man On The Moon",
+        "album": "Drive XV - A Tribute To Automatic For The People",
+        "original_artist": "R.E.M.",
+        "url": "https://www.discogs.com/Various-Drive-XV-A-Tribute-To-Automatic-For-The-People/release/1808330"
+      },
+      "12": {
+        "artist": "Four Letter Word",
+        "title": "To Have And To Have Not",
+        "album": "An Invitation To Hanging",
+        "original_artist": "Billy Bragg",
+        "url": "https://www.discogs.com/Four-Letter-Word-An-Invitation-To-A-Hanging/release/2261919"
+      },
+      "13": {
+        "artist": "Birt Bike Annie",
+        "title": "The Warrior",
+        "album": "It Ain’t Easy Bein’ Single",
+        "original_artist": "Scandal",
+        "url": "https://www.discogs.com/Dirt-Bike-Annie-It-Aint-Easy-Bein-Single-Vinyl-EPs-And-Rarities/release/3455788"
+      },
+      "14": {
+        "artist": "So Adult",
+        "title": "From The Curve",
+        "album": "Art Of The Underground Single Series Volume 58",
+        "original_artist": "Superchunk",
+        "url": "https://www.discogs.com/So-Adult-Art-Of-The-Underground-Single-Series-Volume-58/release/3891894"
+      },
+      "15": {
+        "artist": "12XU",
+        "title": "Coming Clean",
+        "album": "Split EP w/ Abject Object",
+        "original_artist": "Green Day",
+        "url": "https://www.discogs.com/12XU-Abject-Object-12XU-Abject-Object/release/3193207"
+      },
+      "16": {
+        "artist": "Rumbleseat",
+        "title": "Jackson",
+        "album": "No Idea 100: Redefining Music",
+        "original_artist": "Johnny And June Carter Cash",
+        "url": "https://www.discogs.com/Various-No-Idea-100-Redefiling-Music/master/356079"
+      },
+      "17": {
+        "artist": "The Shins",
+        "title": "We Will Become Silhouettes",
+        "album": "Give Up",
+        "original_artist": "The Postal Service",
+        "url": "https://www.discogs.com/The-Postal-Service-Give-Up/master/9537",
+        "notes": "There were multi-disc editions (as well as the 10th anniversary re-issue) of The Postal Service’s Give Up which included a collection of rarities and cover versions of their songs."
+      },
+      "18": {
+        "artist": "The Wretched Ones",
+        "title": "Pirate Love",
+        "album": "Split EP w/ No Empathy",
+        "original_artist": "Johnny Thunders",
+        "url": "https://www.discogs.com/No-Empathy-Wretched-Ones-No-Empathy-The-Wretched-Ones/release/3088854"
+      },
+      "19": {
+        "artist": "Mudhoney",
+        "title": "Editions Of You",
+        "album": "March To Fuzz",
+        "original_artist": "Bryan Ferry",
+        "url": "https://www.discogs.com/Mudhoney-March-To-Fuzz/master/58248"
+      },
+      "20": {
+        "artist": "S*M*A*S*H",
+        "title": "Turn On The Water",
+        "album": "Helter Shelter 1995 Compilation",
+        "original_artist": "The Afghan Whigs",
+        "url": "https://www.discogs.com/Various-Helter-Shelter-1995/release/1971393"
+      },
+      "21": {
+        "artist": "In/Humanity",
+        "title": "Victim In Pain",
+        "album": "Southeast Hardcore, Fuck Yeah!! Compilation",
+        "original_artist": "Agnostic Front",
+        "url": "https://www.discogs.com/Various-Southeast-Hardcore-Fuck-Yeah/release/1515208"
+      },
+      "22": {
+        "artist": "Deerhoof",
+        "title": "Small Axe",
+        "album": "Moutain Moves",
+        "original_artist": "Bob Marley",
+        "url": "https://www.discogs.com/Deerhoof-Mountain-Moves/master/1229370"
+      },
+      "23": {
+        "artist": "José González"
+        "title": "Love Will Tear Us Apart",
+        "album": "Remain",
+        "original_artist": "Joy Division",
+        "url": "https://www.discogs.com/José-González-Remain-EP/release/418065"
+      },
+      "24": {
+        "artist": "Versus",
+        "title": "N.I.T.A.",
+        "album": "The Stars Are Insane",
+        "original_artist": "Young Marble Giants",
+        "url": "https://www.discogs.com/master/view/61011"
+      },
+      "25": {
+        "artist": "Jon Cougar Concentration Camp",
+        "title": "We’re Not Gonna Take It",
+        "album": "Hot Shit",
+        "original_artist": "Twisted Sister",
+        "url": "https://www.discogs.com/Jon-Cougar-Concentration-Camp-Hot-Shit/master/334060"
+      }
     }
   }
 }
