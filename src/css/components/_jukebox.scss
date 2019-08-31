@@ -36,6 +36,11 @@
   &.albumSelected {
     width: rem($tagWidth);
   }
+
+  &.hide {
+    overflow: hidden;
+    width: 0;
+  }
 }
 
 .jukebox__volume {
@@ -66,7 +71,12 @@
   min-height: 100vh;
   pointer-events: none;
 
-  &.loaded {
+  &.albumLoaded,
+  &.pageLoaded {
     pointer-events: auto;
+  }
+
+  &.pageLoaded {
+    grid-column: tag-start / player-window;
   }
 }

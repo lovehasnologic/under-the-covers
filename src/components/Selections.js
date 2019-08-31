@@ -13,7 +13,11 @@ class Selections extends React.Component {
     return (
       <ol
         className={`jukebox__volumes grid ${
-          this.props.currentAlbum !== "" ? "albumSelected" : ""
+          this.props.currentAlbum !== ""
+            ? this.props.currentAlbum > 0
+              ? "albumSelected"
+              : "hide"
+            : ""
         }`}
       >
         {Object.keys(this.props.volumes).map(volume => (

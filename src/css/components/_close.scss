@@ -26,4 +26,8 @@
   &:focus {
     transform: translateX(-50%) scale(1.5);
   }
+
+  .pageLoaded & {
+    left: $grid--rows / 2;
+  }
 }

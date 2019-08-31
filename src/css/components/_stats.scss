@@ -17,6 +17,7 @@ $statsPadding: $grid--rows;
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between;
+  max-width: rem(1525px);
   min-height: 100vh;
   padding: $statsPadding ($statsPadding * 2);
 }
@@ -49,7 +50,6 @@ $statsPadding: $grid--rows;
 // -----------------------------------------------------------------------------
 
 .stats__topList {
-  font-size: .875em;
   margin: 0;
   padding: 0;
 }
@@ -64,21 +64,24 @@ $statsPadding: $grid--rows;
     order: 2;
     height: 1px;
     content: '';
+    opacity: .65;
     border-bottom: 1px dotted var(--baseFontColor);
   }
 }
 
 .stats__topArtist {
   order: 1;
+
   &::after {
-    content: '\2002';
+    content: '\00a0';
   }
 }
 
 .stats__topCount {
   order: 3;
+
   &::before {
-    content: '\2002';
+    content: '\00a0';
   }
 }
 

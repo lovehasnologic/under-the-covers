@@ -20,7 +20,11 @@ class PlayerWindow extends React.Component {
     return (
       <div
         className={`jukebox__player ${
-          this.props.currentAlbum !== "" ? "loaded" : ""
+          this.props.currentAlbum !== ""
+            ? this.props.currentAlbum > 0
+              ? "albumLoaded"
+              : "pageLoaded"
+            : ""
         }`}
       >
         <Switch>
