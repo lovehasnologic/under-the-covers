@@ -2951,5 +2951,197 @@
       "primary": "#a51954",
       "secondary": "#fbe142"
     }
+  },
+  "18": {
+    "tracklist": {
+      "1": {
+        "artist": "Motörhead",
+        "title": "God Save The Queen",
+        "album": "We Are Motörhead",
+        "original_artist": "Sex Pistols",
+        "url": "https://www.discogs.com/Motörhead-We-Are-Motörhead/master/141101"
+      },
+      "2": {
+        "artist": "Apocalypse Hoboken",
+        "title": "In The Corner",
+        "album": "Monchichi EP",
+        "original_artist": "The Vindictives",
+        "url": "https://www.discogs.com/master/view/1132432"
+      },
+      "3": {
+        "artist": "The Donnas",
+        "title": "Strutter",
+        "album": "Split EP w/ Kiss",
+        "original_artist": "Kiss",
+        "url": "https://www.discogs.com/Donnas-Kiss-Strutter-Detroit-Rock-City/master/485376"
+      },
+      "4": {
+        "artist": "Pink Lincolns",
+        "title": "Pretty In Pink",
+        "album": "Background Check",
+        "original_artist": "The Psychedelic Furs",
+        "url": "https://www.discogs.com/Pink-Lincolns-Background-Check/release/3549764"
+      },
+      "5": {
+        "artist": "Quasi",
+        "title": "(What's So Funny 'Bout) Peace, Love And Understanding",
+        "album": "Quasi Interprets 2013",
+        "original_artist": "Nick Lowe",
+        "url": "https://www.discogs.com/Quasi-Quasi-Interprets-2013/master/644302",
+        "notes": "It was only recently that I learned this was a Nick Lowe song and not an Elvis Costello original."
+      },
+      "6": {
+        "artist": "Electric Frankenstein",
+        "title": "Home Of The Brave",
+        "album": "We Will Bury You",
+        "original_artist": "Naked Raygun",
+        "url": "https://www.discogs.com/Electric-Frankenstein-We-Will-Bury-You/master/536445"
+      },
+      "7": {
+        "artist": "Bomb The Music Industry!",
+        "title": "Punk Rock Girl",
+        "album": "Scott & Aubrey Compilation",
+        "original_artist": "The Dead Milkmen",
+        "url": "https://www.discogs.com/Forecast-Into-It-Over-It-Swellers-Bomb-The-Music-Industry-Scott-Aubrey/release/4012185"
+      },
+      "8": {
+        "artist": "Owen",
+        "title": "Guest List",
+        "album": "Japan 3.11.11: A Benefit Album Compilation",
+        "original_artist": "Screeching Weasel",
+        "url": "https://www.discogs.com/Various-Japan-31111-A-Benefit-Album/release/3150275"
+      },
+      "9": {
+        "artist": "Casiotone For The Painfully Alone & Concern",
+        "title": "Born In The USA",
+        "album": "Advance Base Battery Life",
+        "original_artist": "Bruce Springsteen",
+        "url": "https://www.discogs.com/Casiotone-For-The-Painfully-Alone-Advance-Base-Battery-Life/master/143883"
+      },
+      "10": {
+        "artist": "Eagles Of Death Metal",
+        "title": "Just Dropped In (To See What Condition My Condition Is In)",
+        "album": "Eagles Of Death Metal Presents Boots Electric ‎Performing The Best Songs We Never Wrote",
+        "original_artist": "Kenny Rogers & The First Edition",
+        "url": "https://www.discogs.com/Eagles-Of-Death-Metal-Presents-Boots-Electric-Eagles-Of-Death-Metal-Presents-Boots-Electric-Performi/master/1559868"
+      },
+      "11": {
+        "artist": "Kevin Devine",
+        "title": "Lovesong",
+        "album": "Split EP w/ Tigers Jaw",
+        "original_artist": "The Cure",
+        "url": "https://www.discogs.com/Tigers-Jaw-Kevin-Devine-Devinyl-Splits-No-3/master/902891"
+      },
+      "12": {
+        "artist": "Japandroids",
+        "title": "Racer-X",
+        "album": "Art Czars EP",
+        "original_artist": "Big Black",
+        "url": "https://www.discogs.com/Japandroids-Art-Czars/release/2206571"
+      },
+      "13": {
+        "artist": "Tomiji",
+        "title": "Puzzle Pieces",
+        "album": "Constant and True: A Tribute to The Songs of Rose Melberg",
+        "original_artist": "Tiger Trap",
+        "url": "https://www.discogs.com/Various-Constant-And-True-A-Tribute-To-The-Songs-Of-Rose-Melberg-/release/9410947"
+      },
+      "14": {
+        "artist": "Iron Chic",
+        "title": "Marriage",
+        "album": "The Goldman Wedding Recod Compilation",
+        "original_artist": "Descendents",
+        "url": "https://www.discogs.com/Various-The-Goldman-Wedding-Record/release/6769653"
+      },
+      "15": {
+        "artist": "Ne’er Do Wells",
+        "title": "Misirlou",
+        "album": "Hello, It Is I, Thee Intolerable Bastard, Child Genius",
+        "original_artist": "Dick Dale",
+        "url": "https://www.discogs.com/Neer-Do-Wells-Hello-It-Is-I-Thee-Intolerable-Bastard-Child-Genius/release/968023"
+      },
+      "16": {
+        "artist": "Whatever…",
+        "title": "The Metro",
+        "album": "Snack Time",
+        "original_artist": "Berlin",
+        "url": "https://www.discogs.com/Whatever-Snack-Time/master/653924"
+      },
+      "17": {
+        "artist": "Tegan And Sara",
+        "title": "Suffer",
+        "album": "Germs of Perfection: A Tribute To Bad Religion",
+        "original_artist": "Bad Religion",
+        "url": "https://www.discogs.com/Various-Germs-Of-Perfection-A-Tribute-To-Bad-Religion/release/2503150"
+      },
+      "18": {
+        "artist": "Weekend Nachos",
+        "title": "In The Garage",
+        "album": "Weezer Nachos",
+        "original_artist": "Weezer",
+        "url": "https://www.discogs.com/WN-WN/release/6914581"
+      },
+      "19": {
+        "artist": "Rise Against",
+        "title": "Little Boxes",
+        "album": "Long Forgotten Songs: B-sides & Covers 2000-2013",
+        "original_artist": "Pete Seeger",
+        "url": "https://www.discogs.com/Rise-Against-Long-Forgotten-Songs-B-sides-Covers-2000-2013/master/598489"
+      },
+      "20": {
+        "artist": "Evergreen Terrace",
+        "title": "Maniac",
+        "album": "Writer’s Block",
+        "original_artist": "Michael Sembello",
+        "url": "https://www.discogs.com/Evergreen-Terrace-Writers-Block/master/579844"
+      },
+      "21": {
+        "artist": "The Get Up Kids",
+        "title": "Burned Bridges",
+        "album": "Split EP w/ Coalesce",
+        "original_artist": "Coalesce",
+        "url": "https://www.discogs.com/Get-Up-Kids-Eudora/release/1919832",
+        "notes": "Originally released by Coalesce with the name “Harvest Of Maturity”."
+      },
+      "22": {
+        "artist": "McRackins",
+        "title": "Surfin’ USA",
+        "album": "Get Crackin!",
+        "original_artist": "The Beach Boys",
+        "url": "https://www.discogs.com/McRackins-Get-Crackin/release/3235934"
+      },
+      "23": {
+        "artist": "Lemuria",
+        "title": "Alec Eiffel",
+        "album": "Under The Influence Vol. 7, split EP w/ Off With Their Heads",
+        "original_artist": "Pixies",
+        "url": "https://www.discogs.com/Lemuria-3-Off-With-Their-Heads-Under-The-Influence-Vol-7/master/254673"
+      },
+      "24": {
+        "artist": "Down By Law",
+        "title": "The Kids Are Alright",
+        "album": "Split CD w/ Pseudo Heroes",
+        "original_artist": "The Who",
+        "url": "https://www.discogs.com/Down-By-Law-2-Pseudo-Heroes-Down-By-Law-Pseudo-Heroes/release/2681044"
+      },
+      "25": {
+        "artist": "Learners",
+        "title": "Why Do Fools Fall In Love",
+        "album": "Split EP w/ The Swing Kids",
+        "original_artist": "Frankie Lymon & The Teenagers",
+        "url": "https://www.discogs.com/Learners-The-Swing-Kids-Learners-The-Swing-Kids/release/9330093"
+      },
+      "26": {
+        "artist": "Bonfire Madigan",
+        "title": "Invincible",
+        "album": "Mailorder Freak Singles Club (September)",
+        "original_artist": "Pat Benatar",
+        "url": "https://www.discogs.com/Bonfire-Madigan-Mailorder-Freak-7-Singles-Club-September/release/1716104"
+      }
+    },
+    "color": {
+      "primary": "#373727",
+      "secondary": "#f76b90"
+    }
   }
 }
