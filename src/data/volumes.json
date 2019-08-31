@@ -2865,5 +2865,91 @@
       "primary": "#2d385f",
       "secondary": "#f4b834"
     }
+  },
+  "17": {
+    "tracklist": {
+      "1": {
+        "artist": "Ben Gibbard",
+        "title": "The Concept",
+        "album": "Bandwagonesque",
+        "original_artist": "Teenage Fanclub",
+        "url": "https://www.discogs.com/Benjamin-Gibbard-Bandwagonesque/master/1230386",
+        "notes": "In 2017 Ben Gibbard of Death Cab For Cutie recorded Teenage Fanclub’s Bandwagonesque, song for song."
+      },
+      "2": {
+        "artist": "Duvall",
+        "title": "Busy",
+        "album": "Bad Scene, Everyone’s Fault",
+        "original_artist": "Jawbreaker",
+        "url": "https://www.discogs.com/Various-Bad-Scene-Everyones-Fault-Jawbreaker-Tribute/release/4078319"
+      },
+      "3": {
+        "artist": "Thursday",
+        "title": "Ny Batteri",
+        "album": "Signals Over The Air Single",
+        "original_artist": "Sigur Rós",
+        "url": "https://www.discogs.com/Thursday-Signals-Over-The-Air/master/306873"
+      },
+      "4": {
+        "artist": "Bis",
+        "title": "Hurt",
+        "album": "Fact2002 EP",
+        "original_artist": "New Order",
+        "url": "https://www.discogs.com/Bis-Fact-2002-EP/release/85439"
+      },
+      "5": {
+        "artist": "Quasi",
+        "title": "War Pigs",
+        "album": "Quasi Interprets 2013",
+        "original_artist": "Black Sabbath",
+        "url": "https://www.discogs.com/Quasi-Quasi-Interprets-2013/master/644302"
+      },
+      "6": {
+        "artist": "The Gotobeds",
+        "title": "I Hate My School",
+        "album": "Definitely Not A Redd Kross EP",
+        "original_artist": "Redd Kross",
+        "url": "https://www.discogs.com/The-Gotobeds-Definitely-Not-A-Redd-Kross-EP/master/1264182"
+      },
+      "7": {
+        "artist": "Xiu Xiu",
+        "title": "Falling",
+        "album": "Plays The Music Of Twin Peaks",
+        "original_artist": "Julee Cruise",
+        "url": "https://www.discogs.com/Xiu-Xiu-Plays-The-Music-Of-Twin-Peaks/master/988074"
+      },
+      "8": {
+        "artist": "Tituse Andronicus",
+        "title": "Like A Rolling Stone",
+        "album": "A Productive Cough",
+        "original_artist": "Bob Dylan",
+        "url": "https://www.discogs.com/Titus-Andronicus-A-Productive-Cough/master/1322520"
+      },
+      "9": {
+        "artist": "Rogue Wave",
+        "title": "Modern Love",
+        "album": "A Salute To The Thin White Duke - The Songs Of David Bowie",
+        "original_artist": "David Bowie",
+        "url": "https://www.discogs.com/Various-A-Salute-To-The-Thin-White-Duke-The-Songs-Of-David-Bowie/master/901333"
+      },
+      "10": {
+        "artist": "Kevin Morby & Waxahatchee",
+        "title": "Farewell Transmission",
+        "album": "Farewell Transmission b/w The Dark Don’t Hide It",
+        "original_artist": "Songs: Ohia",
+        "url": "https://www.discogs.com/Kevin-Morby-Waxahatchee-Farewell-Transmission-bw-The-Dark-Dont-Hide-It/release/11895842"
+      },
+      "11": {
+        "artist": "Murder By Death",
+        "title": "Only In Dreams",
+        "album": "As You Wish: Kickstarer Covers Vol. 2",
+        "original_artist": "Weezer",
+        "url": "https://www.discogs.com/Murder-By-Death-As-You-Wish-Kickstarter-Covers-Vol-2/release/7813737"
+      }
+    },
+    "color": {
+      "primary": "#a51954",
+      "secondary": "#fbe142"
+    }
   }
 }
