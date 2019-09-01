@@ -3000,7 +3000,7 @@
       "7": {
         "artist": "Bomb The Music Industry!",
         "title": "Punk Rock Girl",
-        "album": "Scott & Aubrey Compilation",
+        "album": "Scott & Aubrey’s Wedding",
         "original_artist": "The Dead Milkmen",
         "url": "https://www.discogs.com/Forecast-Into-It-Over-It-Swellers-Bomb-The-Music-Industry-Scott-Aubrey/release/4012185"
       },
@@ -3323,6 +3323,372 @@
         "original_artist": "Twisted Sister",
         "url": "https://www.discogs.com/Jon-Cougar-Concentration-Camp-Hot-Shit/master/334060"
       }
+    },
+    "color": {
+      "primary": "#595959",
+      "secondary": "#e0e0e0"
+    }
+  },
+  "20": {
+    "tracklist": {
+      "1": {
+        "artist": "Lemonheads",
+        "title": "Skulls",
+        "album": "Favorite Spanish Dishes",
+        "original_artist": "Misfits",
+        "url": "https://www.discogs.com/Lemonheads-Favorite-Spanish-Dishes/release/1512262"
+      },
+      "2": {
+        "artist": "The Swellers",
+        "title": "El Scorcho",
+        "album": "Scott & Aubrey’s Wedding",
+        "original_artist": "Weezer",
+        "url": "https://www.discogs.com/Forecast-Into-It-Over-It-Swellers-Bomb-The-Music-Industry-Scott-Aubrey/release/4012185"
+      },
+      "3": {
+        "artist": "Thao With The Get Down Stay Down",
+        "title": "Did You Ever Have To Make Up Your Mind?",
+        "album": "Split EP w/ The Thermals",
+        "original_artist": "The Lovin' Spoonfuls",
+        "url": "https://www.discogs.com/Thermals-Thao-With-The-Get-Down-Stay-Down-The-Thermals-Thao-With-The-Get-Down-Stay-Down/release/1737134"
+      },
+      "4": {
+        "artist": "Tancred",
+        "title": "A Fever",
+        "album": "Polyvinyl Plays Polyvinyl",
+        "original_artist": "Owen",
+        "url": "https://www.discogs.com/Various-Polyvinyl-Plays-Polyvinyl/release/9372797"
+      },
+      "5": {
+        "artist": "Parenthetical Girls",
+        "title": "Gut Symmetries",
+        "album": "Entanglements",
+        "original_artist": "Deerhoof",
+        "url": "https://www.discogs.com/Parenthetical-Girls-Entanglements/master/157634"
+      },
+      "6": {
+        "artist": "Expert Timing",
+        "title": "Confessions Of A Futon Revolutionist",
+        "album": "Don't Stop Now: A Collection Of Covers",
+        "original_artist": "The Weakerthans",
+        "url": "https://dontstopnowacollectionofcovers.bandcamp.com/album/dont-stop-now-a-collection-of-covers"
+      },
+      "7": {
+        "artist": "Margot & The Nuclear So And So’s",
+        "title": "Ziggy Stardust",
+        "album": "I Saved Latin! A Tribute To Wes Anderson",
+        "original_artist": "David Bowie",
+        "url": "https://www.discogs.com/Various-I-Saved-Latin-A-Tribute-To-Wes-Anderson/master/802359"
+      },
+      "8": {
+        "artist": "Oxes",
+        "title": "Strong Enough",
+        "album": "Split EP w/ Microkingdom",
+        "original_artist": "Sheryl Crow",
+        "url": "https://www.discogs.com/Oxes-Featuring-Will-Oldham-Microkingdom-Featuring-Samuel-T-Herring-Strong-Enough-Im-On-Fire/release/4125114",
+        "notes": "Track features Will Oldham."
+      },
+      "9": {
+        "artist": "Ryan Adams",
+        "title": "Like A Fool",
+        "album": "Score! 20 Years Of Merge Records: The Covers!",
+        "original_artist": "Superchunk",
+        "url": "https://www.discogs.com/Various-Score-20-Years-Of-Merge-Records-The-Covers/release/2130900"
+      },
+      "10": {
+        "artist": "Hervé Peawee",
+        "title": "Lover’s Rock",
+        "album": "Split EP w/ Kepi Ghoulie",
+        "original_artist": "The Clash",
+        "url": "https://www.discogs.com/Kepi-Ghoulie-Hervé-Peawee-Straight-To-Hell-Lovers-Rock/release/9443391"
+      },
+      "11": {
+        "artist": "Love Is All",
+        "title": "I Ran",
+        "album": "Play 5 Covers",
+        "original_artist": "A Flock Of Seagulls",
+        "url": "https://www.discogs.com/Love-Is-All-Play-5-Covers/release/1699553"
+      },
+      "12": {
+        "artist": "Hot Water Music",
+        "title": "No Surrender",
+        "album": "No Idea 100: Redefiling Music",
+        "original_artist": "Bruce Springsteen",
+        "url": "https://www.discogs.com/Various-No-Idea-100-Redefiling-Music/master/356079"
+      },
+      "13": {
+        "artist": "Radon",
+        "title": "Open Road",
+        "album": "Let's Do It For Lance! J Church Tribute",
+        "original_artist": "J Church",
+        "url": "https://www.discogs.com/Various-Lets-Do-It-For-Lance-J-Church-Tribute/release/2933742"
+      },
+      "14": {
+        "artist": "Her Space Holiday",
+        "title": "Not Fade Away",
+        "album": "The Early Paws Collection",
+        "original_artist": "Buddy Holly",
+        "url": "https://www.discogs.com/Her-Space-Holiday-The-Early-Paws-Collection/release/3666414"
+      },
+      "15": {
+        "artist": "Cassettes Won’t Listen",
+        "title": "Let’s Go To Bed",
+        "album": "Just Like Heaven (A Tribute To The Cure)",
+        "original_artist": "The Cure",
+        "url": "https://www.discogs.com/master/view/1288955"
+      },
+      "16": {
+        "artist": "Hewhocorrupts",
+        "title": "Welcome To The Jungle",
+        "album": "The DIscographer",
+        "original_artist": "Guns N’ Roses",
+        "url": "https://www.discogs.com/Hewhocorrupts-The-Discographer/master/285701"
+      },
+      "17": {
+        "artist": "Abject Object",
+        "title": "Cupid Come",
+        "album": "Demo 2009",
+        "original_artist": "My Bloody Valentine",
+        "url": "https://www.discogs.com/Abject-Object-Demo-2009/master/380364"
+      },
+      "18": {
+        "artist": "Zonaea",
+        "title": "Crystal Gypsy",
+        "album": "Apocalypse Beach",
+        "original_artist": "Sebadoh",
+        "url": "https://www.discogs.com/Zonaea-Apocalypse-Beach/master/835358"
+      },
+      "19": {
+        "artist": "Thirty Seconds Deep",
+        "title": "All I Have To Do…",
+        "album": "Thirty Seconds Deep",
+        "original_artist": "The Everly Brothers",
+        "url": "https://www.discogs.com/Thirty-Seconds-Deep-Thirty-Seconds-Deep/release/4092254"
+      },
+      "20": {
+        "artist": "Travis Cut",
+        "title": "Totally",
+        "album": "Serial Incompetence",
+        "original_artist": "Screeching Weasel",
+        "url": "https://www.discogs.com/Travis-Cut-Serial-Incompetence/master/296910"
+      },
+      "21": {
+        "artist": "Poison Idea",
+        "title": "We Got The Beat",
+        "album": "Pajama Party",
+        "original_artist": "Go-Go’s",
+        "url": "https://www.discogs.com/Poison-Idea-Pajama-Party/master/49759"
+      },
+      "22": {
+        "artist": "theSTART",
+        "title": "Place Position",
+        "album": "Everybody Wants Somewhere: A Tribute To Fugazi",
+        "original_artist": "Fugazi",
+        "url": "https://www.discogs.com/master/view/1269560"
+      },
+      "23": {
+        "artist": "The Gossip",
+        "title": "Careless Whisper",
+        "album": "Radio 1 Established 1967",
+        "original_artist": "George Michael",
+        "url": "https://www.discogs.com/master/view/1230615"
+      },
+      "24": {
+        "artist": "Cerf Volant",
+        "title": "Leave The City",
+        "album": "Weary Engine Blues: A Tribute To Jason Molina",
+        "original_artist": "Magnolia Electric Co.",
+        "url": "https://www.discogs.com/Various-Weary-Engine-Blues-A-Tribute-To-Jason-Molina/master/555014"
+      },
+      "25": {
+        "artist": "Snapcase",
+        "title": "Gates Of Steel",
+        "album": "Bright Flashes",
+        "original_artist": "Devo",
+        "url": "https://www.discogs.com/Snapcase-Bright-Flashes/release/3274767"
+      }
+    },
+    "color": {
+      "primary": "#6022bd",
+      "secondary": "#95fe33"
+    }
+  },
+  "21": {
+    "tracklist": {
+      "1": {
+        "artist": "Slingshot Dakota",
+        "title": "Rise",
+        "album": "Split EP w/ Pet Symmetry",
+        "original_artist": "Rainer Maria",
+        "url": "https://www.discogs.com/Pet-Symmetry-Slingshot-Dakota-Pet-Symmetry-Slingshot-Dakota/master/782428"
+      },
+      "2": {
+        "artist": "Bad Mechanics",
+        "title": "Opera Night",
+        "album": "Precious Moments In The USA",
+        "original_artist": "Oblivion",
+        "url": "https://www.discogs.com/Bad-Mechanics-Precious-Moments-In-The-USA/master/1231528"
+      },
+      "3": {
+        "artist": "Ryan Adams",
+        "title": "Back In Your Head",
+        "album": "Tegan And Sara Present The Con X: Covers",
+        "original_artist": "Tegan And Sara",
+        "url": "https://www.discogs.com/Various-Tegan-And-Sara-Present-The-Con-X-Covers/master/1269810"
+      },
+      "4": {
+        "artist": "The Wynona Riders",
+        "title": "Rebel Girl",
+        "album": "Split EP w/ Lynyrd’s Innards",
+        "original_artist": "Bikini Kill",
+        "url": "https://www.discogs.com/Lynyrds-Innards-The-Nation-Of-Wenonah-Lynyrds-Innards-The-Nation-Of-Wenonah/release/1892822"
+      },
+      "5": {
+        "artist": "Hudson",
+        "title": "Dancing With Myself",
+        "album": "Hudson",
+        "original_artist": "Billy Idol",
+        "url": "https://www.discogs.com/Hudson-Out-Of-Gas/release/1967898"
+      },
+      "6": {
+        "artist": "Empire State Games",
+        "title": "Just What I Needed",
+        "album": "Empire State Games",
+        "original_artist": "The Cars",
+        "url": "https://www.discogs.com/Empire-State-Games-Empire-State-Games/release/5639068"
+      },
+      "7": {
+        "artist": "Mutts",
+        "title": "Man",
+        "album": "Chicago Mixtape #212",
+        "original_artist": "Yeah Yeah Yeahs",
+        "url": "http://www.chicagomixtape.com/212-2/"
+      },
+      "8": {
+        "artist": "Electrelane",
+        "title": "I’m On Fire",
+        "album": "On Parade",
+        "original_artist": "Bruce Springsteen",
+        "url": "https://www.discogs.com/Electrelane-On-Parade/master/122254"
+      },
+      "9": {
+        "artist": "Fuck",
+        "title": "Heaven Is A Truck",
+        "album": "Everything Is Ending Here: A Tribute To Pavement",
+        "original_artist": "Pavement",
+        "url": "https://www.discogs.com/Various-Everything-Is-Ending-Here-A-Tribute-To-Pavement/release/1695561"
+      },
+      "10": {
+        "artist": "The Cannanes",
+        "title": "Don’t Fear The Reaper",
+        "album": "Split EP w/ Mytty Archer & Boyracer",
+        "original_artist": "Blue Oyster Cult",
+        "url": "https://www.discogs.com/The-Cannanes-Mytty-Archer-Boyracer-The-Cannanes-Mytty-Archer-Boyracer/release/1348397"
+      },
+      "11": {
+        "artist": "Lynyrd’s Innards",
+        "title": "Safety Dance",
+        "album": "Split EP w/ The Larry Brrrds",
+        "original_artist": "Men Without Hats",
+        "url": "https://www.discogs.com/The-Larry-Brrrds-Lynyrds-Innards-Split-7/master/509411"
+      },
+      "12": {
+        "artist": "Teenage Bottlerocket",
+        "title": "Having A Blast",
+        "album": "Under The Influence Vol. 4, split EP w/ The Ergs",
+        "original_artist": "Green Day",
+        "url": "https://www.discogs.com/Teenage-Bottlerocket-Ergs-Under-The-Influence-Vol-4/master/495085"
+      },
+      "13": {
+        "artist": "McRackins",
+        "title": "Egghead",
+        "album": "Split LP w/ White Trash Debutantes",
+        "original_artist": "Ramones",
+        "url": "https://www.discogs.com/McRackins-The-White-Trash-Debutantes-The-McRackins-White-Trash-Debutantes/release/3040077",
+        "notes": "Another cover where the band changes the song name and lyrics to fit a theme. The original was called Pinhead."
+      },
+      "14": {
+        "artist": "The Loblaws",
+        "title": "9:15",
+        "album": "Won’t Stop",
+        "original_artist": "Beatnik Termites",
+        "url": "https://www.discogs.com/Loblaws-Wont-Stop/master/66959"
+      },
+      "15": {
+        "artist": "Plaid Retina",
+        "title": "Fortunate Son",
+        "album": "Make The Collector Nerd Sweat Compilation",
+        "original_artist": "Creedence Clearwater Revival",
+        "url": "https://www.discogs.com/Various-Make-The-Collector-Nerd-Sweat/master/16580"
+      },
+      "16": {
+        "artist": "Death",
+        "title": "Painkiller",
+        "album": "The Sound Of Perseverance",
+        "original_artist": "Judas Priest",
+        "url": "https://www.discogs.com/Death-The-Sound-Of-Perseverance/master/15944"
+      },
+      "17": {
+        "artist": "Pig Destroyer",
+        "title": "In The Meantime",
+        "album": "Painter Of Dead Girls",
+        "original_artist": "Helmet",
+        "url": "https://www.discogs.com/Pig-Destroyer-Painter-Of-Dead-Girls/master/6350"
+      },
+      "18": {
+        "artist": "The Quadrajets",
+        "title": "Rockin’ Daddy",
+        "album": "Dixie Speedway",
+        "original_artist": "Howlin’ Wolf",
+        "url": "https://www.discogs.com/Quadrajets-Dixie-Speedway/release/1336374"
+      },
+      "19": {
+        "artist": "Charlie Brown Gets A Valentine",
+        "title": "Do You Still Hate Me?",
+        "album": "Discography",
+        "original_artist": "Jawbreaker",
+        "url": "https://cbgav.bandcamp.com/album/discography"
+      },
+      "20": {
+        "artist": "Rogue Wave",
+        "title": "The Sidewinder Sleeps Tonight",
+        "album": "Drive XV - A Tribute To Automatic For The People",
+        "original_artist": "R.E.M.",
+        "url": "https://www.discogs.com/Various-Drive-XV-A-Tribute-To-Automatic-For-The-People/release/1808330"
+      },
+      "21": {
+        "artist": "John Vanderslice",
+        "title": "Diamanthunde",
+        "album": "Plays Diamond Dogs",
+        "original_artist": "David Bowie",
+        "url": "https://www.discogs.com/master/view/563836",
+        "notes": "This is John’s cover of Diamond Dogs, from his song for song remake of the Diamond Dogs album."
+      },
+      "22": {
+        "artist": "J Church",
+        "title": "No Doves Fly Here",
+        "album": "Nostalgic For Nothing",
+        "original_artist": "The Mob",
+        "url": "https://www.discogs.com/J-Church-Nostalgic-For-Nothing/master/292738"
+      },
+      "23": {
+        "artist": "Radiator Hospital",
+        "title": "Nostalgic For Nothing",
+        "album": "Nothin’ In My Eyes",
+        "original_artist": "J Church",
+        "url": "https://www.discogs.com/Radiator-Hospital-Nothin-In-My-Eyes/release/7859857"
+      },
+      "24": {
+        "artist": "Math The Band",
+        "title": "Upside Down From Here",
+        "album": "Up End Atom: A Tribute To Atom And His Package",
+        "original_artist": "Atom And His Package",
+        "url": "https://www.amazon.com/Up-End-Atom-Tribute-Package/dp/B00278FSQ4"
+      }
+    },
+    "color": {
+      "primary": "#61614a",
+      "secondary": "#f46c58"
     }
   }
 }
