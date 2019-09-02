@@ -3,6 +3,7 @@
 //
 //  - Variables
 //  - Album
+//  - Download
 //  - Tracklist
 //  - Track
 // -----------------------------------------------------------------------------
@@ -53,10 +54,6 @@ $albumPadding: $grid--rows;
 }
 
 // -----------------------------------------------------------------------------
-// -- Tracklist
-// -----------------------------------------------------------------------------
-
-// -----------------------------------------------------------------------------
 // -- Track
 // -----------------------------------------------------------------------------
 
@@ -99,4 +96,50 @@ $albumPadding: $grid--rows;
   .track--selected & {
     display: block;
   }
+}
+
+// -----------------------------------------------------------------------------
+// -- Download
+// -----------------------------------------------------------------------------
+
+.download {
+  font-weight: 900;
+  line-height: 1;
+  display: block;
+  margin-top: 2em;
+  text-decoration: none;
+  color: var(--baseFontColor);
+  border: 3px solid var(--baseFontColor);
+  background: var(--bgColor);
+}
+
+.download__content {
+  position: relative;
+  display: block;
+  padding: 1em;
+  text-align: center;
+  text-decoration: none;
+  mix-blend-mode: screen;
+
+  &::before {
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    right: 100%;
+    bottom: 0;
+    left: 0;
+    content: '';
+    transition: var(--duration) right var(--ease-in-out);
+    background: var(--baseFontColor);
+  }
+
+  &:hover::before {
+    right: 0;
+  }
+}
+
+.download__text {
+  position: relative;
+  z-index: 2;
+  mix-blend-mode: difference;
 }

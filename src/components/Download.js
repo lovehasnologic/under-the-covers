@@ -10,10 +10,14 @@ class Download extends React.Component {
     return (
       <a
         href={`/assets/albums/${this.props.currentAlbum}.zip`}
-        className="album__download"
+        className="download"
         download={`Under The Covers, Volume ${this.props.currentAlbum}`}
       >
-        Download Volume {this.props.currentAlbum}
+        <span className="download__content">
+          <span className="download__text">
+            Download Volume {this.props.currentAlbum}
+          </span>
+        </span>
       </a>
     );
   }
