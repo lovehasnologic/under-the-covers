@@ -1,8 +1,8 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { Link } from "react-router-dom";
 import Track from "./Track";
 import Close from "./Close";
+import Download from "./Download";
 
 class Album extends React.Component {
   state = {
@@ -87,10 +87,7 @@ class Album extends React.Component {
               src={`/assets/images/${currentAlbum}/2400.jpg`}
               alt={`Under The Covers, Vol. ${currentAlbum} Cover Artwork`}
             />
-            <Link to="/" className="album__download">
-              Download Volume {currentAlbum}
-            </Link>
-            <Link to="/stats">Stats</Link>
+            <Download currentAlbum={currentAlbum} />
           </figure>
           <ol className="album__tracklist">
             {this.renderTracklist(currentAlbum)}

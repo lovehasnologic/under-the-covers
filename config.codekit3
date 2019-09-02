@@ -204,6 +204,38 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"/public/assets/albums/1.zip": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/albums/1.zip",
+		"oF": 0
+		},
+	"/public/assets/albums/3.zip": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/albums/3.zip",
+		"oF": 0
+		},
+	"/public/assets/albums/7.zip": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/albums/7.zip",
+		"oF": 0
+		},
+	"/public/assets/albums/8.zip": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/albums/8.zip",
+		"oF": 0
+		},
 	"/public/assets/images/1/1200.jpg": {
 		"ft": 16384,
 		"iS": 278645,
@@ -1207,7 +1239,7 @@
 		},
 	"/public/assets/images/2/2400.jpg": {
 		"ft": 16384,
-		"iS": 301043,
+		"iS": 430804,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/2/.2400~imageoptim.jpg",
@@ -1251,7 +1283,7 @@
 		},
 	"/public/assets/images/2/900.jpg": {
 		"ft": 16384,
-		"iS": 122795,
+		"iS": 80313,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/public/assets/images/2/900.jpg",
@@ -1702,7 +1734,7 @@
 		},
 	"/public/assets/images/3/1200.jpg": {
 		"ft": 16384,
-		"iS": 191951,
+		"iS": 310593,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/3/1200.jpg",
@@ -1900,7 +1932,7 @@
 		},
 	"/public/assets/images/5/1800.jpg": {
 		"ft": 16384,
-		"iS": 416007,
+		"iS": 643058,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/5/1800.jpg",
@@ -2032,7 +2064,7 @@
 		},
 	"/public/assets/images/6/600.jpg": {
 		"ft": 16384,
-		"iS": 50239,
+		"iS": 78025,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/public/assets/images/6/600.jpg",
@@ -2054,7 +2086,7 @@
 		},
 	"/public/assets/images/7/1200.jpg": {
 		"ft": 16384,
-		"iS": 269752,
+		"iS": 154477,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/7/1200.jpg",
@@ -2098,7 +2130,7 @@
 		},
 	"/public/assets/images/7/300.jpg": {
 		"ft": 16384,
-		"iS": 25901,
+		"iS": 16350,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/7/300.jpg",
@@ -2230,7 +2262,7 @@
 		},
 	"/public/assets/images/9/1200.jpg": {
 		"ft": 16384,
-		"iS": 183898,
+		"iS": 301109,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/9/1200.jpg",
@@ -2425,6 +2457,17 @@
 		"mi": 1,
 		"oA": 1,
 		"oAP": "/src/components/Close-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/src/components/Download.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/src/components/Download-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
