@@ -3272,7 +3272,7 @@
         "url": "https://www.discogs.com/Deerhoof-Mountain-Moves/master/1229370"
       },
       "23": {
-        "artist": "José González"
+        "artist": "José González",
         "title": "Love Will Tear Us Apart",
         "album": "Remain",
         "original_artist": "Joy Division",
@@ -3986,7 +3986,7 @@
       }
     },
     "color": {
-      "primary": "#9d3511",
+      "primary": "#791a17",
       "secondary": "#dc0251"
     }
   },
