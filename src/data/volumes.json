@@ -158,14 +158,6 @@
         "url": "https://www.discogs.com/Coalesce-There-Is-Nothing-New-Under-The-Sun/master/127913"
       },
       "23": {
-        "artist": "Alkaline Trio",
-        "title": "Two Lips, Two Lungs & One Tongue",
-        "album": "This Addiction",
-        "original_artist": "Nomeansno",
-        "url": "https://www.discogs.com/Alkaline-Trio-This-Addiction/release/8804696",
-        "notes": "This track was included as a bonus on the Japanese version of this album."
-      },
-      "24": {
         "artist": "Melvins",
         "title": "My Generation",
         "album": "The Bride Screamed Murder",
@@ -347,63 +339,55 @@
         "url": "https://www.discogs.com/master/view/162847"
       },
       "2": {
-        "artist": "Less Than Jake",
-        "title": "Making Our Dreams Come True",
-        "album": "The TV EP",
-        "original_artist": "Cyndi Grecco",
-        "url": "https://www.discogs.com/Less-Than-Jake-The-TV-EP/master/383028",
-        "notes": "Theme song to Laverne & Shirley."
-      },
-      "3": {
         "artist": "Jay Reatard",
         "title": "Gamma Ray",
         "album": "Gamma Ray Single",
         "original_artist": "Beck",
         "url": "https://www.discogs.com/Beck-Gamma-Ray/master/45560"
       },
-      "4": {
+      "3": {
         "artist": "The Atari Star",
         "title": "Copper",
         "album": "Prayer + Pretend",
         "original_artist": "Shellac",
         "url": "https://www.discogs.com/The-Atari-Star-Prayer-Pretend/release/9144683"
       },
-      "5": {
+      "4": {
         "artist": "J Church",
         "title": "Mary Provost",
         "album": "Nostalgic For Nothing",
         "original_artist": "Nick Lowe",
         "url": "https://www.discogs.com/J-Church-Nostalgic-For-Nothing/master/292738"
       },
-      "6": {
+      "5": {
         "artist": "Off With Their Heads",
         "title": "Field Of Darkness",
         "album": "Split EP w/ No Friends",
         "original_artist": "Pegboy",
         "url": "https://www.discogs.com/No-Friends-Off-With-Their-Heads-Another-Wrong-Field-Of-Darkness/master/304967"
       },
-      "7": {
+      "6": {
         "artist": "The Odd Numbers",
         "title": "Ever Fallen In Love",
         "album": "Holiday EP",
         "original_artist": "Buzzcocks",
         "url": "https://www.discogs.com/Odd-Numbers-Holiday/release/1576572"
       },
-      "8": {
+      "7": {
         "artist": "Dashboard Confessional",
         "title": "El Scorcho",
         "album": "The Wire Tapes Volume 1",
         "original_artist": "Weezer",
         "url": "https://www.discogs.com/DC-The-Wire-Tapes-Volume-1/release/1288400"
       },
-      "9": {
+      "8": {
         "artist": "Ben Nichols",
         "title": "Delia’s Gone",
         "album": "All Aboard: A Tribute To Johnny Cash",
         "original_artist": "Johnny Cash",
         "url": "https://www.discogs.com/Various-All-Aboard-A-Tribute-To-Johnny-Cash/master/368011"
       },
-      "10": {
+      "9": {
         "artist": "Drag The River",
         "title": "Having A Party",
         "album": "Under The Influence Vol. 5",
@@ -411,28 +395,21 @@
         "url": "https://www.discogs.com/Drag-The-River-Under-The-Influence-Vol-5/master/308690",
         "notes": "This was the only record in the series that wasn’t a split artist release."
       },
-      "11": {
-        "artist": "Environmental Youth Crunch",
-        "title": "Fortunate Son",
-        "album": "Split EP w/ Defiance, Ohio",
-        "original_artist": "Creedence Clearwater Revival",
-        "url": "https://www.discogs.com/Defiance-Ohio-Environmental-Youth-Crunch-Defiance-Ohio-Environmental-Youth-Crunch-Split/release/1555071"
-      },
-      "12": {
+      "10": {
         "artist": "Pattern Is Movement",
         "title": "Crazy In Love",
         "album": "Light Of The World",
         "original_artist": "Beyoncé",
         "url": "https://www.discogs.com/Pattern-Is-Movement-Light-Of-The-World/release/5610927"
       },
-      "13": {
+      "11": {
         "artist": "The Bird And The Bee",
         "title": "Maneater",
         "album": "Interpreting The Masters Volume 1: A Tribute To Daryl Hall And John Oates",
         "original_artist": "Hall & Oates",
         "url": "https://www.discogs.com/The-Bird-And-The-Bee-Interpreting-The-Masters-Volume-1-A-Tribute-To-Daryl-Hall-And-John-Oates/master/245215"
       },
-      "14": {
+      "12": {
         "artist": "Totally Radd",
         "title": "Mike Tyson’s Punch Out",
         "album": "Shark Attack Day Camp",
@@ -440,28 +417,28 @@
         "url": "https://www.discogs.com/Totally-Radd-Shark-Attack-Day-Camp/master/664436",
         "notes": "If you ask me I’d say that these lyrics are official canon."
       },
-      "15": {
+      "13": {
         "artist": "Atom And His Package",
         "title": "Mind’s Playin’ Tricks On Me",
         "album": "Atom And His Package",
         "original_artist": "The Geto Boys",
         "url": "https://www.discogs.com/Atom-And-His-Package-Atom-And-His-Package/master/528318"
       },
-      "16": {
+      "14": {
         "artist": "Millencolin",
         "title": "A Whole Lot Less",
         "album": "The Melancholy Collection",
         "original_artist": "Sub Society",
         "url": "https://www.discogs.com/Millencolin-The-Melancholy-Collection/master/281953"
       },
-      "17": {
+      "15": {
         "artist": "Dinosaur Jr.",
         "title": "Just Like Heaven",
         "album": "Fossils",
         "original_artist": "The Cure",
         "url": "https://www.discogs.com/Dinosaur-Jr-Fossils/master/5574"
       },
-      "18": {
+      "16": {
         "artist": "Fireside",
         "title": "Don’t Want To Know If You Are Lonely",
         "album": "Hello Kids",
@@ -469,42 +446,42 @@
         "url": "https://www.discogs.com/master/view/325958",
         "notes": "This track can be found on the 2-disc version of this album."
       },
-      "19": {
+      "17": {
         "artist": "The Exploder",
         "title": "S.S. Exploder",
         "album": "Cut The Cord EP",
         "original_artist": "The Nation Of Ulysses",
         "url": "https://www.discogs.com/Exploder-Cut-The-Cord/release/2273267"
       },
-      "20": {
+      "18": {
         "artist": "Hanalei",
         "title": "Petroleum Distillation",
         "album": "Can You Spare Some Change? EP",
         "original_artist": "Fifteen",
         "url": "https://www.discogs.com/Fifteen-ForTheWin-Hanalei-Can-You-Spare-Some-Change/master/382046"
       },
-      "21": {
+      "19": {
         "artist": "Outdoor Velour",
         "title": "Our House",
         "album": "Our Songs",
         "original_artist": "Crosby Stills Nash & Young",
         "url": "https://outdoorvelour.bandcamp.com/album/our-songs-deluxe-edition"
       },
-      "22": {
+      "20": {
         "artist": "Her Space Holiday",
         "title": "I Love The Valley OH!",
         "album": "Xiu Xiu: Remixed & Covered",
         "original_artist": "Xiu Xiu",
         "url": "https://www.discogs.com/Xiu-Xiu-Remixed-Covered/release/948622"
       },
-      "23": {
+      "21": {
         "artist": "Cursive",
         "title": "Frankly, Mr. Shankly",
         "album": "How Soon Is Now? The Songs Of The Smiths By…",
         "original_artist": "The Smiths",
         "url": "https://www.discogs.com/master/view/216820"
       },
-      "24": {
+      "22": {
         "artist": "Tom Daily",
         "title": "Jet Black",
         "album": "",
@@ -512,7 +489,7 @@
         "url": "",
         "notes": "Recorded for an unreleased tribute to Jawbreaker."
       },
-      "25": {
+      "23": {
         "artist": "The Free Design",
         "title": "Eleanor Rigby",
         "album": "You Could Be Born Again",
@@ -606,42 +583,34 @@
         "url": "https://www.discogs.com/Braid-Movie-Music-Vol-Two/master/284236"
       },
       "12": {
-        "artist": "Jimmy Eat World",
-        "title": "Game Of Pricks",
-        "album": "Bleed American",
-        "original_artist": "Guided By Voices",
-        "url": "https://www.discogs.com/Jimmy-Eat-World-Bleed-American/release/2831317",
-        "notes": "This song can be found on the 2-disc version of this album."
-      },
-      "13": {
         "artist": "Marc With A C",
         "title": "Maxwell’s Silver Hammer",
         "album": "Share The Covers, Bitch! (Part Three)",
         "original_artist": "The Beatles",
         "url": "https://www.discogs.com/Marc-With-A-C-Share-The-Covers-Bitch-Part-Three/release/6002455"
       },
-      "14": {
+      "13": {
         "artist": "The Smittens",
         "title": "Closer To Fine",
         "album": "Love Record Breaker",
         "original_artist": "Indigo Girls",
         "url": "https://www.discogs.com/The-Smittens-Love-Record-Breaker/release/6138716"
       },
-      "15": {
+      "14": {
         "artist": "Charlie And The Moonhearts",
         "title": "Seven & Seven Is",
         "album": "Trouble In Mind 2010 Record Store Day Covers EP",
         "original_artist": "Love",
         "url": "https://www.discogs.com/master/view/607733"
       },
-      "16": {
+      "15": {
         "artist": "Rise Against",
         "title": "Tour Song",
         "album": "Audience Of One EP",
         "original_artist": "Jawbreaker",
         "url": "https://www.discogs.com/Rise-Against-Audience-Of-One/master/271455"
       },
-      "17": {
+      "16": {
         "artist": "Paul Baribeau",
         "title": "Thunder Road",
         "album": "25",
@@ -649,70 +618,70 @@
         "url": "https://www.discogs.com/Paul-Baribeau-25/master/718034",
         "notes": "Paul is joined on this song by Ginger Alford of Good Luck, One Reason, and a handful of other great bands."
       },
-      "18": {
+      "17": {
         "artist": "Annie Saunders",
         "title": "I Ain’t Marching Anymore",
         "album": "Split EP w/ Unwelcome Guests",
         "original_artist": "Phil Ochs",
         "url": "https://www.discogs.com/Unwelcome-Guests-Annie-Saunders-Colonel-Mustard-Versus-Bluey/release/3323578"
       },
-      "19": {
+      "18": {
         "artist": "Darren Gibson",
         "title": "The Boat",
         "album": "Split EP w/ Chuck Ragan",
         "original_artist": "Chuck Ragan",
         "url": "https://www.discogs.com/Chuck-Ragan-Darren-Gibson-Split/release/3997911"
       },
-      "20": {
+      "19": {
         "artist": "Walter Schreifels",
         "title": "Two Sides",
         "album": "Save The Saveables",
         "original_artist": "Gorilla Biscuits",
         "url": "https://www.discogs.com/Walter-Schreifels-Save-The-Saveables/release/4699656"
       },
-      "21": {
+      "20": {
         "artist": "Sicko",
         "title": "Little Star",
         "album": "Laugh While You Can Monkey Boy",
         "original_artist": "Cub",
         "url": "https://www.discogs.com/Sicko-Laugh-While-You-Can-Monkey-Boy/master/410616"
       },
-      "22": {
+      "21": {
         "artist": "Atom And His Package",
         "title": "Seed Song",
         "album": "Redefining Music",
         "original_artist": "The Mountain Goats",
         "url": "https://www.discogs.com/Atom-His-Package-Redefining-Music/master/310065"
       },
-      "23": {
+      "22": {
         "artist": "Murder By Death",
         "title": "Moonage Daydream",
         "album": "As You Wish: Kickstarter Covers Vol. 2",
         "original_artist": "David Bowie",
         "url": "https://www.discogs.com/master/view/925005"
       },
-      "24": {
+      "23": {
         "artist": "I Am The World Trade Center",
         "title": "Going Underground",
         "album": "The Cover Up",
         "original_artist": "The Jam",
         "url": "https://www.discogs.com/I-Am-The-World-Trade-Center-The-Cover-Up/master/276020"
       },
-      "25": {
+      "24": {
         "artist": "J Church",
         "title": "Last Of The Famous International Playboys",
         "album": "Nostalgic For Nothing",
         "original_artist": "Morrissey",
         "url": "https://www.discogs.com/J-Church-Nostalgic-For-Nothing/master/292738"
       },
-      "26": {
+      "25": {
         "artist": "Matt Pond PA",
         "title": "In The Aeroplane Over The Sea",
         "album": "Winter Songs",
         "original_artist": "Neutral Milk Hotel",
         "url": "https://www.discogs.com/Matt-Pond-PA-Winter-Songs/release/2701281"
       },
-      "27": {
+      "26": {
         "artist": "Dillinger Four",
         "title": "Sally Meclennane",
         "album": "This Shit Is Genius",
@@ -2984,7 +2953,7 @@
       },
       "5": {
         "artist": "Quasi",
-        "title": "(What's So Funny 'Bout) Peace, Love And Understanding",
+        "title": "(What’s So Funny ’Bout) Peace, Love And Understanding",
         "album": "Quasi Interprets 2013",
         "original_artist": "Nick Lowe",
         "url": "https://www.discogs.com/Quasi-Quasi-Interprets-2013/master/644302",
@@ -3026,46 +2995,46 @@
         "url": "https://www.discogs.com/Eagles-Of-Death-Metal-Presents-Boots-Electric-Eagles-Of-Death-Metal-Presents-Boots-Electric-Performi/master/1559868"
       },
       "11": {
+        "artist": "New Found Glory",
+        "title": "Head Over Heels",
+        "album": "From The Screen To Your Stereo 2",
+        "original_artist": "Tears For Fears",
+        "url": "https://www.discogs.com/New-Found-Glory-From-The-Screen-To-Your-Stereo-Part-II/master/715111"
+      },
+      "12": {
         "artist": "Kevin Devine",
         "title": "Lovesong",
         "album": "Split EP w/ Tigers Jaw",
         "original_artist": "The Cure",
         "url": "https://www.discogs.com/Tigers-Jaw-Kevin-Devine-Devinyl-Splits-No-3/master/902891"
       },
-      "12": {
+      "13": {
         "artist": "Japandroids",
         "title": "Racer-X",
         "album": "Art Czars EP",
         "original_artist": "Big Black",
         "url": "https://www.discogs.com/Japandroids-Art-Czars/release/2206571"
       },
-      "13": {
+      "14": {
         "artist": "Tomiji",
         "title": "Puzzle Pieces",
         "album": "Constant and True: A Tribute to The Songs of Rose Melberg",
         "original_artist": "Tiger Trap",
         "url": "https://www.discogs.com/Various-Constant-And-True-A-Tribute-To-The-Songs-Of-Rose-Melberg-/release/9410947"
       },
-      "14": {
+      "15": {
         "artist": "Iron Chic",
         "title": "Marriage",
         "album": "The Goldman Wedding Recod Compilation",
         "original_artist": "Descendents",
         "url": "https://www.discogs.com/Various-The-Goldman-Wedding-Record/release/6769653"
       },
-      "15": {
+      "16": {
         "artist": "Ne’er Do Wells",
         "title": "Misirlou",
         "album": "Hello, It Is I, Thee Intolerable Bastard, Child Genius",
         "original_artist": "Dick Dale",
         "url": "https://www.discogs.com/Neer-Do-Wells-Hello-It-Is-I-Thee-Intolerable-Bastard-Child-Genius/release/968023"
-      },
-      "16": {
-        "artist": "Whatever…",
-        "title": "The Metro",
-        "album": "Snack Time",
-        "original_artist": "Berlin",
-        "url": "https://www.discogs.com/Whatever-Snack-Time/master/653924"
       },
       "17": {
         "artist": "Tegan And Sara",
@@ -3197,67 +3166,67 @@
         "url": "https://www.discogs.com/Queers-Later-Days-And-Better-Lays/master/500887"
       },
       "8": {
+        "artist": "Baby Control",
+        "title": "Pansy Twist",
+        "album": "This Is Happening Without Your Permission, split with Triumph Of Lethargy Skinned Alive To Death & Tacocat",
+        "original_artist": "Huggy Bear",
+        "url": "https://www.discogs.com/Various-This-Is-Happening-Without-Your-Permission/release/2176638"
+      },
+      "9": {
         "artist": "Less Than Jake",
         "title": "Surrender",
         "album": "Anthem",
         "original_artist": "Cheap Trick",
         "url": "https://www.discogs.com/Less-Than-Jake-Anthem/master/65432"
       },
-      "9": {
+      "10": {
         "artist": "Spraynard",
         "title": "Our Retired Explorer",
         "album": "The Mark, Tom, And Patrick Show",
         "original_artist": "The Weakerthans",
         "url": "https://www.discogs.com/Spraynard-The-Mark-Tom-And-Patrick-Show/master/718417"
       },
-      "10": {
+      "11": {
         "artist": "The Reputation",
         "title": "For What It’s Worth",
-        "album": "Don't Know When I'll Be Back Again - A Compilation Benefiting American Veterans Of The Vietnam War",
+        "album": "Don’t Know When I’ll Be Back Again - A Compilation Benefiting American Veterans Of The Vietnam War",
         "original_artist": "Buffalo Springfield",
         "url": "https://www.discogs.com/Various-Dont-Know-When-Ill-Be-Back-Again-A-Compilation-Benefiting-American-Veterans-Of-The-Vietnam-W/release/2608307"
       },
-      "11": {
+      "12": {
         "artist": "Shout Out Louds",
         "title": "Man On The Moon",
         "album": "Drive XV - A Tribute To Automatic For The People",
         "original_artist": "R.E.M.",
         "url": "https://www.discogs.com/Various-Drive-XV-A-Tribute-To-Automatic-For-The-People/release/1808330"
       },
-      "12": {
+      "13": {
         "artist": "Four Letter Word",
         "title": "To Have And To Have Not",
         "album": "An Invitation To Hanging",
         "original_artist": "Billy Bragg",
         "url": "https://www.discogs.com/Four-Letter-Word-An-Invitation-To-A-Hanging/release/2261919"
       },
-      "13": {
+      "14": {
         "artist": "Birt Bike Annie",
         "title": "The Warrior",
         "album": "It Ain’t Easy Bein’ Single",
         "original_artist": "Scandal",
         "url": "https://www.discogs.com/Dirt-Bike-Annie-It-Aint-Easy-Bein-Single-Vinyl-EPs-And-Rarities/release/3455788"
       },
-      "14": {
+      "15": {
         "artist": "So Adult",
         "title": "From The Curve",
         "album": "Art Of The Underground Single Series Volume 58",
         "original_artist": "Superchunk",
         "url": "https://www.discogs.com/So-Adult-Art-Of-The-Underground-Single-Series-Volume-58/release/3891894"
       },
-      "15": {
+      "16": {
         "artist": "12XU",
         "title": "Coming Clean",
         "album": "Split EP w/ Abject Object",
         "original_artist": "Green Day",
         "url": "https://www.discogs.com/12XU-Abject-Object-12XU-Abject-Object/release/3193207"
-      },
-      "16": {
-        "artist": "Rumbleseat",
-        "title": "Jackson",
-        "album": "No Idea 100: Redefining Music",
-        "original_artist": "Johnny And June Carter Cash",
-        "url": "https://www.discogs.com/Various-No-Idea-100-Redefiling-Music/master/356079"
       },
       "17": {
         "artist": "The Shins",
@@ -3349,7 +3318,7 @@
         "artist": "Thao With The Get Down Stay Down",
         "title": "Did You Ever Have To Make Up Your Mind?",
         "album": "Split EP w/ The Thermals",
-        "original_artist": "The Lovin' Spoonfuls",
+        "original_artist": "The Lovin’ Spoonfuls",
         "url": "https://www.discogs.com/Thermals-Thao-With-The-Get-Down-Stay-Down-The-Thermals-Thao-With-The-Get-Down-Stay-Down/release/1737134"
       },
       "4": {
@@ -3369,7 +3338,7 @@
       "6": {
         "artist": "Expert Timing",
         "title": "Confessions Of A Futon Revolutionist",
-        "album": "Don't Stop Now: A Collection Of Covers",
+        "album": "Don’t Stop Now: A Collection Of Covers",
         "original_artist": "The Weakerthans",
         "url": "https://dontstopnowacollectionofcovers.bandcamp.com/album/dont-stop-now-a-collection-of-covers"
       },
@@ -3419,7 +3388,7 @@
       "13": {
         "artist": "Radon",
         "title": "Open Road",
-        "album": "Let's Do It For Lance! J Church Tribute",
+        "album": "Let’s Do It For Lance! J Church Tribute",
         "original_artist": "J Church",
         "url": "https://www.discogs.com/Various-Lets-Do-It-For-Lance-J-Church-Tribute/release/2933742"
       },
@@ -3490,7 +3459,7 @@
         "artist": "The Gossip",
         "title": "Careless Whisper",
         "album": "Radio 1 Established 1967",
-        "original_artist": "George Michael",
+        "original_artist": "Wham!",
         "url": "https://www.discogs.com/master/view/1230615"
       },
       "24": {
@@ -3689,6 +3658,179 @@
     "color": {
       "primary": "#61614a",
       "secondary": "#f46c58"
+    }
+  },
+  "22": {
+    "tracklist": {
+      "1": {
+        "artist": "Groovie Ghoulies",
+        "title": "Gates Of Steel",
+        "album": "The Island Of Pogo Pogo",
+        "original_artist": "Devo",
+        "url": "https://www.discogs.com/master/view/1056238"
+      },
+      "2": {
+        "artist": "Cayetana",
+        "title": "Age Of Consent",
+        "album": "Tired Eyes",
+        "original_artist": "New Order",
+        "url": "https://www.discogs.com/Cayetana-Tired-Eyes/master/944133"
+      },
+      "3": {
+        "artist": "Lipstick Homicide",
+        "title": "How Much More",
+        "album": "Our Lips Are Sealed: A Tribute To The Go Go’s",
+        "original_artist": "Go-Go’s",
+        "url": ""
+      },
+      "4": {
+        "artist": "The Dorian Wood Guilt Trip",
+        "title": "Little Boxes",
+        "album": "Don’t Know When I’ll Be Back Again - A Compilation Benefiting American Veterans Of The Vietnam War",
+        "original_artist": "Pete Seeger",
+        "url": "https://www.discogs.com/Various-Dont-Know-When-Ill-Be-Back-Again-A-Compilation-Benefiting-American-Veterans-Of-The-Vietnam-W/release/2608307"
+      },
+      "5": {
+        "artist": "Microkingdom",
+        "title": "I’m On Fire",
+        "album": "Split EP w/ Oxes",
+        "original_artist": "Bruce Springsteen",
+        "url": "https://www.discogs.com/Oxes-Featuring-Will-Oldham-Microkingdom-Featuring-Samuel-T-Herring-Strong-Enough-Im-On-Fire/release/4125114",
+        "notes": "Featuring Samuel T. Herring."
+      },
+      "6": {
+        "artist": "Soophie Nun Squad",
+        "title": "Wannabe",
+        "album": "The Devil, The Metal, The Big Booty Beats",
+        "original_artist": "Spice Girls",
+        "url": "https://www.discogs.com/Soophie-Nun-Squad-The-DevilMetalBig-Booty-Beats/master/913684"
+      },
+      "7": {
+        "artist": "Final Fantasy",
+        "title": "Possibly Maybe",
+        "album": "Enjoyed: A Tribute To Björk’s Post",
+        "original_artist": "Björk",
+        "url": "https://www.discogs.com/Various-Enjoyed-A-Tribute-To-Björks-Post/release/1418150",
+        "notes": "Featuring Ed Droste."
+      },
+      "8": {
+        "artist": "Sinkhole",
+        "title": "Come Sail Away",
+        "album": "Groping For Trout",
+        "original_artist": "Styx",
+        "url": "https://www.discogs.com/Sinkhole-Groping-For-Trout/master/713408"
+      },
+      "9": {
+        "artist": "Groovy Love Vibes",
+        "title": "Good Time Music",
+        "album": "Comin’ At Ya Sucka!, A Split EP w/ Smoking Popes",
+        "original_artist": "The Brady Bunch",
+        "url": "https://www.discogs.com/Smoking-Popes-Groovy-Love-Vibes-Split-7-Comin-At-Ya-Sucka/release/2176218"
+      },
+      "10": {
+        "artist": "Tres Kids",
+        "title": "Ack Ack Ack Ack",
+        "album": "Split EP w/ Quadaliacha",
+        "original_artist": "Minutemen",
+        "url": "https://www.discogs.com/Quadiliacha-Tres-Kids-Butt-Nasty-Business/release/1342938"
+      },
+      "11": {
+        "artist": "Mojo Hand",
+        "title": "Let It Bleed",
+        "album": "The Very Best Of Mojo Hand",
+        "original_artist": "The Rolling Stones",
+        "url": "https://www.discogs.com/Mojo-Hand-The-Very-Best-Of-7/release/3340629"
+      },
+      "12": {
+        "artist": "The Gain",
+        "title": "She Said, She Said",
+        "album": "Beet The Meatles Compilation",
+        "original_artist": "The Beatles",
+        "url": "https://www.discogs.com/Various-Beet-The-Meatles/release/2005762"
+      },
+      "13": {
+        "artist": "Parasites",
+        "title": "Panama",
+        "album": "Let’s Do It For Lance! J Church Tribute",
+        "original_artist": "J Church",
+        "url": "https://www.discogs.com/Various-Lets-Do-It-For-Lance-J-Church-Tribute/release/2933742"
+      },
+      "14": {
+        "artist": "Sun Eats Hours",
+        "title": "Ace Of Spades",
+        "album": "Split LP w/ Nicotine",
+        "original_artist": "Motörhead",
+        "url": "https://www.discogs.com/Sun-Eats-Hours-Nicotine-Metal-Addiction/release/3136266"
+      },
+      "15": {
+        "artist": "J. Page",
+        "title": "Left Of The Dial",
+        "album": "We’ll Inherit The Earth… A Tribute To The Replacements",
+        "original_artist": "The Replacements",
+        "url": "https://www.discogs.com/Various-Well-Inherit-The-EarthA-Tribute-To-The-Replacements/release/3704719"
+      },
+      "16": {
+        "artist": "Down By Law",
+        "title": "(What’s So Funny ’Bout) Peace, Love And Understanding",
+        "album": "Before You Were Punk Compilation",
+        "original_artist": "Nick Lowe",
+        "url": "https://www.discogs.com/Various-Before-You-Were-Punk/release/1520952"
+      },
+      "17": {
+        "artist": "Man Dingo",
+        "title": "Walking On A Thin Line",
+        "album": "All The Songs You’ve Always Hated",
+        "original_artist": "Huey Lewis And The News",
+        "url": "https://www.discogs.com/Mandingo-All-The-Songs-Youve-Always-Hated/master/817582"
+      },
+      "18": {
+        "artist": "The Magnificent",
+        "title": "A Song For The Helenas",
+        "album": "Split EP w/ Elway",
+        "original_artist": "The Bomb",
+        "url": "https://www.discogs.com/The-Magnificent-4-Elway-The-Magnificent-Elway/release/3493780"
+      },
+      "19": {
+        "artist": "MMOSS",
+        "title": "Cathy’s Clown",
+        "album": "Trouble In Mind Covers EP 2013",
+        "original_artist": "The Everly Brothers",
+        "url": "https://www.discogs.com/Various-Trouble-In-Mind-Covers-EP-2013/release/4492065"
+      },
+      "20": {
+        "artist": "Marissa Nadler",
+        "title": "No Surprises",
+        "album": "Stereogum Presents… OKX: A Tribute To OK Computer",
+        "original_artist": "Radiohead",
+        "url": "https://www.discogs.com/Various-OKX-A-Tribute-To-OK-Computer/release/1023910",
+        "notes": "Featuring Black Hole Infinity"
+      },
+      "21": {
+        "artist": "Peter Bjorn And John",
+        "title": "Is This Is",
+        "album": "Stereogum Presents… STROKED: A Tribute To Is This It",
+        "original_artist": "The Strokes",
+        "url": "https://www.stereogum.com/767531/stroked-tribute-to-is-this-it/mp3s/"
+      },
+      "22": {
+        "artist": "Piebald",
+        "title": "No One Else",
+        "album": "Rock Music: A Tribute To Weezer",
+        "original_artist": "Weezer",
+        "url": "https://www.discogs.com/Various-Rock-Music-A-Tribute-To-Weezer/master/392300"
+      },
+      "23": {
+        "artist": "Propagandhi",
+        "title": "Technocracy",
+        "album": "Victory Lap",
+        "original_artist": "Corossion Of Conformity",
+        "url": "https://www.discogs.com/Propagandhi-Victory-Lap/release/10933356",
+        "notes": "Included on the digital deluxe edition of the album."
+      }
+    },
+    "color": {
+      "primary": "#4b4987",
+      "secondary": "#de162f"
     }
   }
 }
