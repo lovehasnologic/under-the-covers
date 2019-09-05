@@ -498,8 +498,8 @@
       }
     },
     "color": {
-      "primary": "#695929",
-      "secondary": "#f1a353"
+      "primary": "#495e3b",
+      "secondary": "#efbc5d"
     }
   },
   "4": {
@@ -1412,7 +1412,7 @@
     },
     "color": {
       "primary": "#e60427",
-      "secondary": "#e9f3fe"
+      "secondary": "#c4dff1"
     }
   },
   "9": {
@@ -1602,8 +1602,8 @@
       }
     },
     "color": {
-      "primary": "#5e202c",
-      "secondary": "#dce0e1"
+      "primary": "#4c4667",
+      "secondary": "#afdbf9"
     }
   },
   "10": {
@@ -1765,8 +1765,8 @@
       }
     },
     "color": {
-      "primary": "#5c3629",
-      "Secondary": "#b0d6ea"
+      "primary": "#564c4a",
+      "secondary": "#d56e72"
     }
   },
   "11": {
@@ -3295,7 +3295,7 @@
     },
     "color": {
       "primary": "#595959",
-      "secondary": "#e0e0e0"
+      "secondary": "#d0d0d0"
     }
   },
   "20": {
@@ -3478,7 +3478,7 @@
       }
     },
     "color": {
-      "primary": "#6022bd",
+      "primary": "#492c9c",
       "secondary": "#95fe33"
     }
   },
@@ -4150,6 +4150,173 @@
     "color": {
       "primary": "#223a5e",
       "secondary": "#0099cc"
+    }
+  },
+  "25": {
+    "tracklist": {
+      "1": {
+        "artist": "Dry The River",
+        "title": "Satellite Mind",
+        "album": "Good People Rock (A Yellow Bird Project Covers Compilation)",
+        "original_artist": "Metric",
+        "url": "https://www.discogs.com/master/view/967753"
+      },
+      "2": {
+        "artist": "Dean & Britta",
+        "title": "Friday I’m In Love",
+        "album": "Just Like Heaven (A Tribute To The Cure)",
+        "original_artist": "The Cure",
+        "url": "https://www.discogs.com/Various-Just-Like-Heaven-A-Tribute-To-The-Cure/master/1288955"
+      },
+      "3": {
+        "artist": "Coming Soon",
+        "title": "Cabwaylingo",
+        "album": "Weary Engine Blues: A Tribute To Jason Molina",
+        "original_artist": "Songs: Ohia",
+        "url": "https://www.discogs.com/Various-Weary-Engine-Blues-A-Tribute-To-Jason-Molina/master/555014"
+      },
+      "4": {
+        "artist": "Bob Nanna",
+        "title": "The City",
+        "album": "Top 100 of 2001: 50-41",
+        "original_artist": "The Dismemberment Plan",
+        "url": "https://bobnanna.bandcamp.com/album/top-100-of-2001-50-41"
+      },
+      "5": {
+        "artist": "The Saddest Landscape",
+        "title": "Raisans",
+        "album": "Declaring War On Nostalgia",
+        "original_artist": "Dinosaur Jr.",
+        "url": "https://www.discogs.com/The-Saddest-Landscape-Declaring-War-On-Nostalgia/master/1094970",
+        "notes": "The spelling of the trackname is as intended, as that’s how The Saddest Landscape spells their version of the song."
+      },
+      "6": {
+        "artist": "Ruination",
+        "title": "Sacrifice, Not Suicide",
+        "album": "Deadly Sins Compilation",
+        "original_artist": "The Freeze",
+        "url": "https://www.discogs.com/Various-Deadly-Sins/master/442133"
+      },
+      "7": {
+        "artist": "The Vindictives",
+        "title": "No Feelings",
+        "album": "Curious Oddities And The Bare Essentials",
+        "original_artist": "Sex Pistols",
+        "url": "https://www.discogs.com/The-Vindictives-Curious-Oddities-And-The-Bare-Essentials/release/1871358"
+      },
+      "8": {
+        "artist": "Downtown Boys",
+        "title": "Dancing In The Dark",
+        "album": "Full Communism",
+        "original_artist": "Bruce Springsteen",
+        "url": "https://www.discogs.com/Downtown-Boys-Full-Communism/release/8670501"
+      },
+      "9": {
+        "artist": "Soophie Nun Squad",
+        "title": "To Be A Hero",
+        "album": "Passion Sleighs The Dragon",
+        "original_artist": "Kirk And The Jerks",
+        "url": "https://www.discogs.com/master/view/377986",
+        "notes": "If you rode a skateboard in the 90s it’s likely that you heard the original version of this song."
+      },
+      "10": {
+        "artist": "Boris The Sprinkler",
+        "title": "True Grit",
+        "album": "Split EP w/ Meatmen",
+        "original_artist": "Meatmen",
+        "url": "https://www.discogs.com/Meatmen-Boris-The-Sprinkler-Drugs-Masturbation-True-Grit/master/573539"
+      },
+      "11": {
+        "artist": "McRackins",
+        "title": "Surrender",
+        "album": "Oddities & Eggcentricities Vol. 1",
+        "original_artist": "Cheap Trick",
+        "url": "https://www.discogs.com/McRackins-Oddities-Eggcentricities-Vol-1/release/3896173"
+      },
+      "12": {
+        "artist": "Iced Earth",
+        "title": "Burnin’ For You",
+        "album": "Tribute To The Gods",
+        "original_artist": "Blue Öyster Cult",
+        "url": "https://www.discogs.com/Iced-Earth-Tribute-To-The-Gods/master/275598"
+      },
+      "13": {
+        "artist": "Deerhoof",
+        "title": "Live To Tell",
+        "album": "Untitled Cassette",
+        "original_artist": "Madonna",
+        "url": "https://www.discogs.com/Deerhoof-Untitled/release/8684314"
+      },
+      "14": {
+        "artist": "Weezer",
+        "title": "No Scrubs",
+        "album": "Weezer (The Teal Album)",
+        "original_artist": "TLC",
+        "url": "https://www.discogs.com/master/view/1490181"
+      },
+      "15": {
+        "artist": "Shiner",
+        "title": "Making Love",
+        "album": "Making Love EP",
+        "original_artist": "Bad Company",
+        "url": "https://www.discogs.com/Shiner-Making-Love-EP/master/526303"
+      },
+      "16": {
+        "artist": "Iron Chic",
+        "title": "Bonzo Goes To Bitburg",
+        "album": "Spooky Action",
+        "original_artist": "Ramones",
+        "url": "https://www.discogs.com/master/view/551154",
+        "notes": "This track was only on the US version of this record. The other versions included a Butthole Surfers cover instead."
+      },
+      "17": {
+        "artist": "Sore Loser",
+        "title": "Strawberry Fields",
+        "album": "Is Out To Save The World",
+        "original_artist": "The Beatles",
+        "url": "https://www.discogs.com/Sore-Loser-Is-Out-To-Save-The-World/master/828625",
+        "notes": "This was a hidden track on the CD. On the vinyl version of the album it was replaced with a Big Boys cover."
+      },
+      "18": {
+        "artist": "Beat Crusaders",
+        "title": "Kids In America",
+        "album": "Class Of The 80's Orange Compilation",
+        "original_artist": "Kim Wilde",
+        "url": "https://www.discogs.com/Various-Class-Of-The-80s-Orange/release/4806433"
+      },
+      "19": {
+        "artist": "Less Than Jake",
+        "title": "This Is The Modern World",
+        "album": "Birthday Cake",
+        "original_artist": "The Jam",
+        "url": "https://www.discogs.com/Less-Than-Jake-Birthday-Cake/master/601145"
+      },
+      "20": {
+        "artist": "Ace Bushy Striptease",
+        "title": "Margie",
+        "album": "Dissatisfactions Single",
+        "original_artist": "ONSIND",
+        "url": "https://onsind.bandcamp.com/album/dissatisfactions-single",
+        "notes": "This was the second track on the ONSIND single for their song Dissatisfactions."
+      },
+      "21": {
+        "artist": "Into It. Over It.",
+        "title": "Poor Souls",
+        "album": "Split EP w/ Owen",
+        "original_artist": "Owen",
+        "url": "https://www.discogs.com/Owen-4-Into-It-Over-It-Split-EP/master/873220"
+      },
+      "22": {
+        "artist": "Wallis Bird",
+        "title": "Just Can’t Get Enough",
+        "album": "Bird Songs - The Best Of Wallis Bird",
+        "original_artist": "Depeche Mode",
+        "url": "https://www.discogs.com/Wallis-Bird-Bird-Songs-The-Best-Of-Wallis-Bird/release/8896654"
+      }
+    },
+    "color": {
+      "primary": "#66b9d1",
+      "secondary": "#fefbc9"
     }
   }
 }
