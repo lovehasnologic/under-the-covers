@@ -11,16 +11,34 @@
 .close {
   font-size: 2em;
   font-weight: 900;
-  line-height: 0;
+  line-height: 1;
   position: fixed;
   z-index: 50;
-  top: $grid--rows / 2;
-  left: calc(#{$tagWidth} + #{$grid--rows / 2});
   display: block;
   transition: transform var(--duration) var(--ease-in-out);
-  transform: translateX(-50%);
   text-decoration: none;
   color: var(--baseFontColor);
+
+  @include mq(1) {
+    right: 0;
+    bottom: 0;
+    left: #{rem($tagWidth)};
+    padding: .25em;
+    text-align: center;
+    background: var(--baseBgColor);
+
+    &::after {
+      font-size: .8em;
+      font-weight: 500;
+      padding-left: .25em;
+      content: 'Close';
+    }
+  }
+  @include mq(2, up) {
+    top: $grid--rows / 4;
+    left: calc(#{rem($tagWidth)} + #{$grid--rows / 2});
+    transform: translateX(-50%);
+  }
 
   &:hover,
   &:focus {

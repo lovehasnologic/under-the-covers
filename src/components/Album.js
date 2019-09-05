@@ -84,7 +84,18 @@ class Album extends React.Component {
           <figure className="album__jacket">
             <img
               className="album__cover"
-              src={`/assets/images/${currentAlbum}/2400.jpg`}
+              srcSet={`
+                /assets/images/${currentAlbum}/300.jpg 300w,
+                /assets/images/${currentAlbum}/400.jpg 400w,
+                /assets/images/${currentAlbum}/600.jpg 600w,
+                /assets/images/${currentAlbum}/900.jpg 900w,
+                /assets/images/${currentAlbum}/1200.jpg 1200w,
+                /assets/images/${currentAlbum}/1500.jpg 1500w,
+                /assets/images/${currentAlbum}/1800.jpg 1800w,
+                /assets/images/${currentAlbum}/2400.jpg 2400w
+              `}
+              sizes="(max-width: 50.0625em) 72.5vw, (max-width: 75em) 500px, calc((100vh - 9.722222rem) * .3)"
+              src={`/assets/images/${currentAlbum}/600.jpg`}
               alt={`Under The Covers, Vol. ${currentAlbum} Cover Artwork`}
             />
             <Download currentAlbum={currentAlbum} />

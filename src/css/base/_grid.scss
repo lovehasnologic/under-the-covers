@@ -17,8 +17,11 @@ $grid--rows: (100 / $rows) * 1vh;
 
 .grid {
   display: grid;
-
-  grid-auto-rows: $grid--rows;
-  grid-gap: 0;
   grid-template-columns: $grid--columns;
+  grid-gap: 0;
+  grid-auto-rows: $grid--rows;
+
+  @include mq(1) {
+    grid-auto-rows: $grid--rows * .7;
+  }
 }

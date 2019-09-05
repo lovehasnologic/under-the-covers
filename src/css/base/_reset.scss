@@ -37,6 +37,10 @@ html {
 html,
 body {
   font-size: var(--baseFontSize);
+
+  @include mq(1) {
+    font-size: calc(var(--baseFontSize) * .5);
+  }
 }
 
 // -----------------------------------------------------------------------------

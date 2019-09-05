@@ -58,8 +58,13 @@
 // -----------------------------------------------------------------------------
 
 .billboard__description {
-  line-height: 1;
+  line-height: 1.2;
   margin: 0;
+  padding: 0 2em;
+
+  @include mq(1) {
+    font-size: .75em;
+  }
 }
 
 .billboard__count {
