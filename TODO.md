@@ -1,0 +1,4 @@
+- [ ] Add meta tags to head
+- [ ] Add Helmet to manage meta tags
+- [ ] Add favicon
+- [ ] Add schema markup
