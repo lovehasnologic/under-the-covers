@@ -2,6 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import Track from "./Track";
 import Download from "./Download";
+import { Helmet } from "react-helmet";
 
 class Album extends React.Component {
   state = {
@@ -79,6 +80,9 @@ class Album extends React.Component {
 
     return (
       <React.Fragment>
+        <Helmet>
+          <title>Under The Covers, Volume {currentAlbum}</title>
+        </Helmet>
         <div className="album">
           <figure className="album__jacket">
             <img

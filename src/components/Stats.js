@@ -1,6 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { Link } from "react-router-dom";
+import { Helmet } from "react-helmet";
 
 class Stats extends React.Component {
   static propTypes = {
@@ -31,6 +32,9 @@ class Stats extends React.Component {
     const chartCount = 25;
     return (
       <React.Fragment>
+        <Helmet>
+          <title>Top Artists • Under The Covers</title>
+        </Helmet>
         <div className="stats">
           <h1 className="stats__heading">Jukebox Statistics</h1>
           <div className="stats__column stats__column--players">
