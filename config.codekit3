@@ -406,7 +406,7 @@
 		},
 	"/public/assets/images/1/1200.jpg": {
 		"ft": 16384,
-		"iS": 177431,
+		"iS": 278645,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/1/1200.jpg",
@@ -417,7 +417,7 @@
 		},
 	"/public/assets/images/1/1500.jpg": {
 		"ft": 16384,
-		"iS": 392397,
+		"iS": 250570,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/1/1500.jpg",
@@ -1396,7 +1396,7 @@
 		},
 	"/public/assets/images/2/1800.jpg": {
 		"ft": 16384,
-		"iS": 202346,
+		"iS": 291827,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/public/assets/images/2/1800.jpg",
@@ -1990,7 +1990,7 @@
 		},
 	"/public/assets/images/3/1200.jpg": {
 		"ft": 16384,
-		"iS": 191951,
+		"iS": 310593,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/3/1200.jpg",
@@ -2188,7 +2188,7 @@
 		},
 	"/public/assets/images/5/1800.jpg": {
 		"ft": 16384,
-		"iS": 643058,
+		"iS": 416007,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/5/1800.jpg",
@@ -2309,7 +2309,7 @@
 		},
 	"/public/assets/images/6/400.jpg": {
 		"ft": 16384,
-		"iS": 42913,
+		"iS": 26951,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/6/.400~imageoptim.jpg",
@@ -2386,7 +2386,7 @@
 		},
 	"/public/assets/images/7/300.jpg": {
 		"ft": 16384,
-		"iS": 16350,
+		"iS": 25901,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/7/300.jpg",
@@ -2518,7 +2518,7 @@
 		},
 	"/public/assets/images/9/1200.jpg": {
 		"ft": 16384,
-		"iS": 301109,
+		"iS": 183898,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/9/1200.jpg",
@@ -2540,7 +2540,7 @@
 		},
 	"/public/assets/images/9/1800.jpg": {
 		"ft": 16384,
-		"iS": 526134,
+		"iS": 339307,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/9/1800.jpg",
@@ -2595,7 +2595,7 @@
 		},
 	"/public/assets/images/9/900.jpg": {
 		"ft": 16384,
-		"iS": 186020,
+		"iS": 112724,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/9/900.jpg",
@@ -2746,6 +2746,17 @@
 		"mi": 1,
 		"oA": 1,
 		"oAP": "/src/components/PlayerWindow-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"/src/components/ScrollToTop.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/src/components/ScrollToTop-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -3020,6 +3031,14 @@
 		"oF": 2,
 		"sC": 0,
 		"tS": 1
+		},
+	"/TODO.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/TODO.html",
+		"oF": 0
 		},
 	"/TODO.md": {
 		"cB": 0,
