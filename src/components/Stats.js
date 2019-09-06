@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-import Close from "./Close";
+import { Link } from "react-router-dom";
 
 class Stats extends React.Component {
   static propTypes = {
@@ -86,7 +86,9 @@ class Stats extends React.Component {
             </p>
           </div>
         </div>
-        <Close />
+        <Link to="/" className="stats__home">
+          &larr; Back To Selections
+        </Link>
       </React.Fragment>
     );
   }

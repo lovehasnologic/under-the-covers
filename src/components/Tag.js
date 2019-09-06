@@ -1,6 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { Link } from "react-router-dom";
+import Close from "./Close";
 
 class Tag extends React.Component {
   static propTypes = {
@@ -13,6 +14,12 @@ class Tag extends React.Component {
     currentAlbum: PropTypes.string,
     setActiveAlbum: PropTypes.func
   };
+
+  setCloseLink() {
+    if (this.props.currentAlbum === this.props.volume) {
+      return <Close />;
+    }
+  }
 
   render() {
     return (
@@ -27,6 +34,7 @@ class Tag extends React.Component {
             <span className="tag__volumeNumber">{this.props.volume}</span>
           </span>
         </Link>
+        {this.setCloseLink()}
       </li>
     );
   }

@@ -1,7 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
 import Track from "./Track";
-import Close from "./Close";
 import Download from "./Download";
 
 class Album extends React.Component {
@@ -104,7 +103,6 @@ class Album extends React.Component {
             {this.renderTracklist(currentAlbum)}
           </ol>
         </div>
-        <Close />
       </React.Fragment>
     );
   }

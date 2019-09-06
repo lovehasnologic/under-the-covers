@@ -1,4 +1,4 @@
-- [ ] Move data from state to a constant
+- [x] Move data from state to a constant
 - [ ] Add link to stats page
 - [ ] Create info page
 - [ ] Add link to info page

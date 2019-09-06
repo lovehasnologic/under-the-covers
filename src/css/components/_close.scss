@@ -12,40 +12,22 @@
   font-size: 2em;
   font-weight: 900;
   line-height: 1;
-  position: fixed;
+  position: absolute;
   z-index: 50;
+  top: $grid--rows / 4;
+  left: 10px;
   display: block;
   transition: transform var(--duration) var(--ease-in-out);
   text-decoration: none;
   color: var(--baseFontColor);
 
   @include mq(1) {
-    right: 0;
-    bottom: 0;
-    left: #{rem($tagWidth)};
-    padding: .25em;
-    text-align: center;
-    background: var(--baseBgColor);
-
-    &::after {
-      font-size: .8em;
-      font-weight: 500;
-      padding-left: .25em;
-      content: 'Close';
-    }
-  }
-  @include mq(2, up) {
-    top: $grid--rows / 4;
-    left: calc(#{rem($tagWidth)} + #{$grid--rows / 2});
-    transform: translateX(-50%);
+    font-size: 1.25em;
+    top: $grid--rows / 5;
   }
 
   &:hover,
   &:focus {
-    transform: translateX(-50%) scale(1.5);
-  }
-
-  .pageLoaded & {
-    left: $grid--rows / 2;
+    transform: scale(1.5);
   }
 }
