@@ -4,7 +4,7 @@
 - [ ] Create info page
 - [ ] Add link to info page
 - [ ] Add meta tags to head
-- [ ] Add Helmet to manage meta tags
+- [x] Add Helmet to manage meta tags
 - [ ] Add favicon
 - [ ] Add schema markup
 - [ ] Create playable tracks in browser
