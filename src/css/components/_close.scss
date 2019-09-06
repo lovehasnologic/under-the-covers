@@ -11,10 +11,10 @@
 .close {
   font-size: 2em;
   font-weight: 900;
-  line-height: 1;
+  line-height: 0;
   position: absolute;
   z-index: 50;
-  top: $grid--rows / 4;
+  top: 50%;
   left: 10px;
   display: block;
   transition: transform var(--duration) var(--ease-in-out);
@@ -23,7 +23,6 @@
 
   @include mq(1) {
     font-size: 1.25em;
-    top: $grid--rows / 5;
   }
 
   &:hover,
