@@ -73,6 +73,13 @@
   font-weight: normal;
   line-height: 0;
 
+  @include mq(2) {
+    font-size: 2em;
+  }
+  @include mq(1) {
+    font-size: 1.8em;
+  }
+
   &:after {
     font-size: .5em;
     line-height: 0;
