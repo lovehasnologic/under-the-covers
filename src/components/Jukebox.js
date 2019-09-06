@@ -6,17 +6,10 @@ import volumes from "../data/volumes.json";
 
 class Jukebox extends React.Component {
   state = {
-    volumes: {},
     currentAlbum: "",
     artists: [],
     original_artists: []
   };
-
-  componentDidMount() {
-    this.setState({
-      volumes: volumes
-    });
-  }
 
   setActiveAlbum = volumeNumber => {
     this.setState(
@@ -26,9 +19,7 @@ class Jukebox extends React.Component {
       () => {
         document.documentElement.style.setProperty(
           "--bgColor",
-          volumeNumber > 0
-            ? this.state.volumes[this.state.currentAlbum].color.primary
-            : ""
+          volumeNumber > 0 ? volumes[this.state.currentAlbum].color.primary : ""
         );
       }
     );
@@ -41,7 +32,6 @@ class Jukebox extends React.Component {
   };
 
   grabAllTrackData = (field, state) => {
-    const volumes = this.state.volumes;
     let values = [];
 
     Object.keys(volumes).map(volume =>
@@ -80,13 +70,13 @@ class Jukebox extends React.Component {
     return (
       <Router>
         <Selections
-          volumes={this.state.volumes}
+          volumes={volumes}
           currentAlbum={this.state.currentAlbum}
           setActiveAlbum={this.setActiveAlbum}
         />
         <PlayerWindow
           currentAlbum={this.state.currentAlbum}
-          volumes={this.state.volumes}
+          volumes={volumes}
           clearAlbum={this.clearAlbum}
           setActiveAlbum={this.setActiveAlbum}
           albumDetails={this.state.albumDetails}
