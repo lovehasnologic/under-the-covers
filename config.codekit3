@@ -215,6 +215,14 @@
 		"oO": 0,
 		"oS": 1
 		},
+	"/public/.htaccess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/.htaccess",
+		"oF": 0
+		},
 	"/public/assets/albums/1.zip": {
 		"cB": 0,
 		"ft": 8192,
