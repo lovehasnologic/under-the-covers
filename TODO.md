@@ -3,10 +3,12 @@
 - [ ] Add link to stats page
 - [ ] Create info page
 - [ ] Add link to info page
-- [ ] Add meta tags to head
+- [x] Add meta tags to head
 - [x] Add Helmet to manage meta tags
+- [ ] Add Social Media Tags
 - [ ] Add favicon
 - [ ] Add schema markup
 - [ ] Create playable tracks in browser
 - [ ] Redesign "info" controls
 - [ ] Animate Album fade ins/outs
+- [ ] Setup https

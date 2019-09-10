@@ -75,6 +75,30 @@ class Album extends React.Component {
     }
   }
 
+  renderNextLink(currentAlbum) {
+    if (currentAlbum < Object.keys(this.props.volumes).length) {
+      return (
+        <link
+          rel="next"
+          href={`https://coversjukebox.com/volume/${parseFloat(currentAlbum) +
+            1}`}
+        />
+      );
+    }
+  }
+
+  renderPreviousLink(currentAlbum) {
+    if (currentAlbum > 1) {
+      return (
+        <link
+          rel="previous"
+          href={`https://coversjukebox.com/volume/${parseFloat(currentAlbum) -
+            1}`}
+        />
+      );
+    }
+  }
+
   render() {
     const currentAlbum = this.props.currentAlbum;
 
@@ -82,6 +106,25 @@ class Album extends React.Component {
       <React.Fragment>
         <Helmet>
           <title>Under The Covers, Volume {currentAlbum}</title>
+          <meta
+            name="description"
+            content={`Under The Covers, Vol. ${currentAlbum} is one of a collection of ${
+              Object.keys(this.props.volumes).length
+            } mixes made entirely of cover songs.`}
+          />
+          <meta
+            name="copyright"
+            content="The respective artists and original writers of these songs."
+          />
+          <link rel="first" href="https://coversjukebox.com/volume/1" />
+          {this.renderPreviousLink(currentAlbum)}
+          {this.renderNextLink(currentAlbum)}
+          <link
+            rel="last"
+            href={`https://coversjukebox.com/volume/${
+              Object.keys(this.props.volumes).length
+            }`}
+          />
         </Helmet>
         <div className="album">
           <figure className="album__jacket">

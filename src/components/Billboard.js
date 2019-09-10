@@ -19,6 +19,10 @@ class Billboard extends React.Component {
           <title>
             {`Under The Covers • ${this.props.volumeCount} volumes of cover songs`}
           </title>
+          <meta
+            name="description"
+            content={`Under The Covers is a collection of ${this.props.volumeCount} mixes made entirely of cover songs.`}
+          />
         </Helmet>
         <header className="billboard">
           <h1 className="billboard__title">

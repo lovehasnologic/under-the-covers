@@ -27,6 +27,12 @@ class Stats extends React.Component {
       <React.Fragment>
         <Helmet>
           <title>Top Artists • Under The Covers</title>
+          <meta
+            name="description"
+            content={`A list of artists appearing throughout the ${
+              Object.keys(this.props.volumes).length
+            } mixes made entirely of cover songs that make up the Under The Covers collection.`}
+          />
         </Helmet>
         <div className="stats">
           <h1 className="stats__heading">Jukebox Statistics</h1>
