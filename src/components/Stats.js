@@ -6,23 +6,16 @@ import { Helmet } from "react-helmet";
 class Stats extends React.Component {
   static propTypes = {
     volumes: PropTypes.object.isRequired,
-    artists: PropTypes.array.isRequired,
-    original_artists: PropTypes.array.isRequired,
+    artists: PropTypes.array,
+    original_artists: PropTypes.array,
     rankUniqueValues: PropTypes.func.isRequired,
     setActiveAlbum: PropTypes.func.isRequired
   };
 
-  state = {
-    artists: [],
-    original_artists: []
-  };
-
   componentDidMount() {
     this.props.setActiveAlbum("0");
-  }
-
-  componentDidUpdate(prevProps, prevState) {
     if (this.props.artists.length < 1) {
+      console.log("mounted");
       this.props.rankUniqueValues("artist", "artists");
       this.props.rankUniqueValues("original_artist", "original_artists");
     }

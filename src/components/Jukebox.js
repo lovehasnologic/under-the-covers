@@ -4,11 +4,14 @@ import Selections from "./Selections";
 import PlayerWindow from "./PlayerWindow";
 import volumes from "../data/volumes.json";
 
+let stats = {
+  artists: [],
+  original_artists: []
+};
+
 class Jukebox extends React.Component {
   state = {
-    currentAlbum: "",
-    artists: [],
-    original_artists: []
+    currentAlbum: ""
   };
 
   setActiveAlbum = volumeNumber => {
@@ -61,9 +64,7 @@ class Jukebox extends React.Component {
 
     rankedValues = rankedValues.sort((a, b) => b.count - a.count);
 
-    this.setState({
-      [state]: rankedValues
-    });
+    stats[state] = rankedValues;
   };
 
   render() {
@@ -80,8 +81,8 @@ class Jukebox extends React.Component {
           clearAlbum={this.clearAlbum}
           setActiveAlbum={this.setActiveAlbum}
           albumDetails={this.state.albumDetails}
-          artists={this.state.artists}
-          original_artists={this.state.original_artists}
+          artists={stats.artists}
+          original_artists={stats.original_artists}
           rankUniqueValues={this.rankUniqueValues}
         />
       </Router>
