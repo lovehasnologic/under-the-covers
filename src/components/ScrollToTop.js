@@ -3,7 +3,10 @@ import { withRouter } from "react-router-dom";
 
 class ScrollToTop extends React.Component {
   componentDidUpdate(prevProps) {
-    if (this.props.location.pathname !== prevProps.location.pathname) {
+    if (
+      this.props.location.pathname !== prevProps.location.pathname &&
+      window.innerWidth < 1200
+    ) {
       setTimeout(function() {
         window.scrollTo({
           top: 0,
