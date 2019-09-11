@@ -7,8 +7,8 @@
 - [x] Add Helmet to manage meta tags
 - [ ] Add Social Media Tags
 - [ ] Add favicon
-- [ ] Add schema markup
+- [x] Add schema markup
 - [ ] Create playable tracks in browser
 - [ ] Redesign "info" controls
 - [ ] Animate Album fade ins/outs
-- [ ] Setup https
+- [x] Setup https

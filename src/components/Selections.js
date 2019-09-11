@@ -19,7 +19,17 @@ class Selections extends React.Component {
               : "hide"
             : ""
         }`}
+        itemScope=""
+        itemType="https://schema.org/Collection"
       >
+        <meta
+          itemProp="collectionSize"
+          content={Object.keys(this.props.volumes).length}
+        />
+        <meta
+          itemProp="about"
+          content="A collection of mixes made entirely of cover songs."
+        />
         {Object.keys(this.props.volumes).map(volume => (
           <Tag
             details={this.props.volumes[volume]}

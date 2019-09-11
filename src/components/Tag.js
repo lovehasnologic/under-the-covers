@@ -31,7 +31,9 @@ class Tag extends React.Component {
       >
         <Link to={`/volume/${this.props.volume}`} className="tag grid">
           <span className="tag__label">
-            <span className="tag__volumeNumber">{this.props.volume}</span>
+            <span className="tag__volumeNumber" itemProp="hasPart">
+              {this.props.volume}
+            </span>
           </span>
         </Link>
         {this.setCloseLink()}

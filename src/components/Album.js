@@ -100,7 +100,7 @@ class Album extends React.Component {
   }
 
   render() {
-    const currentAlbum = this.props.currentAlbum;
+    const currentAlbum = this.props.match.params.volume;
 
     return (
       <React.Fragment>
@@ -126,7 +126,17 @@ class Album extends React.Component {
             }`}
           />
         </Helmet>
-        <div className="album">
+        <div className="album" itemType="MusicPlaylist" itemScope="">
+          <meta
+            itemProp="name"
+            content={`Under The Covers, Vol. ${currentAlbum}`}
+          />
+          <meta
+            itemProp="numTracks"
+            content={
+              Object.keys(this.props.volumes[currentAlbum].tracklist).length
+            }
+          />
           <figure className="album__jacket">
             <img
               className="album__cover"
@@ -143,6 +153,7 @@ class Album extends React.Component {
               sizes="(max-width: 50.0625em) 72.5vw, (max-width: 75em) 500px, calc((100vh - 9.722222rem) * .3)"
               src={`/assets/images/${currentAlbum}/600.jpg`}
               alt={`Under The Covers, Vol. ${currentAlbum} Cover Artwork`}
+              itemProp="image"
             />
             <Download currentAlbum={currentAlbum} />
           </figure>

@@ -40,8 +40,15 @@ class Stats extends React.Component {
             <h2 className="stats__subHeading">Top Players</h2>
             <ol className="stats__topList">
               {this.props.artists.slice(0, chartCount).map(value => (
-                <li key={value.value} className="stats__topItem">
-                  <span className="stats__topArtist">{value.value}</span>
+                <li
+                  key={value.value}
+                  className="stats__topItem"
+                  itemScope=""
+                  itemType="https://schema.org/MusicGroup"
+                >
+                  <span className="stats__topArtist" itemProp="name">
+                    {value.value}
+                  </span>
                   <span className="stats__topCount">{value.count}</span>
                 </li>
               ))}
@@ -56,8 +63,13 @@ class Stats extends React.Component {
                     : -1
                 )
                 .map(value => (
-                  <span className="stats__otherArtist" key={value.value}>
-                    {value.value}
+                  <span
+                    className="stats__otherArtist"
+                    key={value.value}
+                    itemScope=""
+                    itemType="https://schema.org/MusicGroup"
+                  >
+                    <span itemProp="name">{value.value}</span>
                   </span>
                 ))}
             </p>
