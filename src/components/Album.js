@@ -1,8 +1,9 @@
 import React from "react";
 import PropTypes from "prop-types";
+import { Helmet } from "react-helmet";
+import { CSSTransition, SwitchTransition } from "react-transition-group";
 import Track from "./Track";
 import Download from "./Download";
-import { Helmet } from "react-helmet";
 
 class Album extends React.Component {
   state = {
@@ -103,44 +104,51 @@ class Album extends React.Component {
     const currentAlbum = this.props.match.params.volume;
 
     return (
-      <React.Fragment>
-        <Helmet>
-          <title>Under The Covers, Volume {currentAlbum}</title>
-          <meta
-            name="description"
-            content={`Under The Covers, Vol. ${currentAlbum} is one of a collection of ${
-              Object.keys(this.props.volumes).length
-            } mixes made entirely of cover songs.`}
-          />
-          <meta
-            name="copyright"
-            content="The respective artists and original writers of these songs."
-          />
-          <link rel="first" href="https://coversjukebox.com/volume/1" />
-          {this.renderPreviousLink(currentAlbum)}
-          {this.renderNextLink(currentAlbum)}
-          <link
-            rel="last"
-            href={`https://coversjukebox.com/volume/${
-              Object.keys(this.props.volumes).length
-            }`}
-          />
-        </Helmet>
-        <div className="album" itemType="MusicPlaylist" itemScope="">
-          <meta
-            itemProp="name"
-            content={`Under The Covers, Vol. ${currentAlbum}`}
-          />
-          <meta
-            itemProp="numTracks"
-            content={
-              Object.keys(this.props.volumes[currentAlbum].tracklist).length
-            }
-          />
-          <figure className="album__jacket">
-            <img
-              className="album__cover"
-              srcSet={`
+      <SwitchTransition>
+        <CSSTransition
+          key={this.props.match.params.volume}
+          timeout={625}
+          classNames="loadAlbum"
+          appear={true}
+        >
+          <React.Fragment>
+            <Helmet>
+              <title>Under The Covers, Volume {currentAlbum}</title>
+              <meta
+                name="description"
+                content={`Under The Covers, Vol. ${currentAlbum} is one of a collection of ${
+                  Object.keys(this.props.volumes).length
+                } mixes made entirely of cover songs.`}
+              />
+              <meta
+                name="copyright"
+                content="The respective artists and original writers of these songs."
+              />
+              <link rel="first" href="https://coversjukebox.com/volume/1" />
+              {this.renderPreviousLink(currentAlbum)}
+              {this.renderNextLink(currentAlbum)}
+              <link
+                rel="last"
+                href={`https://coversjukebox.com/volume/${
+                  Object.keys(this.props.volumes).length
+                }`}
+              />
+            </Helmet>
+            <div className="album" itemType="MusicPlaylist" itemScope="">
+              <meta
+                itemProp="name"
+                content={`Under The Covers, Vol. ${currentAlbum}`}
+              />
+              <meta
+                itemProp="numTracks"
+                content={
+                  Object.keys(this.props.volumes[currentAlbum].tracklist).length
+                }
+              />
+              <figure className="album__jacket">
+                <img
+                  className="album__cover"
+                  srcSet={`
                 /assets/images/${currentAlbum}/300.jpg 300w,
                 /assets/images/${currentAlbum}/400.jpg 400w,
                 /assets/images/${currentAlbum}/600.jpg 600w,
@@ -150,18 +158,20 @@ class Album extends React.Component {
                 /assets/images/${currentAlbum}/1800.jpg 1800w,
                 /assets/images/${currentAlbum}/2400.jpg 2400w
               `}
-              sizes="(max-width: 50.0625em) 72.5vw, (max-width: 75em) 500px, calc((100vh - 9.722222rem) * .3)"
-              src={`/assets/images/${currentAlbum}/600.jpg`}
-              alt={`Under The Covers, Vol. ${currentAlbum} Cover Artwork`}
-              itemProp="image"
-            />
-            <Download currentAlbum={currentAlbum} />
-          </figure>
-          <ol className="album__tracklist">
-            {this.renderTracklist(currentAlbum)}
-          </ol>
-        </div>
-      </React.Fragment>
+                  sizes="(max-width: 50.0625em) 72.5vw, (max-width: 75em) 500px, calc((100vh - 9.722222rem) * .3)"
+                  src={`/assets/images/${currentAlbum}/600.jpg`}
+                  alt={`Under The Covers, Vol. ${currentAlbum} Cover Artwork`}
+                  itemProp="image"
+                />
+                <Download currentAlbum={currentAlbum} />
+              </figure>
+              <ol className="album__tracklist">
+                {this.renderTracklist(currentAlbum)}
+              </ol>
+            </div>
+          </React.Fragment>
+        </CSSTransition>
+      </SwitchTransition>
     );
   }
 }

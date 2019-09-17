@@ -14,6 +14,8 @@
 
 $albumPadding: $grid--rows;
 $singleColumnMaxWidth: 500px;
+$duration--artwork: calc(var(--duration--slow) * 2);
+$duration--download: var(--duration);
 
 // -----------------------------------------------------------------------------
 // -- Album
@@ -57,8 +59,32 @@ $singleColumnMaxWidth: 500px;
 
 .album__cover {
   width: 100%;
+  transition: opacity $duration--artwork var(--ease-in-out), transform $duration--artwork var(--ease-out);
   border-radius: 4px;
   box-shadow: 0 8px 16px -4px rgba(0, 0, 0, .5);
+
+  .loadAlbum-enter &,
+  .loadAlbum-appear & {
+    transform: scale(.95) translateY(-10%);
+    opacity: 0;
+  }
+
+  .loadAlbum-enter-active &,
+  .loadAlbum-appear-active & {
+    transform: scale(1) translateY(0%);
+    opacity: 1;
+  }
+
+  .loadAlbum-exit & {
+    transition-delay: $duration--download;
+    transform: scale(1) translateY(0%);
+    opacity: 1;
+  }
+
+  .loadAlbum-exit-active & {
+    transform: scale(.95) translateY(20%);
+    opacity: 0;
+  }
 }
 
 .album__tracklist {
@@ -89,12 +115,43 @@ $singleColumnMaxWidth: 500px;
   padding: .25em;
   padding-left: 2em;
   counter-increment: tracklisting;
+  transition: transform var(--duration--slow) var(--ease-in-out),
+  opacity var(--duration--slow) var(--ease-in-out);
+
+  .loadAlbum-enter &,
+  .loadAlbum-appear & {
+    transform: translateX(10vh);
+    opacity: 0;
+  }
+
+  .loadAlbum-enter-active &,
+  .loadAlbum-appear-active & {
+    transform: translateX(0);
+    opacity: 1;
+  }
+
+  .loadAlbum-exit & {
+    transform: translateX(0);
+    opacity: 1;
+  }
+
+  .loadAlbum-exit-active & {
+    transform: translateX(10vh);
+    opacity: 0;
+  }
+
+  @for $i from 1 through 30 {
+    &:nth-child(#{$i}) {
+      transition-delay: .0125s * ($i - 1);
+    }
+  }
 
   &::before {
     font-weight: 900;
     position: absolute;
     right: calc(100% - #{rem(24)});
     content: counter(tracklisting);
+    transition: color var(--duration--slow) linear;
     color: var(--accentColor, var(--baseFontColor));
   }
 
@@ -132,16 +189,46 @@ $singleColumnMaxWidth: 500px;
   font-weight: 900;
   line-height: 1;
   display: block;
-  margin-top: 2em;
+  overflow: hidden;
+  box-sizing: border-box;
+  margin: 2em auto 0;
+  transition: width $duration--download var(--ease-in-out);
+  white-space: nowrap;
   text-decoration: none;
   color: var(--baseFontColor);
-  border: 3px solid var(--baseFontColor);
   background: var(--bgColor);
+  box-shadow: inset 0 0 0 3px var(--baseFontColor);
+
+  .loadAlbum-enter &,
+  .loadAlbum-appear & {
+    width: 0%;
+    transition-delay: $duration--artwork;
+  }
+
+  .loadAlbum-enter-active &,
+  .loadAlbum-appear-active & {
+    width: 100%;
+  }
+
+  .loadAlbum-exit & {
+    width: 100%;
+  }
+
+  .loadAlbum-exit-active & {
+    width: 0%;
+  }
+
+  .loadAlbum-appear-active &,
+  .loadAlbum-enter-active &,
+  .loadAlbum-exit-active & {
+    background: transparent;
+  }
 }
 
 .download__content {
   position: relative;
   display: block;
+  margin: 0 -100%;
   padding: 1em;
   text-align: center;
   text-decoration: none;
@@ -151,16 +238,16 @@ $singleColumnMaxWidth: 500px;
     position: absolute;
     z-index: 1;
     top: 0;
-    right: 100%;
+    right: 66.666666666%;
     bottom: 0;
-    left: 0;
+    left: 33.333333333%;
     content: '';
     transition: var(--duration) right var(--ease-in-out);
     background: var(--baseFontColor);
   }
 
   &:hover::before {
-    right: 0;
+    right: 33.333333333%;
   }
 }
 
