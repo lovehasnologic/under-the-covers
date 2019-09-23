@@ -114,6 +114,48 @@ class Album extends React.Component {
           <React.Fragment>
             <Helmet>
               <title>Under The Covers, Volume {currentAlbum}</title>
+              <meta name="og:title" content={`Volume ${currentAlbum}`} />
+              <meta name="og:type" content="music.playlist" />
+              <meta
+                name="og:description"
+                content={`Under The Covers, Vol. ${currentAlbum} is one of a collection of ${
+                  Object.keys(this.props.volumes).length
+                } mixes made entirely of cover songs.`}
+              />
+              <meta
+                property="og:image:secure_url"
+                content={`https://coversjukebox.com/assets/images/${currentAlbum}/2400.jpg`}
+              />
+              <meta property="og:image:type" content="image/jpeg" />
+              <meta property="og:image:width" content="2400" />
+              <meta property="og:image:height" content="2400" />
+              <meta
+                property="og:image:alt"
+                content={`Cover artwork for Under The Covers, Vol. ${currentAlbum}`}
+              />
+              <meta
+                name="og:url"
+                content={`https://coversjukebox.com/volume/${currentAlbum}`}
+              />
+              <meta name="twitter:card" content="summary" />
+              <meta
+                name="twitter:title"
+                content={`Under The Covers, Volume ${currentAlbum}`}
+              />
+              <meta
+                name="twitter:description"
+                content={`Under The Covers, Vol. ${currentAlbum} is one of a collection of ${
+                  Object.keys(this.props.volumes).length
+                } mixes made entirely of cover songs.`}
+              />
+              <meta
+                name="twitter:image"
+                content={`https://coversjukebox.com/assets/images/${currentAlbum}/2400.jpg`}
+              />
+              <meta
+                property="twitter:image:alt"
+                content={`Cover artwork for Under The Covers, Vol. ${currentAlbum}`}
+              />
               <meta
                 name="description"
                 content={`Under The Covers, Vol. ${currentAlbum} is one of a collection of ${

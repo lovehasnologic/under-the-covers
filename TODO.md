@@ -7,13 +7,14 @@
 - [x] Add link to info page
 - [x] Add meta tags to head
 - [x] Add Helmet to manage meta tags
-- [ ] Add Social Media Tags
-- [ ] Add favicon
+- [x] Add Social Media Tags
+- [x] Add favicon
 - [x] Add schema markup
 - [ ] Create playable tracks in browser
 - [ ] Redesign "info" controls
 - [x] Animate Album fade ins/outs
 - [x] Setup https
+- [ ] Setup 404 page
 
 ### Artwork:
 

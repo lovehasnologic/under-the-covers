@@ -20,6 +20,44 @@ class Billboard extends React.Component {
             {`Under The Covers • ${this.props.volumeCount} volumes of cover songs`}
           </title>
           <meta
+            name="og:title"
+            content={`Under The Covers: ${this.props.volumeCount} volumes of cover songs`}
+          />
+          <meta name="og:type" content="website" />
+          <meta
+            name="og:description"
+            content={`Under The Covers is a collection of ${this.props.volumeCount} mixes made entirely of cover songs.`}
+          />
+          <meta
+            property="og:image:secure_url"
+            content={`https://coversjukebox.com/assets/images/favicons/social-default.png`}
+          />
+          <meta property="og:image:type" content="image/png" />
+          <meta property="og:image:width" content="825" />
+          <meta property="og:image:height" content="825" />
+          <meta
+            property="og:image:alt"
+            content="Under The Covers Website Billboard"
+          />
+          <meta name="og:url" content="https://coversjukebox.com/" />
+          <meta name="twitter:card" content="summary" />
+          <meta
+            name="twitter:title"
+            content={`Under The Covers: ${this.props.volumeCount} volumes of cover songs`}
+          />
+          <meta
+            name="twitter:description"
+            content={`Under The Covers is a collection of ${this.props.volumeCount} mixes made entirely of cover songs.`}
+          />
+          <meta
+            name="twitter:image"
+            content={`https://coversjukebox.com/assets/images/favicons/social-default.png`}
+          />
+          <meta
+            property="twitter:image:alt"
+            content={`Under The Covers Website Billboard`}
+          />
+          <meta
             name="description"
             content={`Under The Covers is a collection of ${this.props.volumeCount} mixes made entirely of cover songs.`}
           />

@@ -26,6 +26,51 @@ class Stats extends React.Component {
       <React.Fragment>
         <Helmet>
           <title>Top Artists • Under The Covers</title>
+          <meta name="og:title" content="Top Artists on Under The Covers" />
+          <meta name="og:type" content="website" />
+          <meta
+            name="og:description"
+            content={`A list of artists appearing throughout the ${
+              Object.keys(this.props.volumes).length
+            } mixes made entirely of cover songs that make up the Under The Covers collection.`}
+          />
+          <meta
+            property="og:image:secure_url"
+            content={`https://coversjukebox.com/assets/images/favicons/social-default.png`}
+          />
+          <meta property="og:image:type" content="image/png" />
+          <meta property="og:image:width" content="825" />
+          <meta property="og:image:height" content="825" />
+          <meta
+            property="og:image:alt"
+            content="Under The Covers Website Billboard"
+          />
+          <meta name="og:url" content="https://coversjukebox.com/stats" />
+          <meta name="twitter:card" content="summary" />
+          <meta
+            name="twitter:title"
+            content="Top Artists on Under The Covers"
+          />
+          <meta
+            name="twitter:description"
+            content={`A list of artists appearing throughout the ${
+              Object.keys(this.props.volumes).length
+            } mixes made entirely of cover songs that make up the Under The Covers collection.`}
+          />
+          <meta
+            name="twitter:image"
+            content={`https://coversjukebox.com/assets/images/favicons/social-default.png`}
+          />
+          <meta
+            property="twitter:image:alt"
+            content={`Under The Covers Website Billboard`}
+          />
+          <meta
+            name="description"
+            content={`A list of artists appearing throughout the ${
+              Object.keys(this.props.volumes).length
+            } mixes made entirely of cover songs that make up the Under The Covers collection.`}
+          />
           <meta
             name="description"
             content={`A list of artists appearing throughout the ${

@@ -436,7 +436,7 @@
 		},
 	"/public/assets/images/1/1200.jpg": {
 		"ft": 16384,
-		"iS": 278645,
+		"iS": 177431,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/1/1200.jpg",
@@ -513,7 +513,7 @@
 		},
 	"/public/assets/images/1/900.jpg": {
 		"ft": 16384,
-		"iS": 112465,
+		"iS": 178392,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/1/900.jpg",
@@ -1481,7 +1481,7 @@
 		},
 	"/public/assets/images/2/900.jpg": {
 		"ft": 16384,
-		"iS": 122795,
+		"iS": 80313,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/public/assets/images/2/900.jpg",
@@ -2339,7 +2339,7 @@
 		},
 	"/public/assets/images/6/400.jpg": {
 		"ft": 16384,
-		"iS": 42913,
+		"iS": 26951,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/6/.400~imageoptim.jpg",
@@ -2350,7 +2350,7 @@
 		},
 	"/public/assets/images/6/600.jpg": {
 		"ft": 16384,
-		"iS": 78025,
+		"iS": 50239,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/public/assets/images/6/600.jpg",
@@ -2372,7 +2372,7 @@
 		},
 	"/public/assets/images/7/1200.jpg": {
 		"ft": 16384,
-		"iS": 269752,
+		"iS": 154477,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/7/1200.jpg",
@@ -2537,7 +2537,7 @@
 		},
 	"/public/assets/images/8/900.jpg": {
 		"ft": 16384,
-		"iS": 215706,
+		"iS": 140022,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/public/assets/images/8/900.jpg",
@@ -2570,7 +2570,7 @@
 		},
 	"/public/assets/images/9/1800.jpg": {
 		"ft": 16384,
-		"iS": 339307,
+		"iS": 526134,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/9/1800.jpg",
@@ -2898,6 +2898,17 @@
 		"oA": 0,
 		"oAP": "/public/assets/images/favicons/site.webmanifest",
 		"oF": 0
+		},
+	"/public/assets/images/favicons/social-default.png": {
+		"ft": 32768,
+		"iS": 30360,
+		"oA": 0,
+		"oAP": "/public/assets/images/favicons/social-default.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"/public/assets/images/icons/info.svg": {
 		"ft": 2097152,
