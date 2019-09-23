@@ -8,12 +8,18 @@ class NavItem extends React.Component {
   };
 
   render() {
+    const location = this.props.location;
     return (
       <li className="nav__item">
-        <Link to={`/${this.props.location}`} className="nav__link">
+        <Link
+          to={`/${location}`}
+          className="nav__link"
+          title={`Link to ${location} page`}
+        >
           <img
-            src={`/assets/images/icons/${this.props.location}.svg`}
+            src={`/assets/images/icons/${location}.svg`}
             className="nav__icon"
+            alt={`${location} icon`}
           />
         </Link>
       </li>
