@@ -15,7 +15,6 @@ class Stats extends React.Component {
   componentDidMount() {
     this.props.setActiveAlbum("0");
     if (this.props.artists.length < 1) {
-      console.log("mounted");
       this.props.rankUniqueValues("artist", "artists");
       this.props.rankUniqueValues("original_artist", "original_artists");
     }
