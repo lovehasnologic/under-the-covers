@@ -26,7 +26,7 @@ $statsPadding: $grid--rows;
   flex-basis: calc(50% - (#{$statsPadding} / 2));
 }
 
-.stats__home {
+.link__home {
   position: absolute;
   top: $statsPadding / 2;
   left: $statsPadding / 2;

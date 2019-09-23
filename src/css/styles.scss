@@ -5,8 +5,6 @@
 //  - Settings
 //  - Base
 //  - Components
-//  - Sections
-//  - Junk File
 // -----------------------------------------------------------------------------
 
 // -----------------------------------------------------------------------------
@@ -37,10 +35,6 @@
 
 @import 'base/reset';
 @import 'base/grid';
-//
-// @import "base/layout";
-// @import "base/typography";
-// @import "base/visibility";
 
 // -----------------------------------------------------------------------------
 // -- Components
@@ -50,32 +44,6 @@
 @import 'components/billboard';
 @import 'components/close';
 @import 'components/jukebox';
+@import 'components/nav';
 @import 'components/stats';
 @import 'components/tag';
-// @import "components/carousel";
-// @import "components/charts";
-// @import "components/sectionTypography";
-// @import "components/tables";
-
-// -----------------------------------------------------------------------------
-// -- Sections
-// -----------------------------------------------------------------------------
-
-// @import "sections/environment";
-// @import "sections/experiences";
-// @import "sections/footer";
-// @import "sections/global-brands";
-// @import "sections/header";
-// @import "sections/highlights";
-// @import "sections/innovations";
-// @import "sections/leadership";
-// @import "sections/legal";
-// @import "sections/navigation";
-// @import "sections/performance";
-// @import "sections/thank-you";
-
-// -----------------------------------------------------------------------------
-// -- Junk File
-// -----------------------------------------------------------------------------
-
-// @import "junkfile";

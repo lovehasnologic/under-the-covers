@@ -2,9 +2,9 @@
 
 - [x] Move data from state to a constant
 - [x] Scroll to top when selected
-- [ ] Add link to stats page
+- [x] Add link to stats page
 - [ ] Create info page
-- [ ] Add link to info page
+- [x] Add link to info page
 - [x] Add meta tags to head
 - [x] Add Helmet to manage meta tags
 - [ ] Add Social Media Tags

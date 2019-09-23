@@ -72,12 +72,12 @@
   min-height: 100vh;
   pointer-events: none;
 
-  &.albumLoaded,
-  &.pageLoaded {
+  .albumLoaded &,
+  .pageLoaded & {
     pointer-events: auto;
   }
 
-  &.pageLoaded {
+  .pageLoaded & {
     grid-column: tag-start / player-window;
   }
 }

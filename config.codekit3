@@ -513,7 +513,7 @@
 		},
 	"/public/assets/images/1/900.jpg": {
 		"ft": 16384,
-		"iS": 112465,
+		"iS": 178392,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/1/900.jpg",
@@ -1437,7 +1437,7 @@
 		},
 	"/public/assets/images/2/2400.jpg": {
 		"ft": 16384,
-		"iS": 430804,
+		"iS": 301043,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/2/.2400~imageoptim.jpg",
@@ -2537,7 +2537,7 @@
 		},
 	"/public/assets/images/8/900.jpg": {
 		"ft": 16384,
-		"iS": 215706,
+		"iS": 140022,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/public/assets/images/8/900.jpg",
@@ -2548,7 +2548,7 @@
 		},
 	"/public/assets/images/9/1200.jpg": {
 		"ft": 16384,
-		"iS": 301109,
+		"iS": 183898,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/9/1200.jpg",
@@ -2625,7 +2625,7 @@
 		},
 	"/public/assets/images/9/900.jpg": {
 		"ft": 16384,
-		"iS": 186020,
+		"iS": 112724,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/9/900.jpg",
@@ -2633,6 +2633,26 @@
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
+		},
+	"/public/assets/images/icons/info.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/public/assets/images/icons/info.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/public/assets/images/icons/stats.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/public/assets/images/icons/stats.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
 		},
 	"/public/assets/js/index-dist.js": {
 		"bF": 0,
@@ -2758,6 +2778,17 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"/src/components/Info.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/src/components/Info-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"/src/components/Jukebox.js": {
 		"bF": 0,
 		"ft": 64,
@@ -2767,6 +2798,17 @@
 		"oAP": "/src/components/Jukebox-min.js",
 		"oF": 0,
 		"sC": 0,
+		"tS": 0
+		},
+	"/src/components/NavItem.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/src/components/NavItem-min.js",
+		"oF": 0,
+		"sC": 3,
 		"tS": 0
 		},
 	"/src/components/PlayerWindow.js": {
@@ -2909,6 +2951,19 @@
 		"ma": 1,
 		"oA": 1,
 		"oAP": "/public/assets/css/components/_jukebox.css",
+		"oF": 0,
+		"oS": 3,
+		"uL": 1
+		},
+	"/src/css/components/_nav.scss": {
+		"aP": 1,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 1,
+		"oA": 1,
+		"oAP": "/public/assets/css/components/_nav.css",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1

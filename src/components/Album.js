@@ -133,6 +133,7 @@ class Album extends React.Component {
                   Object.keys(this.props.volumes).length
                 }`}
               />
+              <body className="albumLoaded" />
             </Helmet>
             <div className="album" itemType="MusicPlaylist" itemScope="">
               <meta

@@ -4,6 +4,7 @@ import { Switch, Route } from "react-router-dom";
 import Billboard from "./Billboard";
 import Album from "./Album";
 import Stats from "./Stats";
+import Info from "./Info";
 import ScrollToTop from "./ScrollToTop";
 
 class PlayerWindow extends React.Component {
@@ -20,15 +21,7 @@ class PlayerWindow extends React.Component {
   render() {
     return (
       <ScrollToTop>
-        <div
-          className={`jukebox__player ${
-            this.props.currentAlbum !== ""
-              ? this.props.currentAlbum > 0
-                ? "albumLoaded"
-                : "pageLoaded"
-              : ""
-          }`}
-        >
+        <div className="jukebox__player">
           <Switch>
             <Route
               exact
@@ -52,6 +45,17 @@ class PlayerWindow extends React.Component {
                   artists={this.props.artists}
                   original_artists={this.props.original_artists}
                   rankUniqueValues={this.props.rankUniqueValues}
+                />
+              )}
+            />
+            <Route
+              exact
+              path="/info"
+              render={props => (
+                <Info
+                  {...props}
+                  setActiveAlbum={this.props.setActiveAlbum}
+                  volumes={this.props.volumes}
                 />
               )}
             />

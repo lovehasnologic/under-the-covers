@@ -33,6 +33,7 @@ class Stats extends React.Component {
               Object.keys(this.props.volumes).length
             } mixes made entirely of cover songs that make up the Under The Covers collection.`}
           />
+          <body className="pageLoaded" />
         </Helmet>
         <div className="stats">
           <h1 className="stats__heading">Jukebox Statistics</h1>
@@ -101,7 +102,7 @@ class Stats extends React.Component {
             </p>
           </div>
         </div>
-        <Link to="/" className="stats__home">
+        <Link to="/" className="link__home">
           &larr; Back To Selections
         </Link>
       </React.Fragment>

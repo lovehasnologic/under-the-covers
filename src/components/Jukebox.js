@@ -2,6 +2,7 @@ import React from "react";
 import { BrowserRouter as Router } from "react-router-dom";
 import Selections from "./Selections";
 import PlayerWindow from "./PlayerWindow";
+import NavItem from "./NavItem";
 import volumes from "../data/volumes.json";
 
 let stats = {
@@ -85,6 +86,12 @@ class Jukebox extends React.Component {
           original_artists={stats.original_artists}
           rankUniqueValues={this.rankUniqueValues}
         />
+        <nav className="nav">
+          <ul className="nav__list">
+            <NavItem location="info" />
+            <NavItem location="stats" />
+          </ul>
+        </nav>
       </Router>
     );
   }
