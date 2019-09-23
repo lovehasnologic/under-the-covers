@@ -447,7 +447,7 @@
 		},
 	"/public/assets/images/1/1500.jpg": {
 		"ft": 16384,
-		"iS": 392397,
+		"iS": 250570,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/1/1500.jpg",
@@ -513,7 +513,7 @@
 		},
 	"/public/assets/images/1/900.jpg": {
 		"ft": 16384,
-		"iS": 178392,
+		"iS": 112465,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/1/900.jpg",
@@ -1426,7 +1426,7 @@
 		},
 	"/public/assets/images/2/1800.jpg": {
 		"ft": 16384,
-		"iS": 202346,
+		"iS": 291827,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/public/assets/images/2/1800.jpg",
@@ -1481,7 +1481,7 @@
 		},
 	"/public/assets/images/2/900.jpg": {
 		"ft": 16384,
-		"iS": 80313,
+		"iS": 122795,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/public/assets/images/2/900.jpg",
@@ -2218,7 +2218,7 @@
 		},
 	"/public/assets/images/5/1800.jpg": {
 		"ft": 16384,
-		"iS": 643058,
+		"iS": 416007,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/5/1800.jpg",
@@ -2416,7 +2416,7 @@
 		},
 	"/public/assets/images/7/300.jpg": {
 		"ft": 16384,
-		"iS": 16350,
+		"iS": 25901,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/7/300.jpg",
@@ -2537,7 +2537,7 @@
 		},
 	"/public/assets/images/8/900.jpg": {
 		"ft": 16384,
-		"iS": 140022,
+		"iS": 215706,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/public/assets/images/8/900.jpg",
@@ -2548,7 +2548,7 @@
 		},
 	"/public/assets/images/9/1200.jpg": {
 		"ft": 16384,
-		"iS": 183898,
+		"iS": 301109,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/9/1200.jpg",
@@ -2634,6 +2634,271 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/public/assets/images/favicons/android-chrome-192x192.png": {
+		"ft": 32768,
+		"iS": 5159,
+		"oA": 0,
+		"oAP": "/public/assets/images/favicons/android-chrome-192x192.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/public/assets/images/favicons/android-chrome-512x512.png": {
+		"ft": 32768,
+		"iS": 11442,
+		"oA": 0,
+		"oAP": "/public/assets/images/favicons/android-chrome-512x512.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/public/assets/images/favicons/apple-touch-icon-120x120-precomposed.png": {
+		"ft": 32768,
+		"iS": 1608,
+		"oA": 0,
+		"oAP": "/public/assets/images/favicons/apple-touch-icon-120x120-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/public/assets/images/favicons/apple-touch-icon-120x120.png": {
+		"ft": 32768,
+		"iS": 1318,
+		"oA": 0,
+		"oAP": "/public/assets/images/favicons/apple-touch-icon-120x120.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/public/assets/images/favicons/apple-touch-icon-152x152-precomposed.png": {
+		"ft": 32768,
+		"iS": 2060,
+		"oA": 0,
+		"oAP": "/public/assets/images/favicons/apple-touch-icon-152x152-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/public/assets/images/favicons/apple-touch-icon-152x152.png": {
+		"ft": 32768,
+		"iS": 1547,
+		"oA": 0,
+		"oAP": "/public/assets/images/favicons/apple-touch-icon-152x152.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/public/assets/images/favicons/apple-touch-icon-180x180-precomposed.png": {
+		"ft": 32768,
+		"iS": 2294,
+		"oA": 0,
+		"oAP": "/public/assets/images/favicons/apple-touch-icon-180x180-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/public/assets/images/favicons/apple-touch-icon-180x180.png": {
+		"ft": 32768,
+		"iS": 1732,
+		"oA": 0,
+		"oAP": "/public/assets/images/favicons/apple-touch-icon-180x180.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/public/assets/images/favicons/apple-touch-icon-60x60-precomposed.png": {
+		"ft": 32768,
+		"iS": 1176,
+		"oA": 0,
+		"oAP": "/public/assets/images/favicons/apple-touch-icon-60x60-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/public/assets/images/favicons/apple-touch-icon-60x60.png": {
+		"ft": 32768,
+		"iS": 1080,
+		"oA": 0,
+		"oAP": "/public/assets/images/favicons/apple-touch-icon-60x60.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/public/assets/images/favicons/apple-touch-icon-76x76-precomposed.png": {
+		"ft": 32768,
+		"iS": 1317,
+		"oA": 0,
+		"oAP": "/public/assets/images/favicons/apple-touch-icon-76x76-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/public/assets/images/favicons/apple-touch-icon-76x76.png": {
+		"ft": 32768,
+		"iS": 1114,
+		"oA": 0,
+		"oAP": "/public/assets/images/favicons/apple-touch-icon-76x76.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/public/assets/images/favicons/apple-touch-icon-precomposed.png": {
+		"ft": 32768,
+		"iS": 2294,
+		"oA": 0,
+		"oAP": "/public/assets/images/favicons/apple-touch-icon-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/public/assets/images/favicons/apple-touch-icon.png": {
+		"ft": 32768,
+		"iS": 1732,
+		"oA": 0,
+		"oAP": "/public/assets/images/favicons/apple-touch-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/public/assets/images/favicons/browserconfig.xml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/images/favicons/browserconfig.xml",
+		"oF": 0
+		},
+	"/public/assets/images/favicons/favicon-16x16.png": {
+		"ft": 32768,
+		"iS": 656,
+		"oA": 0,
+		"oAP": "/public/assets/images/favicons/favicon-16x16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/public/assets/images/favicons/favicon-32x32.png": {
+		"ft": 32768,
+		"iS": 669,
+		"oA": 0,
+		"oAP": "/public/assets/images/favicons/favicon-32x32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/public/assets/images/favicons/favicon.ico": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/images/favicons/favicon.ico",
+		"oF": 0
+		},
+	"/public/assets/images/favicons/mstile-144x144.png": {
+		"ft": 32768,
+		"iS": 743,
+		"oA": 0,
+		"oAP": "/public/assets/images/favicons/mstile-144x144.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/public/assets/images/favicons/mstile-150x150.png": {
+		"ft": 32768,
+		"iS": 857,
+		"oA": 0,
+		"oAP": "/public/assets/images/favicons/mstile-150x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/public/assets/images/favicons/mstile-310x150.png": {
+		"ft": 32768,
+		"iS": 976,
+		"oA": 0,
+		"oAP": "/public/assets/images/favicons/mstile-310x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/public/assets/images/favicons/mstile-310x310.png": {
+		"ft": 32768,
+		"iS": 1214,
+		"oA": 0,
+		"oAP": "/public/assets/images/favicons/mstile-310x310.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/public/assets/images/favicons/mstile-70x70.png": {
+		"ft": 32768,
+		"iS": 629,
+		"oA": 0,
+		"oAP": "/public/assets/images/favicons/mstile-70x70.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/public/assets/images/favicons/safari-pinned-tab.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/public/assets/images/favicons/safari-pinned-tab.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/public/assets/images/favicons/site.webmanifest": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/images/favicons/site.webmanifest",
+		"oF": 0
+		},
 	"/public/assets/images/icons/info.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -2671,14 +2936,6 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/public/assets/js/index-dist.js.map",
-		"oF": 0
-		},
-	"/public/favicon.ico": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/public/favicon.ico",
 		"oF": 0
 		},
 	"/public/index.html": {
@@ -3145,7 +3402,7 @@
 	"creationDate": 587762157.18885899,
 	"displayValue": "under-the-covers",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "brackets-azure",
+	"iconImageName": "/public/assets/images/favicons/apple-touch-icon-120x120.png",
 	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
