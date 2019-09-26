@@ -1,20 +1,20 @@
 ### Development:
 
+- [ ] Create info page
+- [ ] Create playable tracks in browser
+- [ ] Redesign "info" controls
+- [ ] Setup 404 page
 - [x] Move data from state to a constant
 - [x] Scroll to top when selected
 - [x] Add link to stats page
-- [ ] Create info page
 - [x] Add link to info page
 - [x] Add meta tags to head
 - [x] Add Helmet to manage meta tags
 - [x] Add Social Media Tags
 - [x] Add favicon
 - [x] Add schema markup
-- [ ] Create playable tracks in browser
-- [ ] Redesign "info" controls
 - [x] Animate Album fade ins/outs
 - [x] Setup https
-- [ ] Setup 404 page
 
 ### Artwork:
 
@@ -25,3 +25,31 @@
 - [ ] 30 - David Bowie - Heroes
 - [ ] 31 - The Germs - GI
 - [ ] 32 - Seals & Croft - Summer Breeze
+
+### Fix Track Glitch Problems:
+
+- [ ] 1
+- [ ] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+- [ ] 6
+- [ ] 7
+- [ ] 8
+- [ ] 9
+- [ ] 10
+- [ ] 11
+- [ ] 12
+- [ ] 13
+- [ ] 14
+- [ ] 15
+- [ ] 16
+- [ ] 17
+- [ ] 18
+- [ ] 19
+- [ ] 20
+- [ ] 21
+- [ ] 22
+- [ ] 23
+- [ ] 24
+- [ ] 25
