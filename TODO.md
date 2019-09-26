@@ -4,6 +4,7 @@
 - [ ] Create playable tracks in browser
 - [ ] Redesign "info" controls
 - [ ] Setup 404 page
+- [ ] Research Hooks and refactor where appropriate
 - [x] Move data from state to a constant
 - [x] Scroll to top when selected
 - [x] Add link to stats page
