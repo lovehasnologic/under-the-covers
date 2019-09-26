@@ -1,10 +1,5 @@
 ### Development:
 
-- [ ] Create info page
-- [ ] Create playable tracks in browser
-- [ ] Redesign "info" controls
-- [ ] Setup 404 page
-- [ ] Research Hooks and refactor where appropriate
 - [x] Move data from state to a constant
 - [x] Scroll to top when selected
 - [x] Add link to stats page
@@ -16,6 +11,11 @@
 - [x] Add schema markup
 - [x] Animate Album fade ins/outs
 - [x] Setup https
+- [x] Setup 404 page
+- [ ] Create info page
+- [ ] Create playable tracks in browser
+- [ ] Redesign "info" controls
+- [ ] Research Hooks and refactor where appropriate
 
 ### Artwork:
 

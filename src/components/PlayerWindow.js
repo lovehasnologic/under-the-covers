@@ -5,6 +5,7 @@ import Billboard from "./Billboard";
 import Album from "./Album";
 import Stats from "./Stats";
 import Info from "./Info";
+import Missing from "./Missing";
 import ScrollToTop from "./ScrollToTop";
 
 class PlayerWindow extends React.Component {
@@ -61,7 +62,11 @@ class PlayerWindow extends React.Component {
             />
             <Route
               exact
-              path="/volume/:volume"
+              path={`/volume/:volume(${Object.keys(this.props.volumes)
+                .map(function(id) {
+                  return id;
+                })
+                .join("|")})`}
               render={props => (
                 <Album
                   {...props}
@@ -73,13 +78,26 @@ class PlayerWindow extends React.Component {
             />
             <Route
               exact
-              path="/volume/:volume/track/:track"
+              path={`/volume/:volume(${Object.keys(this.props.volumes)
+                .map(function(id) {
+                  return id;
+                })
+                .join("|")})/track/:track`}
               render={props => (
                 <Album
                   {...props}
                   currentAlbum={this.props.currentAlbum}
                   setActiveAlbum={this.props.setActiveAlbum}
                   volumes={this.props.volumes}
+                />
+              )}
+            />
+            <Route
+              render={props => (
+                <Missing
+                  {...props}
+                  volumeCount={Object.keys(this.props.volumes).length}
+                  clearAlbum={this.props.clearAlbum}
                 />
               )}
             />

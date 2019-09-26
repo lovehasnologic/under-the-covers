@@ -32,6 +32,18 @@
   text-transform: uppercase;
   text-shadow: 0 10px 30px rgba(0,0,0,.3);
 
+  .billboard--missing & {
+    font-size: 10vw;
+    font-weight: 700;
+
+    @include mq(2) {
+      font-size: 9vw;
+    }
+    @include mq(1) {
+      font-size: 8vw;
+    }
+  }
+
   * {
     line-height: 1;
     display: inline-block;
@@ -64,6 +76,15 @@
 
   @include mq(1) {
     font-size: .75em;
+  }
+
+  .billboard--missing & {
+    font-size: 1.5em;
+    margin-top: 1em;
+
+    @include mq(1) {
+      font-size: 1em;
+    }
   }
 }
 

@@ -32,7 +32,11 @@
   margin: 0;
   padding: 0;
   list-style-type: none;
-  transition: width var(--duration--slow) var(--ease-in-out);
+  transition: width var(--duration--slow) var(--ease-in-out),  filter var(--duration--slow) var(--ease-in-out);
+
+  .missing & {
+    filter: grayscale(1);
+  }
 
   &.albumSelected {
     width: rem($tagWidth);

@@ -298,14 +298,6 @@
 		"oAP": "/public/assets/albums/16.zip",
 		"oF": 0
 		},
-	"/public/assets/albums/17.zip": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/public/assets/albums/17.zip",
-		"oF": 0
-		},
 	"/public/assets/albums/18.zip": {
 		"cB": 0,
 		"ft": 8192,
@@ -447,7 +439,7 @@
 		},
 	"/public/assets/images/1/1500.jpg": {
 		"ft": 16384,
-		"iS": 250570,
+		"iS": 392397,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/1/1500.jpg",
@@ -1426,7 +1418,7 @@
 		},
 	"/public/assets/images/2/1800.jpg": {
 		"ft": 16384,
-		"iS": 291827,
+		"iS": 202346,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/public/assets/images/2/1800.jpg",
@@ -1437,7 +1429,7 @@
 		},
 	"/public/assets/images/2/2400.jpg": {
 		"ft": 16384,
-		"iS": 301043,
+		"iS": 430804,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/2/.2400~imageoptim.jpg",
@@ -1481,7 +1473,7 @@
 		},
 	"/public/assets/images/2/900.jpg": {
 		"ft": 16384,
-		"iS": 80313,
+		"iS": 122795,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/public/assets/images/2/900.jpg",
@@ -2218,7 +2210,7 @@
 		},
 	"/public/assets/images/5/1800.jpg": {
 		"ft": 16384,
-		"iS": 416007,
+		"iS": 643058,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/5/1800.jpg",
@@ -2339,7 +2331,7 @@
 		},
 	"/public/assets/images/6/400.jpg": {
 		"ft": 16384,
-		"iS": 26951,
+		"iS": 42913,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/6/.400~imageoptim.jpg",
@@ -2350,7 +2342,7 @@
 		},
 	"/public/assets/images/6/600.jpg": {
 		"ft": 16384,
-		"iS": 50239,
+		"iS": 78025,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/public/assets/images/6/600.jpg",
@@ -2372,7 +2364,7 @@
 		},
 	"/public/assets/images/7/1200.jpg": {
 		"ft": 16384,
-		"iS": 154477,
+		"iS": 269752,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/7/1200.jpg",
@@ -2548,7 +2540,7 @@
 		},
 	"/public/assets/images/9/1200.jpg": {
 		"ft": 16384,
-		"iS": 301109,
+		"iS": 183898,
 		"jF": 0,
 		"oA": 1,
 		"oAP": "/public/assets/images/9/1200.jpg",
@@ -3068,6 +3060,17 @@
 		"sC": 0,
 		"tS": 0
 		},
+	"/src/components/Missing.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/src/components/Missing-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"/src/components/NavItem.js": {
 		"bF": 0,
 		"ft": 64,
@@ -3075,17 +3078,6 @@
 		"mi": 1,
 		"oA": 1,
 		"oAP": "/src/components/NavItem-min.js",
-		"oF": 0,
-		"sC": 3,
-		"tS": 0
-		},
-	"/src/components/PlayerWindow.js": {
-		"bF": 0,
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 1,
-		"oAP": "/src/components/PlayerWindow-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
