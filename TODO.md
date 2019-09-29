@@ -12,7 +12,7 @@
 - [x] Animate Album fade ins/outs
 - [x] Setup https
 - [x] Setup 404 page
-- [ ] Fix UTI on Vol. 2
+- [x] Fix UTI on Vol. 2
 - [ ] Create info page
 - [ ] Create playable tracks in browser
 - [ ] Redesign "info" controls
