@@ -2505,11 +2505,12 @@
         "notes": "The original release of this record was as a 6 song EP, but was reissued several times in expanded editions. This song is on the Lookout! Records reissue."
       },
       "3": {
-        "artist": "Ra Ra Riot (feat. Delicate Steve)",
+        "artist": "Ra Ra Riot",
         "title": "Valerie",
         "album": "Split EP w/ Delicate Steve",
         "original_artist": "Steve Winwood",
-        "url": "https://www.discogs.com/Ra-Ra-Riot-Delicate-Steve-Valerie-The-Big-Ship/release/3557934"
+        "url": "https://www.discogs.com/Ra-Ra-Riot-Delicate-Steve-Valerie-The-Big-Ship/release/3557934",
+        "notes": "Track includes some help from Delicate Steve."
       },
       "4": {
         "artist": "Ben Folds",
@@ -3166,62 +3167,61 @@
         "original_artist": "Pixies",
         "url": "https://www.discogs.com/Adventures-Pity-Sex-Adventures-Pity-Sex/master/742935"
       },
-      "INSERT ARIANA DELAWARI HERE",
       "4": {
+        "artist": "Ariana Delawari",
+        "title": "Ziggy Stardust",
+        "album": "We Were So Turned On: A Tribute To David Bowie",
+        "original_artist": "David Bowie",
+        "url": "https://www.discogs.com/Various-We-Were-So-Turned-On-A-Tribute-To-David-Bowie/release/5953104"
+      },
+      "5": {
         "artist": "Transplants",
         "title": "Gratitude",
         "album": "Take Cover",
         "original_artist": "Beastie Boys",
         "url": "https://www.discogs.com/master/view/1269560"
       },
-      "5": {
+      "6": {
         "artist": "White Murder",
         "title": "Nice New Outfit",
         "album": "Everybody Wants Somewhere: A Tribute To Fugazi",
         "original_artist": "Fugazi",
         "url": "https://www.discogs.com/master/view/1269560"
       },
-      "6": {
+      "7": {
         "artist": "The Space Invaders",
         "title": "The Gambler",
         "album": "2/3 Bitch",
         "original_artist": "Kenny Rogers",
         "url": "https://www.discogs.com/The-Space-Invaders-23-Bitch/release/5816561"
       },
-      "7": {
+      "8": {
         "artist": "The Queers",
         "title": "Murder In The Brady House",
         "album": "My Old Man’s A Fatso",
         "original_artist": "Screeching Weasel",
         "url": "https://www.discogs.com/The-Queers-My-Old-Mans-A-Fatso/release/1112080"
       },
-      "8": {
+      "9": {
         "artist": "Baby Control",
         "title": "Pansy Twist",
         "album": "This Is Happening Without Your Permission, split with Triumph Of Lethargy Skinned Alive To Death & Tacocat",
         "original_artist": "Huggy Bear",
         "url": "https://www.discogs.com/Various-This-Is-Happening-Without-Your-Permission/release/2176638"
       },
-      "9": {
+      "10": {
         "artist": "Less Than Jake",
         "title": "Surrender",
         "album": "Anthem",
         "original_artist": "Cheap Trick",
         "url": "https://www.discogs.com/Less-Than-Jake-Anthem/master/65432"
       },
-      "10": {
+      "11": {
         "artist": "Spraynard",
         "title": "Our Retired Explorer",
         "album": "The Mark, Tom, And Patrick Show",
         "original_artist": "The Weakerthans",
         "url": "https://www.discogs.com/Spraynard-The-Mark-Tom-And-Patrick-Show/master/718417"
-      },
-      "11": {
-        "artist": "The Reputation",
-        "title": "For What It’s Worth",
-        "album": "Don’t Know When I’ll Be Back Again - A Compilation Benefiting American Veterans Of The Vietnam War",
-        "original_artist": "Buffalo Springfield",
-        "url": "https://www.discogs.com/Various-Dont-Know-When-Ill-Be-Back-Again-A-Compilation-Benefiting-American-Veterans-Of-The-Vietnam-W/release/2608307"
       },
       "12": {
         "artist": "Shout Out Louds",
@@ -3711,16 +3711,30 @@
         "title": "How Much More",
         "album": "Our Lips Are Sealed: A Tribute To The Go Go’s",
         "original_artist": "Go-Go’s",
-        "url": ""
+        "url": "https://www.discogs.com/Various-Our-Lips-Are-Sealed-A-Tribute-To-The-Go-Gos/master/590205"
       },
       "4": {
+        "artist": "Kirsty MacColl",
+        "title": "A New England",
+        "album": "What Do Pretty Girls Do?",
+        "original_artist": "Billy Bragg",
+        "url": "https://www.discogs.com/Kirsty-MacColl-What-Do-Pretty-Girls-Do/master/1179448"
+      },
+      "5": {
+        "artist": "Mäximo Park",
+        "title": "I'm Gonna Be (500 Miles)",
+        "album": "Books From Boxes EP",
+        "original_artist": "The Proclaimers",
+        "url": "https://www.discogs.com/Maxïmo-Park-Books-From-Boxes/release/991517"
+      },
+      "6": {
         "artist": "The Dorian Wood Guilt Trip",
         "title": "Little Boxes",
         "album": "Don’t Know When I’ll Be Back Again - A Compilation Benefiting American Veterans Of The Vietnam War",
         "original_artist": "Pete Seeger",
         "url": "https://www.discogs.com/Various-Dont-Know-When-Ill-Be-Back-Again-A-Compilation-Benefiting-American-Veterans-Of-The-Vietnam-W/release/2608307"
       },
-      "5": {
+      "7": {
         "artist": "Microkingdom",
         "title": "I’m On Fire",
         "album": "Split EP w/ Oxes",
@@ -3728,14 +3742,14 @@
         "url": "https://www.discogs.com/Oxes-Featuring-Will-Oldham-Microkingdom-Featuring-Samuel-T-Herring-Strong-Enough-Im-On-Fire/release/4125114",
         "notes": "Featuring Samuel T. Herring."
       },
-      "6": {
+      "8": {
         "artist": "Soophie Nun Squad",
         "title": "Wannabe",
         "album": "The Devil, The Metal, The Big Booty Beats",
         "original_artist": "Spice Girls",
         "url": "https://www.discogs.com/Soophie-Nun-Squad-The-DevilMetalBig-Booty-Beats/master/913684"
       },
-      "7": {
+      "9": {
         "artist": "Final Fantasy",
         "title": "Possibly Maybe",
         "album": "Enjoyed: A Tribute To Björk’s Post",
@@ -3743,113 +3757,105 @@
         "url": "https://www.discogs.com/Various-Enjoyed-A-Tribute-To-Björks-Post/release/1418150",
         "notes": "Featuring Ed Droste."
       },
-      "8": {
+      "10": {
+        "artist": "MMOSS",
+        "title": "Cathy’s Clown",
+        "album": "Trouble In Mind Covers EP 2013",
+        "original_artist": "The Everly Brothers",
+        "url": "https://www.discogs.com/Sinkhole-Groping-For-Trout/master/713408"
+      },
+      "11": {
         "artist": "Sinkhole",
         "title": "Come Sail Away",
         "album": "Groping For Trout",
         "original_artist": "Styx",
         "url": "https://www.discogs.com/Sinkhole-Groping-For-Trout/master/713408"
       },
-      "9": {
+      "12": {
         "artist": "Groovy Love Vibes",
         "title": "Good Time Music",
         "album": "Comin’ At Ya Sucka!, A Split EP w/ Smoking Popes",
         "original_artist": "The Brady Bunch",
         "url": "https://www.discogs.com/Smoking-Popes-Groovy-Love-Vibes-Split-7-Comin-At-Ya-Sucka/release/2176218"
       },
-      "10": {
+      "13": {
         "artist": "Tres Kids",
         "title": "Ack Ack Ack Ack",
         "album": "Split EP w/ Quadaliacha",
         "original_artist": "Minutemen",
         "url": "https://www.discogs.com/Quadiliacha-Tres-Kids-Butt-Nasty-Business/release/1342938"
       },
-      "11": {
+      "14": {
         "artist": "Mojo Hand",
         "title": "Let It Bleed",
         "album": "The Very Best Of Mojo Hand",
         "original_artist": "The Rolling Stones",
         "url": "https://www.discogs.com/Mojo-Hand-The-Very-Best-Of-7/release/3340629"
       },
-      "12": {
+      "15": {
         "artist": "The Gain",
         "title": "She Said, She Said",
         "album": "Beet The Meatles Compilation",
         "original_artist": "The Beatles",
         "url": "https://www.discogs.com/Various-Beet-The-Meatles/release/2005762"
       },
-      "13": {
+      "16": {
         "artist": "Parasites",
         "title": "Panama",
         "album": "Let’s Do It For Lance! J Church Tribute",
         "original_artist": "J Church",
         "url": "https://www.discogs.com/Various-Lets-Do-It-For-Lance-J-Church-Tribute/release/2933742"
       },
-      "14": {
+      "17": {
         "artist": "Sun Eats Hours",
         "title": "Ace Of Spades",
         "album": "Split LP w/ Nicotine",
         "original_artist": "Motörhead",
         "url": "https://www.discogs.com/Sun-Eats-Hours-Nicotine-Metal-Addiction/release/3136266"
       },
-      "15": {
+      "18": {
         "artist": "J. Page",
         "title": "Left Of The Dial",
         "album": "We’ll Inherit The Earth… A Tribute To The Replacements",
         "original_artist": "The Replacements",
         "url": "https://www.discogs.com/Various-Well-Inherit-The-EarthA-Tribute-To-The-Replacements/release/3704719"
       },
-      "16": {
+      "19": {
+        "artist": "Fifteen",
+        "title": "Rainbow Connection",
+        "album": "Extra Medium Kick Ball Star",
+        "original_artist": "The Muppets",
+        "url": "https://www.discogs.com/Various-Trouble-In-Mind-Covers-EP-2013/release/4492065"
+      },
+      "20": {
         "artist": "Down By Law",
         "title": "(What’s So Funny ’Bout) Peace, Love And Understanding",
         "album": "Before You Were Punk Compilation",
         "original_artist": "Nick Lowe",
         "url": "https://www.discogs.com/Various-Before-You-Were-Punk/release/1520952"
       },
-      "17": {
+      "21": {
         "artist": "Man Dingo",
         "title": "Walking On A Thin Line",
         "album": "All The Songs You’ve Always Hated",
         "original_artist": "Huey Lewis And The News",
         "url": "https://www.discogs.com/Mandingo-All-The-Songs-Youve-Always-Hated/master/817582"
       },
-      "18": {
+      "22": {
         "artist": "The Magnificent",
         "title": "A Song For The Helenas",
         "album": "Split EP w/ Elway",
         "original_artist": "The Bomb",
         "url": "https://www.discogs.com/The-Magnificent-4-Elway-The-Magnificent-Elway/release/3493780"
       },
-      "19": {
-        "artist": "MMOSS",
-        "title": "Cathy’s Clown",
-        "album": "Trouble In Mind Covers EP 2013",
-        "original_artist": "The Everly Brothers",
-        "url": "https://www.discogs.com/Various-Trouble-In-Mind-Covers-EP-2013/release/4492065"
-      },
-      "20": {
-        "artist": "Marissa Nadler",
-        "title": "No Surprises",
-        "album": "Stereogum Presents… OKX: A Tribute To OK Computer",
-        "original_artist": "Radiohead",
-        "url": "https://www.discogs.com/Various-OKX-A-Tribute-To-OK-Computer/release/1023910",
-        "notes": "Featuring Black Hole Infinity"
-      },
-      "21": {
-        "artist": "Peter Bjorn And John",
-        "title": "Is This It",
-        "album": "Stereogum Presents… STROKED: A Tribute To Is This It",
-        "original_artist": "The Strokes",
-        "url": "https://www.stereogum.com/767531/stroked-tribute-to-is-this-it/mp3s/"
-      },
-      "22": {
+      "23": {
         "artist": "Piebald",
         "title": "No One Else",
         "album": "Rock Music: A Tribute To Weezer",
         "original_artist": "Weezer",
         "url": "https://www.discogs.com/Various-Rock-Music-A-Tribute-To-Weezer/master/392300"
       },
-      "23": {
+      "24": {
         "artist": "Propagandhi",
         "title": "Technocracy",
         "album": "Victory Lap",
@@ -3922,7 +3928,7 @@
         "url": "https://www.discogs.com/Heaven-Breakfast-I-Was-A-Ghost/release/6013087"
       },
       "9": {
-        "artist": "Baby Ghost",
+        "artist": "Baby Ghosts",
         "title": "Dreams",
         "album": "Ghost Walk",
         "original_artist": "The Cranberries",
@@ -4103,7 +4109,7 @@
         "artist": "Numbers",
         "title": "Crimson And Clover",
         "album": "The Tomlab Alphabet Singles Series W",
-        "original_artist": "Tommy James & The Shondelles",
+        "original_artist": "Tommy James & The Shondells",
         "url": "https://www.discogs.com/Numbers-The-Tomlab-Alphabet-Singles-Series-W/release/1292889"
       },
       "13": {
@@ -4113,64 +4119,70 @@
         "original_artist": "The Velvet Underground",
         "url": "https://www.discogs.com/Lunkhead-No-Empathy-Split-7/release/1969217"
       },
-      "INSERT RISE AGAINST BOYS NO GOOD",
       "14": {
+        "artist": "Rise Against",
+        "title": "The Boy’s No Good",
+        "album": "Long Forgotten Songs: B-sides & Covers 2000-2013",
+        "original_artist": "Lifetime",
+        "url": "https://www.discogs.com/Rise-Against-Long-Forgotten-Songs-B-sides-Covers-2000-2013/master/598489"
+      },
+      "15": {
         "artist": "The Raging Nathans",
         "title": "I Need You Around",
         "album": "The Goldman Wedding Record",
         "original_artist": "Smoking Popes",
         "url": "https://www.discogs.com/Various-The-Goldman-Wedding-Record/release/6769653"
       },
-      "15": {
+      "16": {
         "artist": "Deerhoof",
         "title": "The Continuing Story Of Bungalow Bill",
         "album": "The Perfect Me",
         "original_artist": "The Beatles",
         "url": "https://www.discogs.com/Deerhoof-The-Perfect-Me/release/1348747"
       },
-      "16": {
+      "17": {
         "artist": "The Underground Railroad To Candyland",
         "title": "Age Of Consent",
         "album": "Split EP w/ The Pricks",
         "original_artist": "New Order",
         "url": "https://www.discogs.com/master/view/942565"
       },
-      "17": {
+      "18": {
         "artist": "Friction",
         "title": "Hybrid Moments",
         "album": "Ground Rule Double Compilation",
         "original_artist": "Misfits",
         "url": "https://www.discogs.com/Various-Ground-Rule-Double/master/60825"
       },
-      "18": {
+      "19": {
         "artist": "Yoni Wolf",
         "title": "Half A Person",
         "album": "Snow Jams (Covers Tape)",
         "original_artist": "The Smiths",
         "url": "https://www.discogs.com/Yoni-Wolf-Snow-Jams-Covers-Tape/release/6525706"
       },
-      "19": {
+      "20": {
         "artist": "Manhattan Side Project",
         "title": "Something In The Way",
         "album": "Don't Stop Now: A Collection Of Covers",
         "original_artist": "Nirvana",
         "url": "https://dontstopnowacollectionofcovers.bandcamp.com/album/dont-stop-now-a-collection-of-covers"
       },
-      "20": {
+      "21": {
         "artist": "Jawbox",
         "title": "I’ve Got You Under My Skin",
         "album": "My Scrapbook Of Fatal Accidents",
-        "original_artist": "Frank Sinatra",
+        "original_artist": "Cole Porter",
         "url": "https://www.discogs.com/Jawbox-My-Scrapbook-Of-Fatal-Accidents/master/806443"
       },
-      "21": {
+      "22": {
         "artist": "The Dead Weather",
         "title": "Are ‘Friends’ Electric?",
         "album": "Hang You From The Heavens",
         "original_artist": "Tubeway Army",
         "url": "https://www.discogs.com/The-Dead-Weather-Hang-You-From-The-Heavens/master/150547"
       },
-      "22": {
+      "23": {
         "artist": "Coalesce",
         "title": "Supernaut",
         "album": "There Is Nothing New Under The Sun",
