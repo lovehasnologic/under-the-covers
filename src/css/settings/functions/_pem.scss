@@ -20,6 +20,8 @@
 // margin: .555555556em 0;
 // -----------------------------------------------------------------------------
 
-@function pem($pixels, $base: var(--baseFontSize)) {
+$pemFontBase: $baseFontSize;
+
+@function pem($pixels, $base: $pemFontBase) {
   @return stripUnits($pixels) / stripUnits($base) * 1em;
 }

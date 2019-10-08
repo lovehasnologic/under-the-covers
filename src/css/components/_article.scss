@@ -1,0 +1,55 @@
+// -----------------------------------------------------------------------------
+//  Table of Contents
+//
+//  - Container
+//  - Content
+// -----------------------------------------------------------------------------
+
+$articlePadding: $grid--rows;
+
+// -----------------------------------------------------------------------------
+// -- Container
+// -----------------------------------------------------------------------------
+
+article {
+  width: 100%;
+  max-width: pem(800px);
+  min-height: 100vh;
+  margin: $articlePadding 0;
+  padding: 0 ($articlePadding / 2);
+
+  @include mq(1) {
+    font-size: .8em;
+  }
+
+  h1 {
+    font-weight: 900;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    line-height: 1.2;
+
+    &:not(:first-child) {
+      margin-top: 2em;
+    }
+  }
+
+  a {
+    transition: color var(--duration) var(--ease-in-out);
+    color: #98d0ff;
+
+    &:hover,
+    &:focus {
+      color: #79c1ff;
+    }
+  }
+
+  li {
+    margin: .5em 0;
+  }
+}

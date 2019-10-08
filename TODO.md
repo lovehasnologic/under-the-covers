@@ -13,7 +13,7 @@
 - [x] Setup https
 - [x] Setup 404 page
 - [x] Fix UTI on Vol. 2
-- [ ] Create info page
+- [x] Create info page
 - [ ] Create playable tracks in browser
 - [ ] Redesign "info" controls
 - [ ] Research Hooks and refactor where appropriate
