@@ -20,8 +20,6 @@
 
 ### Artwork:
 
-- [ ] 26 - RFTC - Group Sounds
-- [ ] 27 - Cheap Trick - Cheap Trick
 - [ ] 28 - The Cure - The Head On The Door
 - [ ] 29 - The Weakerthans - Reunion Tour
 - [ ] 30 - David Bowie - Heroes
