@@ -20,7 +20,6 @@
 
 ### Artwork:
 
-- [ ] 29 - The Weakerthans - Reunion Tour
 - [ ] 30 - David Bowie - Heroes
 - [ ] 31 - The Germs - GI
 - [ ] 32 - Seals & Croft - Summer Breeze

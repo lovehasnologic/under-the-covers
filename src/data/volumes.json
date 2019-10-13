@@ -4913,5 +4913,191 @@
       "primary": "#0479bf"
       "secondary": "#e3e860"
     }
+  },
+  "29": {
+    "tracklist": {
+      "1": {
+        "artist": "The Menzingers",
+        "title": "Civil Twilight",
+        "album": "Covers EP",
+        "original_artist": "The Weakerthans",
+        "url": "https://musicbrainz.org/release/501e4903-10be-42d3-a53e-e765f5aa3026"
+      },
+      "2": {
+        "artist": "Less Than Jake",
+        "title": "You're The One That I Want",
+        "album": "Greased",
+        "original_artist": "John Travolta & Olivia Newton-John",
+        "url": "https://www.discogs.com/Less-Than-Jake-Greased/master/65454"
+      },
+      "3": {
+        "artist": "Rise Against",
+        "title": "Nervous Breakdown",
+        "album": "Long Forgotten Songs: B-Sides & Covers 2000-2013",
+        "original_artist": "Black Flag",
+        "url": "https://www.discogs.com/Rise-Against-Long-Forgotten-Songs-B-sides-Covers-2000-2013/master/598489"
+      },
+      "4": {
+        "artist": "Superchunk",
+        "title": "Up Against The Wall",
+        "album": "I Got Cut",
+        "original_artist": "Tom Robinson Band",
+        "url": "https://www.discogs.com/Superchunk-I-Got-Cut/master/1193254"
+      },
+      "5": {
+        "artist": "Rehasher",
+        "title": "Petrograd",
+        "album": "Make The Noise",
+        "original_artist": "Cringer",
+        "url": "https://www.discogs.com/Rehasher-Make-The-Noise/master/935865"
+      },
+      "6": {
+        "artist": "Goober Patrol",
+        "title": "Salad Days",
+        "album": "Mind The Gap",
+        "original_artist": "Minor Threat",
+        "url": "https://www.discogs.com/Goober-Patrol-Mind-The-Gap/master/1455292"
+      },
+      "7": {
+        "artist": "Lou Barlow",
+        "title": "Run To You",
+        "album": "Another Collection Of Home Recordings",
+        "original_artist": "Bryan Adams",
+        "url": "https://www.discogs.com/Lou-Barlow-And-Friends-Another-Collection-Of-Home-Recordings/master/143266"
+      },
+      "8": {
+        "artist": "The Smittens",
+        "title": "My Boyfriend’s Back",
+        "album": "Split EP w/ Tullycraft",
+        "original_artist": "The Angels",
+        "url": "https://www.discogs.com/Tullycraft-The-Smittens-On-Tape-My-Boyfriends-Back/release/1423526",
+        "notes": "This was part of the first Happy Happy Birthday To Me Singles Club."
+      },
+      "9": {
+        "artist": "Dowsing",
+        "title": "Dancing In The Dark",
+        "album": "It’s Just Going To Get Worse",
+        "original_artist": "Bruce Springsteen",
+        "url": "https://www.discogs.com/Dowsing-Its-Just-Going-To-Get-Worse/release/4789256"
+      },
+      "10": {
+        "artist": "The Donnas",
+        "title": "Speeding Back To My Baby",
+        "album": "Rock ‘N’ Roll Machine",
+        "original_artist": "Kiss",
+        "url": "https://www.discogs.com/The-Donnas-Rock-n-Roll-Machine-bw-Speeding-Back-To-My-Baby/release/1854026"
+      },
+      "11": {
+        "artist": "Sloppy Seconds",
+        "title": "Where Eagles Dare",
+        "album": "Where Eagles Dare",
+        "original_artist": "Misfits",
+        "url": "https://www.discogs.com/Sloppy-Seconds-Where-Eagles-Dare/master/154807"
+      },
+      "12": {
+        "artist": "Yoni Wolf",
+        "title": "Asshole",
+        "album": "Snow Jams (Covers Tape)",
+        "original_artist": "Beck",
+        "url": "https://www.discogs.com/Yoni-Wolf-Snow-Jams-Covers-Tape/release/6525706"
+      },
+      "13": {
+        "artist": "Darkest Hour",
+        "title": "Painkiller",
+        "album": "Darkest Hour EP",
+        "original_artist": "Judas Priest",
+        "url": "https://www.discogs.com/Darkest-Hour-Darkest-Hour/release/10172425"
+      },
+      "14": {
+        "artist": "Coalesce",
+        "title": "I’m Giving Up On This One",
+        "album": "Split EP w/ The Get Up Kids",
+        "original_artist": "The Get Up Kids",
+        "url": "https://www.discogs.com/The-Get-Up-Kids-Coalesce-The-Get-Up-Kids-Coalesce/master/204611",
+        "notes": "The original version of this song was called “Second Place”."
+      },
+      "15": {
+        "artist": "Casiotone For The Painfully Alone",
+        "title": "When You Were Mine",
+        "album": "Young Shields",
+        "original_artist": "Prince",
+        "url": "https://www.discogs.com/Casiotone-For-The-Painfully-Alone-Young-Shields/master/117727"
+      },
+      "16": {
+        "artist": "Q And Not U",
+        "title": "Don’t Let It Get You Down",
+        "album": "Don't Know When I'll Be Back Again - A Compilation Benefiting American Veterans Of The Vietnam War",
+        "original_artist": "Neil Young",
+        "url": "https://www.discogs.com/Various-Dont-Know-When-Ill-Be-Back-Again-A-Compilation-Benefiting-American-Veterans-Of-The-Vietnam-W/release/2608307"
+      },
+      "17": {
+        "artist": "The Softies",
+        "title": "Hey Hey Girl",
+        "album": "The Way Things Change Volume 2",
+        "original_artist": "Rocketship",
+        "url": "https://www.discogs.com/Various-The-Way-Things-Change-Volume-2/release/845490"
+      },
+      "18": {
+        "artist": "Damien Jurado",
+        "title": "I’ve Been Riding With The Ghost",
+        "album": "Weary Engine Blues: A Tribute To Jason Molina",
+        "original_artist": "Songs: Ohia",
+        "url": "https://www.discogs.com/Various-Weary-Engine-Blues-A-Tribute-To-Jason-Molina/master/555014"
+      },
+      "19": {
+        "artist": "Generationals",
+        "title": "Making Time",
+        "album": "I Saved Latin! A Tribute To Wes Anderson",
+        "original_artist": "The Creation",
+        "url": "https://www.discogs.com/Various-I-Saved-Latin-A-Tribute-To-Wes-Anderson/master/802359"
+      },
+      "20": {
+        "artist": "Chris Carrabba",
+        "title": "Skyway",
+        "album": "Covered In The Flood",
+        "original_artist": "The Replacements",
+        "url": "https://www.discogs.com/Chris-Carrabba-Covered-In-The-Flood/release/6854345"
+      },
+      "21": {
+        "artist": "Halo Of Flies",
+        "title": "Jagged Time Lapse",
+        "album": "Mod Showdown!, Split EP w/ Mudhoney",
+        "original_artist": "John’s Children",
+        "url": "https://www.discogs.com/Mudhoney-Versus-Halo-Of-Flies-Mod-Showdown/master/519788"
+      },
+      "22": {
+        "artist": "Gleam Garden",
+        "title": "I’m Not Ashamed",
+        "album": "Gleam Garden",
+        "original_artist": "Bobby Bland",
+        "url": "https://www.discogs.com/Gleam-Garden-Gleam-Garden/release/8994754"
+      },
+      "23": {
+        "artist": "Serengeti",
+        "title": "Tom Dooley",
+        "album": "Be A Man",
+        "original_artist": "Kingston Trio",
+        "url": "https://www.discogs.com/Serengeti-With-Tobacco-3-Advance-Base-Be-A-Man/master/466727",
+        "notes": "Track features Advance Base"
+      },
+      "24": {
+        "artist": "Surfer Blood",
+        "title": "I Melt With You",
+        "album": "Covers",
+        "original_artist": "Modern English",
+        "url": "https://www.discogs.com/Surfer-Blood-Covers/release/10990829"
+      },
+      "25": {
+        "artist": "Kepi Ghoulie",
+        "title": "Hot Love",
+        "album": "Under The Influence Vol. 12, Split EP w/ Kevin Seconds",
+        "original_artist": "T. Rex",
+        "url": "https://www.discogs.com/Kevin-Seconds-Kepi-Rabbit-Fighter-Hot-Love/master/568947"
+      }
+    },
+    "colors": {
+      "primary": "#49483b",
+      "secondary": "#c3ced8"
+    }
   }
 }
