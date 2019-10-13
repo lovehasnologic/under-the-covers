@@ -20,7 +20,6 @@
 
 ### Artwork:
 
-- [ ] 28 - The Cure - The Head On The Door
 - [ ] 29 - The Weakerthans - Reunion Tour
 - [ ] 30 - David Bowie - Heroes
 - [ ] 31 - The Germs - GI
