@@ -208,7 +208,10 @@ class Album extends React.Component {
                   itemProp="image"
                 />
                 <Download currentAlbum={currentAlbum} />
-                <Player />
+                <Player
+                  currentAlbum={currentAlbum}
+                  volumes={this.props.volumes}
+                />
               </figure>
               <ol className="album__tracklist">
                 {this.renderTracklist(currentAlbum)}

@@ -2,9 +2,15 @@ import React from "react";
 import PropTypes from "prop-types";
 
 class Player extends React.Component {
-  static propTypes = {};
+  static propTypes = {
+    volumes: PropTypes.object.isRequired,
+    currentAlbum: PropTypes.string.isRequired
+  };
 
   render() {
+    const tracklist = this.props.volumes[this.props.currentAlbum].tracklist;
+    const trackCount = Object.keys(tracklist).length;
+
     return (
       <div className="player">
         <div className="player__controls">
@@ -43,7 +49,7 @@ class Player extends React.Component {
           </button>
         </div>
         <div className="player__info">
-          <p>Track 1 of 23</p>
+          <p>{`Track 1 of ${trackCount}`}</p>
           <p>0:00 / 2:56</p>
         </div>
       </div>
