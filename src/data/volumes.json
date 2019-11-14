@@ -4738,7 +4738,7 @@
         "url": "https://www.discogs.com/The-Ex-Optimists-Economy-Island-Bee-Corpse-ThousandPantherbomb-split-single/release/10017759"
       }
     },
-    "colors": {
+    "color": {
       "primary": "#0d1110",
       "secondary": "#d1cebf"
     }
@@ -4909,8 +4909,8 @@
         "url": "https://www.discogs.com/Big-Drill-Car-Chemical-People-Surrender-Getaway/master/55314"
       }
     },
-    "colors": {
-      "primary": "#0479bf"
+    "color": {
+      "primary": "#0479bf",
       "secondary": "#e3e860"
     }
   },
@@ -5095,7 +5095,7 @@
         "url": "https://www.discogs.com/Kevin-Seconds-Kepi-Rabbit-Fighter-Hot-Love/master/568947"
       }
     },
-    "colors": {
+    "color": {
       "primary": "#49483b",
       "secondary": "#c3ced8"
     }
