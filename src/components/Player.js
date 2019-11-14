@@ -42,6 +42,10 @@ class Player extends React.Component {
             />
           </button>
         </div>
+        <div className="player__info">
+          <p>Track 1 of 23</p>
+          <p>0:00 / 2:56</p>
+        </div>
       </div>
     );
   }
