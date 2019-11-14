@@ -4,6 +4,7 @@ import { Helmet } from "react-helmet";
 import { CSSTransition, SwitchTransition } from "react-transition-group";
 import Track from "./Track";
 import Download from "./Download";
+import Player from "./Player";
 
 class Album extends React.Component {
   state = {
@@ -207,6 +208,7 @@ class Album extends React.Component {
                   itemProp="image"
                 />
                 <Download currentAlbum={currentAlbum} />
+                <Player />
               </figure>
               <ol className="album__tracklist">
                 {this.renderTracklist(currentAlbum)}

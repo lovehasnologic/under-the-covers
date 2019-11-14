@@ -1,0 +1,81 @@
+// -----------------------------------------------------------------------------
+//  Table of Contents
+//
+//  - Variables
+//  - Container
+//  - Controls
+//  - Duration
+//  - Volume
+// -----------------------------------------------------------------------------
+
+// -----------------------------------------------------------------------------
+// -- Variables
+// -----------------------------------------------------------------------------
+
+$playerDurationHeight: 12px;
+$playerDurationStrokeWidth: 1px;
+
+// -----------------------------------------------------------------------------
+// -- Container
+// -----------------------------------------------------------------------------
+
+.player {
+  display: flex;
+  align-items: center;
+  margin: 1em 0 0;
+}
+
+// -----------------------------------------------------------------------------
+// -- Controls
+// -----------------------------------------------------------------------------
+
+.player__control {
+  display: inline-block;
+  padding: 4px;
+  border: 0;
+  background: transparent;
+
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+}
+
+.player__icon {
+  line-height: 0;
+  display: block;
+  height: $playerDurationHeight * 2;
+}
+
+.player__play {
+  padding-right: 2px;
+}
+
+.player__prev {
+  padding-left: 0;
+}
+
+// -----------------------------------------------------------------------------
+// -- Duration
+// -----------------------------------------------------------------------------
+
+.player__duration {
+  flex: 1;
+  height: $playerDurationHeight;
+  margin: 0 ($playerDurationHeight / 2);
+  box-shadow: inset 0 0 $playerDurationStrokeWidth $playerDurationStrokeWidth rgba(255,255,255,.45);
+}
+
+.player__currentTime {
+  display: block;
+  height: $playerDurationHeight;
+  transition: width var(--duration) linear;
+  background: var(--accentColor);
+}
+
+// -----------------------------------------------------------------------------
+// -- Volume
+// -----------------------------------------------------------------------------
+
+.player__volume {
+  padding-right: 0;
+}
