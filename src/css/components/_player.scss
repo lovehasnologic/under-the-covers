@@ -25,6 +25,32 @@ $playerDurationStrokeWidth: 1px;
   align-items: center;
   flex-wrap: wrap;
   margin: 1em 0 0;
+  transition: opacity $duration--artwork var(--ease-in-out), transform $duration--artwork var(--ease-out);
+
+  .loadAlbum-enter &,
+  .loadAlbum-appear & {
+    transition-delay: $duration--artwork;
+    transform: scale(.75);
+    opacity: 0;
+  }
+
+  .loadAlbum-enter-active &,
+  .loadAlbum-appear-active & {
+    transform: scale(1);
+    opacity: 1;
+  }
+
+  .loadAlbum-exit & {
+    transform: scale(1);
+    opacity: 1;
+
+    transition-timing: var(--duration) / 2;
+  }
+
+  .loadAlbum-exit-active & {
+    transform: scale(.75);
+    opacity: 0;
+  }
 }
 
 // -----------------------------------------------------------------------------
