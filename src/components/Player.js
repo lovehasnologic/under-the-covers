@@ -4,15 +4,46 @@ import PropTypes from "prop-types";
 class Player extends React.Component {
   static propTypes = {
     volumes: PropTypes.object.isRequired,
-    currentAlbum: PropTypes.string.isRequired
+    currentAlbum: PropTypes.string.isRequired,
+    selectedTrack: PropTypes.string
   };
+
+  state = {
+    isPlaying: false
+  };
+
+  playToggle() {
+    if (this.state.isPlaying) {
+      this.player.pause();
+      this.setState({
+        isPlaying: false
+      });
+    } else {
+      this.player.play();
+      this.setState({
+        isPlaying: true
+      });
+    }
+  }
+
+  componentDidUpdate(prevProps, prevState) {
+    if (
+      prevState.isPlaying &&
+      this.props.selectedTrack !== prevProps.selectedTrack
+    ) {
+      this.player.play();
+    }
+  }
 
   render() {
     const tracklist = this.props.volumes[this.props.currentAlbum].tracklist;
     const trackCount = Object.keys(tracklist).length;
+    const loadedTrack = this.props.selectedTrack
+      ? this.props.selectedTrack
+      : "1";
 
     return (
-      <div className="player">
+      <figure className="player">
         <div className="player__controls">
           <button className="player__control player__prev">
             <img
@@ -21,9 +52,14 @@ class Player extends React.Component {
               alt="Previous Track"
             />
           </button>
-          <button className="player__control player__play">
+          <button
+            className="player__control player__play"
+            onClick={() => this.playToggle()}
+          >
             <img
-              src="/assets/images/icons/play.svg"
+              src={`/assets/images/icons/${
+                this.state.isPlaying ? "pause" : "play"
+              }.svg`}
               className="player__icon"
               alt="Play Button"
             />
@@ -48,11 +84,17 @@ class Player extends React.Component {
             />
           </button>
         </div>
-        <div className="player__info">
-          <p>{`Track 1 of ${trackCount}`}</p>
+        <figcaption className="player__info">
+          <p>{`Track ${loadedTrack} of ${trackCount}`}</p>
           <p>0:00 / 2:56</p>
-        </div>
-      </div>
+        </figcaption>
+        <audio
+          controls
+          preload="auto"
+          src={`/assets/songs/${this.props.currentAlbum}/${loadedTrack}.mp3`}
+          ref={ref => (this.player = ref)}
+        ></audio>
+      </figure>
     );
   }
 }

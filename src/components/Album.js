@@ -41,12 +41,10 @@ class Album extends React.Component {
   }
 
   handleTrackLoading = track => {
-    this.setState({
-      selectedTrack: track === this.state.selectedTrack ? "" : track
-    });
-    if (track === this.props.match.params.track) {
-      this.props.history.push(`/volume/${this.props.match.params.volume}`);
-    } else {
+    if (track !== this.props.match.params.track) {
+      this.setState({
+        selectedTrack: track === this.state.selectedTrack ? "" : track
+      });
       this.props.history.push(
         `/volume/${this.props.match.params.volume}/track/${track}`
       );
@@ -211,6 +209,7 @@ class Album extends React.Component {
                 <Player
                   currentAlbum={currentAlbum}
                   volumes={this.props.volumes}
+                  selectedTrack={this.state.selectedTrack}
                 />
               </figure>
               <ol className="album__tracklist">
