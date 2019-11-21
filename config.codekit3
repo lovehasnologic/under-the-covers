@@ -6813,6 +6813,5318 @@
 		"oAP": "/public/assets/songs/1/9.mp3",
 		"oF": 0
 		},
+	"/public/assets/songs/10/1.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/10/1.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/10/10.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/10/10.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/10/11.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/10/11.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/10/12.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/10/12.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/10/13.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/10/13.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/10/14.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/10/14.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/10/15.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/10/15.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/10/16.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/10/16.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/10/17.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/10/17.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/10/18.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/10/18.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/10/19.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/10/19.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/10/2.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/10/2.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/10/20.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/10/20.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/10/21.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/10/21.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/10/22.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/10/22.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/10/3.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/10/3.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/10/4.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/10/4.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/10/5.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/10/5.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/10/6.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/10/6.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/10/7.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/10/7.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/10/8.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/10/8.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/10/9.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/10/9.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/11/1.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/11/1.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/11/10.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/11/10.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/11/11.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/11/11.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/11/12.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/11/12.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/11/13.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/11/13.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/11/14.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/11/14.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/11/15.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/11/15.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/11/16.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/11/16.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/11/17.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/11/17.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/11/18.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/11/18.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/11/19.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/11/19.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/11/2.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/11/2.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/11/20.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/11/20.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/11/21.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/11/21.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/11/22.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/11/22.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/11/23.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/11/23.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/11/24.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/11/24.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/11/25.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/11/25.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/11/3.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/11/3.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/11/4.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/11/4.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/11/5.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/11/5.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/11/6.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/11/6.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/11/7.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/11/7.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/11/8.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/11/8.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/11/9.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/11/9.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/12/1.m4a": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/12/1.m4a",
+		"oF": 0
+		},
+	"/public/assets/songs/12/10.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/12/10.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/12/11.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/12/11.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/12/12.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/12/12.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/12/13.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/12/13.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/12/14.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/12/14.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/12/15.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/12/15.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/12/16.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/12/16.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/12/17.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/12/17.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/12/18.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/12/18.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/12/19.m4a": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/12/19.m4a",
+		"oF": 0
+		},
+	"/public/assets/songs/12/2.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/12/2.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/12/20.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/12/20.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/12/21.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/12/21.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/12/3.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/12/3.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/12/4.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/12/4.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/12/5.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/12/5.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/12/6.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/12/6.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/12/7.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/12/7.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/12/8.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/12/8.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/12/9.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/12/9.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/13/1.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/13/1.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/13/10.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/13/10.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/13/11.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/13/11.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/13/12.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/13/12.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/13/13.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/13/13.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/13/14.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/13/14.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/13/15.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/13/15.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/13/16.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/13/16.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/13/17.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/13/17.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/13/18.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/13/18.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/13/19.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/13/19.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/13/2.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/13/2.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/13/20.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/13/20.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/13/21.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/13/21.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/13/22.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/13/22.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/13/3.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/13/3.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/13/4.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/13/4.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/13/5.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/13/5.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/13/6.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/13/6.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/13/7.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/13/7.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/13/8.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/13/8.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/13/9.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/13/9.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/14/1.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/14/1.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/14/10.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/14/10.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/14/11.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/14/11.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/14/12.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/14/12.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/14/13.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/14/13.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/14/14.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/14/14.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/14/15.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/14/15.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/14/16.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/14/16.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/14/17.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/14/17.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/14/18.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/14/18.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/14/19.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/14/19.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/14/2.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/14/2.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/14/20.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/14/20.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/14/21.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/14/21.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/14/22.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/14/22.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/14/23.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/14/23.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/14/24.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/14/24.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/14/25.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/14/25.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/14/26.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/14/26.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/14/3.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/14/3.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/14/4.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/14/4.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/14/5.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/14/5.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/14/6.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/14/6.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/14/7.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/14/7.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/14/8.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/14/8.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/14/9.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/14/9.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/15/1.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/15/1.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/15/10.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/15/10.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/15/11.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/15/11.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/15/12.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/15/12.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/15/13.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/15/13.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/15/14.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/15/14.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/15/15.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/15/15.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/15/16.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/15/16.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/15/17.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/15/17.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/15/18.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/15/18.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/15/19.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/15/19.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/15/2.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/15/2.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/15/20.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/15/20.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/15/21.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/15/21.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/15/22.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/15/22.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/15/23.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/15/23.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/15/3.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/15/3.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/15/4.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/15/4.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/15/5.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/15/5.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/15/6.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/15/6.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/15/7.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/15/7.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/15/8.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/15/8.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/15/9.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/15/9.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/16/1.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/16/1.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/16/10.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/16/10.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/16/11.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/16/11.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/16/12.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/16/12.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/16/13.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/16/13.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/16/14.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/16/14.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/16/15.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/16/15.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/16/16.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/16/16.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/16/17.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/16/17.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/16/18.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/16/18.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/16/19.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/16/19.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/16/2.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/16/2.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/16/20.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/16/20.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/16/21.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/16/21.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/16/22.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/16/22.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/16/23.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/16/23.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/16/24.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/16/24.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/16/25.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/16/25.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/16/26.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/16/26.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/16/27.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/16/27.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/16/28.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/16/28.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/16/3.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/16/3.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/16/4.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/16/4.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/16/5.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/16/5.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/16/6.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/16/6.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/16/7.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/16/7.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/16/8.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/16/8.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/16/9.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/16/9.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/17/1.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/17/1.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/17/10.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/17/10.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/17/11.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/17/11.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/17/2.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/17/2.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/17/3.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/17/3.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/17/4.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/17/4.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/17/5.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/17/5.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/17/6.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/17/6.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/17/7.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/17/7.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/17/8.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/17/8.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/17/9.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/17/9.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/18/1.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/18/1.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/18/10.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/18/10.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/18/11.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/18/11.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/18/12.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/18/12.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/18/13.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/18/13.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/18/14.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/18/14.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/18/15.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/18/15.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/18/16.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/18/16.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/18/17.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/18/17.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/18/18.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/18/18.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/18/19.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/18/19.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/18/2.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/18/2.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/18/20.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/18/20.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/18/21.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/18/21.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/18/22.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/18/22.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/18/23.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/18/23.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/18/24.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/18/24.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/18/25.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/18/25.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/18/26.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/18/26.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/18/3.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/18/3.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/18/4.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/18/4.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/18/5.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/18/5.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/18/6.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/18/6.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/18/7.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/18/7.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/18/8.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/18/8.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/18/9.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/18/9.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/19/1.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/19/1.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/19/10.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/19/10.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/19/11.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/19/11.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/19/12.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/19/12.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/19/13.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/19/13.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/19/14.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/19/14.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/19/15.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/19/15.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/19/16.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/19/16.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/19/17.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/19/17.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/19/18.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/19/18.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/19/19.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/19/19.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/19/2.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/19/2.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/19/20.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/19/20.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/19/21.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/19/21.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/19/22.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/19/22.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/19/23.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/19/23.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/19/24.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/19/24.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/19/25.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/19/25.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/19/3.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/19/3.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/19/4.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/19/4.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/19/5.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/19/5.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/19/6.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/19/6.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/19/7.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/19/7.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/19/8.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/19/8.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/19/9.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/19/9.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/2/1.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/2/1.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/2/10.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/2/10.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/2/11.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/2/11.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/2/12.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/2/12.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/2/13.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/2/13.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/2/14.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/2/14.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/2/15.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/2/15.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/2/16.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/2/16.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/2/17.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/2/17.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/2/18.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/2/18.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/2/19.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/2/19.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/2/2.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/2/2.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/2/20.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/2/20.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/2/21.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/2/21.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/2/3.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/2/3.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/2/4.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/2/4.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/2/5.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/2/05 Tumbling Dice (The Rolling Stones).mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/2/6.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/2/6.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/2/7.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/2/7.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/2/8.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/2/8.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/2/9.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/2/9.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/20/1.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/20/1.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/20/10.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/20/10.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/20/11.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/20/11.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/20/12.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/20/12.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/20/13.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/20/13.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/20/14.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/20/14.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/20/15.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/20/15.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/20/16.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/20/16.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/20/17.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/20/17.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/20/18.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/20/18.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/20/19.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/20/19.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/20/2.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/20/2.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/20/20.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/20/20.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/20/21.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/20/21.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/20/22.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/20/22.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/20/23.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/20/23.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/20/24.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/20/24.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/20/25.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/20/25.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/20/3.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/20/3.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/20/4.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/20/4.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/20/5.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/20/5.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/20/6.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/20/6.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/20/7.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/20/7.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/20/8.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/20/8.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/20/9.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/20/9.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/21/1.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/21/1.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/21/10.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/21/10.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/21/11.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/21/11.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/21/12.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/21/12.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/21/13.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/21/13.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/21/14.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/21/14.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/21/15.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/21/15.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/21/16.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/21/16.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/21/17.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/21/17.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/21/18.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/21/18.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/21/19.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/21/19.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/21/2.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/21/2.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/21/20.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/21/20.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/21/21.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/21/21.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/21/22.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/21/22.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/21/23.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/21/23.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/21/24.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/21/24.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/21/3.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/21/3.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/21/4.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/21/4.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/21/5.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/21/5.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/21/6.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/21/6.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/21/7.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/21/7.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/21/8.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/21/8.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/21/9.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/21/9.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/22/1.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/22/1.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/22/10.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/22/10.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/22/11.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/22/11.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/22/12.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/22/12.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/22/13.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/22/13.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/22/14.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/22/14.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/22/15.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/22/15.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/22/16.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/22/16.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/22/17.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/22/17.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/22/18.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/22/18.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/22/19.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/22/19.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/22/2.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/22/2.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/22/20.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/22/20.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/22/21.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/22/21.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/22/22.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/22/22.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/22/23.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/22/23.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/22/24.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/22/24.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/22/3.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/22/3.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/22/4.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/22/4.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/22/5.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/22/5.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/22/6.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/22/6.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/22/7.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/22/7.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/22/8.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/22/8.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/22/9.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/22/9.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/23/1.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/23/1.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/23/10.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/23/10.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/23/11.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/23/11.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/23/12.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/23/12.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/23/13.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/23/13.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/23/14.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/23/14.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/23/15.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/23/15.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/23/16.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/23/16.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/23/17.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/23/17.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/23/18.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/23/18.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/23/19.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/23/19.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/23/2.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/23/2.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/23/20.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/23/20.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/23/21.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/23/21.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/23/3.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/23/3.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/23/4.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/23/4.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/23/5.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/23/5.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/23/6.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/23/6.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/23/7.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/23/7.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/23/8.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/23/8.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/23/9.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/23/9.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/24/1.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/24/1.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/24/10.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/24/10.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/24/11.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/24/11.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/24/12.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/24/12.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/24/13.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/24/13.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/24/14.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/24/14.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/24/15.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/24/15.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/24/16.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/24/16.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/24/17.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/24/17.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/24/18.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/24/18.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/24/19.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/24/19.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/24/2.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/24/2.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/24/20.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/24/20.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/24/21.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/24/21.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/24/22.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/24/22.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/24/23.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/24/23.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/24/3.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/24/3.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/24/4.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/24/4.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/24/5.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/24/5.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/24/6.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/24/6.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/24/7.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/24/7.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/24/8.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/24/8.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/24/9.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/24/9.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/25/1.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/25/1.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/25/10.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/25/10.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/25/11.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/25/11.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/25/12.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/25/12.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/25/13.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/25/13.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/25/14.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/25/14 Making Love (Bad Company).mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/25/15.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/25/15.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/25/16.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/25/16.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/25/17.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/25/17.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/25/18.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/25/18.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/25/19.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/25/19.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/25/2.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/25/2.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/25/20.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/25/20.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/25/21.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/25/21.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/25/22.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/25/22.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/25/3.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/25/3.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/25/4.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/25/4.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/25/5.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/25/5.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/25/6.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/25/6.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/25/7.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/25/7.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/25/8.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/25/8.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/25/9.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/25/9.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/26/1.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/26/1.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/26/10.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/26/10.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/26/11.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/26/11.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/26/12.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/26/12.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/26/13.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/26/13.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/26/14.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/26/14.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/26/15.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/26/15.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/26/16.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/26/16.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/26/17.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/26/17.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/26/18.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/26/18.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/26/19.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/26/19.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/26/2.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/26/2.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/26/20.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/26/20.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/26/21.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/26/21.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/26/22.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/26/22.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/26/23.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/26/23.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/26/24.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/26/24.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/26/25.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/26/25.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/26/26.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/26/26.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/26/27.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/26/27.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/26/28.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/26/28.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/26/3.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/26/3.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/26/4.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/26/4.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/26/5.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/26/5.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/26/6.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/26/6.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/26/7.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/26/7.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/26/8.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/26/8.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/26/9.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/26/9.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/27/1.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/27/1.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/27/10.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/27/10.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/27/11.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/27/11.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/27/12.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/27/12.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/27/13.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/27/13.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/27/14.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/27/14.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/27/15.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/27/15.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/27/16.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/27/16.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/27/17.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/27/17.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/27/18.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/27/18.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/27/19.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/27/19.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/27/2.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/27/2.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/27/20.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/27/20.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/27/21.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/27/21.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/27/22.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/27/22.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/27/23.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/27/23.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/27/24.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/27/24.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/27/3.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/27/3.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/27/4.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/27/4.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/27/5.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/27/5.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/27/6.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/27/6.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/27/7.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/27/7.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/27/8.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/27/8.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/27/9.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/27/9.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/28/1.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/28/1.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/28/10.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/28/10.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/28/11.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/28/11.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/28/12.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/28/12.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/28/13.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/28/13.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/28/14.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/28/14.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/28/15.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/28/15.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/28/16.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/28/16.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/28/17.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/28/17.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/28/18.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/28/18.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/28/19.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/28/19.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/28/2.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/28/2.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/28/20.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/28/20.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/28/21.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/28/21.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/28/22.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/28/22.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/28/23.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/28/23.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/28/3.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/28/3.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/28/4.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/28/4.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/28/5.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/28/5.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/28/6.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/28/6.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/28/7.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/28/7.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/28/8.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/28/8.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/28/9.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/28/9.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/29/1.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/29/1.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/29/10.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/29/10.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/29/11.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/29/11.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/29/12.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/29/12.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/29/13.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/29/13.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/29/14.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/29/14.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/29/15.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/29/15.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/29/16.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/29/16.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/29/17.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/29/17.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/29/18.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/29/18.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/29/19.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/29/19.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/29/2.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/29/2.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/29/20.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/29/20.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/29/21.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/29/21.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/29/22.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/29/22.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/29/23.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/29/23.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/29/24.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/29/24.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/29/25.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/29/25.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/29/3.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/29/3.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/29/4.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/29/4.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/29/5.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/29/5.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/29/6.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/29/6.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/29/7.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/29/7.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/29/8.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/29/8.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/29/9.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/29/9.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/3/1.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/3/1.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/3/10.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/3/10.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/3/11.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/3/11.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/3/12.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/3/12.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/3/13.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/3/13.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/3/14.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/3/14.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/3/15.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/3/15.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/3/16.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/3/16.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/3/17.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/3/17.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/3/18.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/3/18.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/3/19.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/3/19.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/3/2.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/3/2.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/3/20.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/3/20.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/3/21.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/3/21.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/3/22.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/3/22.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/3/23.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/3/23.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/3/24.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/3/24.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/3/3.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/3/3.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/3/4.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/3/4.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/3/5.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/3/5.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/3/6.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/3/6.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/3/7.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/3/07 El Scorcho (Weezer).mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/3/8.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/3/8.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/3/9.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/3/9.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/4/1.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/4/1.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/4/10.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/4/10.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/4/11.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/4/11.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/4/12.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/4/12.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/4/13.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/4/13.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/4/14.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/4/14.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/4/15.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/4/15.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/4/16.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/4/16.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/4/17.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/4/17.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/4/18.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/4/18.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/4/19.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/4/19.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/4/2.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/4/2.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/4/20.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/4/20.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/4/21.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/4/21.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/4/22.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/4/22.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/4/23.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/4/23.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/4/24.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/4/24.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/4/25.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/4/25.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/4/26.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/4/26.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/4/27.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/4/27.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/4/3.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/4/3.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/4/4.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/4/4.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/4/5.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/4/5.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/4/6.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/4/6.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/4/7.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/4/7.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/4/8.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/4/8.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/4/9.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/4/9.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/5/1.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/5/1.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/5/10.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/5/10.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/5/11.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/5/11.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/5/12.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/5/12.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/5/13.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/5/13.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/5/14.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/5/14.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/5/15.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/5/15.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/5/16.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/5/16.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/5/17.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/5/17.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/5/18.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/5/18.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/5/19.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/5/19.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/5/2.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/5/2.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/5/20.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/5/20.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/5/21.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/5/21.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/5/22.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/5/22.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/5/23.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/5/23.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/5/24.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/5/24.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/5/25.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/5/25.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/5/26.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/5/26.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/5/3.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/5/3.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/5/4.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/5/4.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/5/5.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/5/5.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/5/6.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/5/6.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/5/7.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/5/7.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/5/8.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/5/8.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/5/9.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/5/9.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/6/1.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/6/1.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/6/10.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/6/10.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/6/11.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/6/11.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/6/12.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/6/12.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/6/13.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/6/13.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/6/14.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/6/14.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/6/15.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/6/15.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/6/16.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/6/16.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/6/17.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/6/17.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/6/18.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/6/18.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/6/19.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/6/19.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/6/2.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/6/2.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/6/20.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/6/20.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/6/21.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/6/21.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/6/22.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/6/22.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/6/23.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/6/23.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/6/24.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/6/24.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/6/25.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/6/25.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/6/3.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/6/3.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/6/4.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/6/4.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/6/5.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/6/5.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/6/6.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/6/6.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/6/7.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/6/7.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/6/8.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/6/8.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/6/9.m4a": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/6/9.m4a",
+		"oF": 0
+		},
+	"/public/assets/songs/7/1.m4a": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/7/1.m4a",
+		"oF": 0
+		},
+	"/public/assets/songs/7/10.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/7/10.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/7/11.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/7/11.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/7/12.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/7/12.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/7/13.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/7/13.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/7/14.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/7/14.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/7/15.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/7/15.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/7/16.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/7/16.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/7/17.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/7/17.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/7/18.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/7/18.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/7/19.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/7/19.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/7/2.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/7/2.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/7/20.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/7/20.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/7/21.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/7/21.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/7/22.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/7/22.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/7/23.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/7/23.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/7/24.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/7/24.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/7/25.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/7/25.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/7/26.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/7/26.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/7/3.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/7/3.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/7/4.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/7/4.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/7/5.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/7/5.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/7/6.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/7/6.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/7/7.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/7/7.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/7/8.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/7/8.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/7/9.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/7/9.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/8/1.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/8/1.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/8/10.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/8/10.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/8/11.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/8/11.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/8/12.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/8/12.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/8/13.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/8/13.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/8/14.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/8/14.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/8/15.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/8/15.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/8/16.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/8/16.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/8/17.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/8/17.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/8/18.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/8/18.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/8/19.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/8/19.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/8/2.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/8/02 Everything Is Awesome (The Lonely Island).mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/8/20.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/8/20.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/8/21.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/8/21.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/8/3.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/8/3.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/8/4.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/8/4.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/8/5.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/8/5.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/8/6.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/8/6.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/8/7.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/8/7.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/8/8.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/8/8.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/8/9.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/8/9.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/9/1.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/9/1.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/9/10.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/9/10.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/9/11.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/9/11.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/9/12.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/9/12.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/9/13.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/9/13.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/9/14.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/9/14.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/9/15.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/9/15.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/9/16.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/9/16.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/9/17.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/9/17.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/9/18.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/9/18.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/9/19.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/9/19.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/9/2.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/9/2.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/9/20.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/9/20.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/9/21.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/9/21.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/9/22.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/9/22.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/9/23.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/9/23.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/9/24.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/9/24.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/9/25.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/9/25.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/9/26.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/9/26.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/9/3.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/9/3.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/9/4.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/9/4.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/9/5.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/9/5.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/9/6.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/9/6.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/9/7.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/9/7.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/9/8.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/9/8.mp3",
+		"oF": 0
+		},
+	"/public/assets/songs/9/9.mp3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/public/assets/songs/9/9.mp3",
+		"oF": 0
+		},
 	"/public/index.html": {
 		"cB": 0,
 		"ft": 8192,

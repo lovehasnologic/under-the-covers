@@ -89,6 +89,17 @@ class Player extends React.Component {
     }
   }
 
+  loadTrack = () => {
+    const album = this.props.currentAlbum;
+    const track =
+      this.props.selectedTrack === "" ? "1" : this.props.selectedTrack;
+    const trackData = this.props.volumes[album].tracklist[track];
+    const ext =
+      trackData.hasOwnProperty("aac") && trackData.aac === true ? "m4a" : "mp3";
+
+    return `/assets/songs/${album}/${track}.${ext}`;
+  };
+
   render() {
     const tracklist = this.props.volumes[this.props.currentAlbum].tracklist;
     const trackCount = Object.keys(tracklist).length;
@@ -170,7 +181,7 @@ class Player extends React.Component {
         </figcaption>
         <audio
           preload="auto"
-          src={`/assets/songs/${this.props.currentAlbum}/${loadedTrack}.mp3`}
+          src={this.loadTrack()}
           ref={ref => (this.player = ref)}
         ></audio>
       </figure>

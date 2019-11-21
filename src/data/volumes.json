@@ -967,7 +967,8 @@
         "title": "Woodland Rock",
         "album": "Ty Rex",
         "original_artist": "T. Rex",
-        "url": "https://www.discogs.com/Ty-Segall-Ty-Rex/master/913037"
+        "url": "https://www.discogs.com/Ty-Segall-Ty-Rex/master/913037",
+        "aac": true
       },
       "10": {
         "artist": "The Album Leaf",
@@ -1095,7 +1096,8 @@
         "title": "Refugee",
         "album": "iTunes Sessions",
         "original_artist": "Tom Petty And The Heartbreakers",
-        "url": "https://www.discogs.com/Gaslight-Anthem-iTunes-Session/release/3675195"
+        "url": "https://www.discogs.com/Gaslight-Anthem-iTunes-Session/release/3675195",
+        "aac": true
       },
       "2": {
         "artist": "Fallen From The Sky",
@@ -1983,7 +1985,8 @@
         "album": "May Day",
         "original_artist": "Saves The Day",
         "url": "https://www.discogs.com/master/view/488254",
-        "notes": "This track was included as a bonus track on a special ediition release of the album."
+        "notes": "This track was included as a bonus track on a special ediition release of the album.",
+        "aac": true
       },
       "2": {
         "artist": "Allo, Darlin’",
@@ -2111,7 +2114,8 @@
         "title": "State Of Love And Trust",
         "album": "iTunes Session",
         "original_artist": "Pearl Jam",
-        "url": "https://www.discogs.com/Gaslight-Anthem-iTunes-Session/release/3675195"
+        "url": "https://www.discogs.com/Gaslight-Anthem-iTunes-Session/release/3675195",
+        "aac": true
       },
       "20": {
         "artist": "Screeching Weasel",
