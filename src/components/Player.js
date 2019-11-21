@@ -1,5 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
+import { getTime } from "../helpers";
 
 class Player extends React.Component {
   static propTypes = {
@@ -26,6 +27,15 @@ class Player extends React.Component {
     }
   }
 
+  componentDidMount() {
+    this.player.addEventListener("timeupdate", e => {
+      this.setState({
+        currentTime: e.target.currentTime,
+        duration: e.target.duration
+      });
+    });
+  }
+
   componentDidUpdate(prevProps, prevState) {
     if (
       prevState.isPlaying &&
@@ -35,12 +45,22 @@ class Player extends React.Component {
     }
   }
 
+  componentWillUnmount() {
+    this.player.removeEventListener("timeupdate", () => {});
+  }
+
   render() {
     const tracklist = this.props.volumes[this.props.currentAlbum].tracklist;
     const trackCount = Object.keys(tracklist).length;
     const loadedTrack = this.props.selectedTrack
       ? this.props.selectedTrack
       : "1";
+    const currentTime = this.state.currentTime
+      ? getTime(this.state.currentTime)
+      : "--:--";
+    const duration = this.state.duration
+      ? getTime(this.state.duration)
+      : "--:--";
 
     return (
       <figure className="player">
@@ -86,7 +106,9 @@ class Player extends React.Component {
         </div>
         <figcaption className="player__info">
           <p>{`Track ${loadedTrack} of ${trackCount}`}</p>
-          <p>0:00 / 2:56</p>
+          <p>
+            {this.state.isPlaying ? `${currentTime} / ${duration}` : "Paused"}
+          </p>
         </figcaption>
         <audio
           controls
