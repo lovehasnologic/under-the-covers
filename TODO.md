@@ -14,7 +14,7 @@
 - [x] Setup 404 page
 - [x] Fix UTI on Vol. 2
 - [x] Create info page
-- [ ] Create playable tracks in browser
+- [x] Create playable tracks in browser
 - [ ] Redesign "info" controls
 - [ ] Research Hooks and refactor where appropriate
 
