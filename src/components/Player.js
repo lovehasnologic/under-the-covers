@@ -92,7 +92,9 @@ class Player extends React.Component {
   loadTrack = () => {
     const album = this.props.currentAlbum;
     const track =
-      this.props.selectedTrack === "" ? "1" : this.props.selectedTrack;
+      this.props.selectedTrack === "" || this.props.selectedTrack === undefined
+        ? "1"
+        : this.props.selectedTrack;
     const trackData = this.props.volumes[album].tracklist[track];
     const ext =
       trackData.hasOwnProperty("aac") && trackData.aac === true ? "m4a" : "mp3";
