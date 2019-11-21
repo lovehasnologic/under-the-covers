@@ -210,6 +210,7 @@ class Album extends React.Component {
                   currentAlbum={currentAlbum}
                   volumes={this.props.volumes}
                   selectedTrack={this.state.selectedTrack}
+                  handleTrackLoading={this.handleTrackLoading}
                 />
               </figure>
               <ol className="album__tracklist">

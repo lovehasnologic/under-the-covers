@@ -13,20 +13,6 @@ class Player extends React.Component {
     isPlaying: false
   };
 
-  playToggle() {
-    if (this.state.isPlaying) {
-      this.player.pause();
-      this.setState({
-        isPlaying: false
-      });
-    } else {
-      this.player.play();
-      this.setState({
-        isPlaying: true
-      });
-    }
-  }
-
   componentDidMount() {
     this.player.addEventListener("timeupdate", e => {
       this.setState({
@@ -49,6 +35,45 @@ class Player extends React.Component {
     this.player.removeEventListener("timeupdate", () => {});
   }
 
+  playToggle() {
+    if (this.state.isPlaying) {
+      this.player.pause();
+      this.setState({
+        isPlaying: false
+      });
+    } else {
+      this.player.play();
+      this.setState({
+        isPlaying: true
+      });
+    }
+  }
+
+  handleSkip(direction) {
+    const nextTrack = parseFloat(this.props.selectedTrack) + 1;
+    const prevTrack = parseFloat(this.props.selectedTrack) - 1;
+    if (direction === "next") {
+      if (
+        nextTrack >
+        parseFloat(
+          Object.keys(this.props.volumes[this.props.currentAlbum].tracklist)
+            .length
+        )
+      ) {
+        return;
+      } else {
+        this.props.handleTrackLoading(nextTrack.toString());
+      }
+    }
+    if (direction === "previous") {
+      if (prevTrack < 1) {
+        this.player.currentTime = 0;
+      } else {
+        this.props.handleTrackLoading(prevTrack.toString());
+      }
+    }
+  }
+
   render() {
     const tracklist = this.props.volumes[this.props.currentAlbum].tracklist;
     const trackCount = Object.keys(tracklist).length;
@@ -65,7 +90,10 @@ class Player extends React.Component {
     return (
       <figure className="player">
         <div className="player__controls">
-          <button className="player__control player__prev">
+          <button
+            className="player__control player__prev"
+            onClick={() => this.handleSkip("previous")}
+          >
             <img
               src="/assets/images/icons/prev-track.svg"
               className="player__icon"
@@ -84,7 +112,10 @@ class Player extends React.Component {
               alt="Play Button"
             />
           </button>
-          <button className="player__control player__next">
+          <button
+            className="player__control player__next"
+            onClick={() => this.handleSkip("next")}
+          >
             <img
               src="/assets/images/icons/next-track.svg"
               className="player__icon"
