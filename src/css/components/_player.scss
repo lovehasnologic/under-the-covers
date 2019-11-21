@@ -35,6 +35,7 @@ $playerDurationStrokeWidth: 1px;
   display: inline-block;
   padding: $playerDurationHeight 4px;
   border: 0;
+  outline: none;
   background: transparent;
 
   -webkit-appearance: none;
@@ -54,6 +55,26 @@ $playerDurationStrokeWidth: 1px;
 
 .player__prev {
   padding-left: 0;
+}
+
+.player__mute {
+  padding-right: 0;
+
+  &.active {
+    position: relative;
+
+    &::after {
+      font-size: .675em;
+      font-weight: bold;
+      line-height: 0;
+      position: absolute;
+      top: 50%;
+      right: 0;
+      content: '×';
+      transform: translateY(-50%);
+      color: var(--baseFontColor);
+    }
+  }
 }
 
 // -----------------------------------------------------------------------------

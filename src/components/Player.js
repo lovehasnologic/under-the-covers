@@ -10,7 +10,8 @@ class Player extends React.Component {
   };
 
   state = {
-    isPlaying: false
+    isPlaying: false,
+    isMuted: false
   };
 
   componentDidMount() {
@@ -74,6 +75,20 @@ class Player extends React.Component {
     }
   }
 
+  volumeControl() {
+    if (this.state.isMuted) {
+      this.player.muted = false;
+      this.setState({
+        isMuted: false
+      });
+    } else {
+      this.player.muted = true;
+      this.setState({
+        isMuted: true
+      });
+    }
+  }
+
   render() {
     const tracklist = this.props.volumes[this.props.currentAlbum].tracklist;
     const trackCount = Object.keys(tracklist).length;
@@ -132,9 +147,16 @@ class Player extends React.Component {
           ></div>
         </div>
         <div className="player__volume">
-          <button className="player__control player__mute">
+          <button
+            className={`player__control player__mute${
+              this.state.isMuted ? " active" : ""
+            }`}
+            onClick={() => this.volumeControl()}
+          >
             <img
-              src="/assets/images/icons/volume.svg"
+              src={`/assets/images/icons/${
+                this.state.isMuted ? "mute" : "volume"
+              }.svg`}
               className="player__icon"
               alt="Mute Button"
             />
@@ -147,7 +169,6 @@ class Player extends React.Component {
           </p>
         </figcaption>
         <audio
-          controls
           preload="auto"
           src={`/assets/songs/${this.props.currentAlbum}/${loadedTrack}.mp3`}
           ref={ref => (this.player = ref)}
