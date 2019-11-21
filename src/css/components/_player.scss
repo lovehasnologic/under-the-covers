@@ -69,6 +69,7 @@ $playerDurationStrokeWidth: 1px;
 
 .player__currentTime {
   display: block;
+  width: 0;
   height: $playerDurationHeight;
   transition: width var(--duration) linear;
   background: var(--accentColor);

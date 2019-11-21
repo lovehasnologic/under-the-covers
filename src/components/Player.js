@@ -124,7 +124,12 @@ class Player extends React.Component {
           </button>
         </div>
         <div className="player__duration">
-          <div className="player__currentTime" style={{ width: "0%" }}></div>
+          <div
+            className="player__currentTime"
+            style={{
+              width: `${(this.state.currentTime / this.state.duration) * 100}%`
+            }}
+          ></div>
         </div>
         <div className="player__volume">
           <button className="player__control player__mute">
