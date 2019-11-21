@@ -21,7 +21,7 @@ class PlayerWindow extends React.Component {
 
   render() {
     return (
-      <ScrollToTop>
+      <ScrollToTop currentAlbum={this.props.currentAlbum}>
         <div className="jukebox__player">
           <Switch>
             <Route
