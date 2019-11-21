@@ -15,6 +15,8 @@
 - [x] Fix UTI on Vol. 2
 - [x] Create info page
 - [x] Create playable tracks in browser
+- [ ] Auto play from one track to the next (https://dev.to/ma5ly/lets-upgrade-our-little-audio-player-in-react-pfa)
+- [ ] Add analytics for downloads, listens, and (top-level) pageviews
 - [ ] Redesign "info" controls
 - [ ] Research Hooks and refactor where appropriate
 
