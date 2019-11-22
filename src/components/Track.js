@@ -37,7 +37,10 @@ class Track extends React.Component {
     return (
       <li
         className={`track ${
-          this.props.trackNumber === this.props.selectedTrack
+          this.props.trackNumber === this.props.selectedTrack ||
+          ((this.props.selectedTrack === "" ||
+            this.props.selectedTrack === undefined) &&
+            this.props.trackNumber === "1")
             ? "track--selected"
             : ""
         }`}
