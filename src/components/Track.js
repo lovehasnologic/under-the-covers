@@ -24,6 +24,30 @@ class Track extends React.Component {
     }
   }
 
+  hasAlbum(album, url) {
+    if (album) {
+      return (
+        <p itemProp="about">
+          Released on{" "}
+          <em>
+            <a
+              href="{url}"
+              className="track__albumUrl"
+              target="_blank"
+              rel="noopener noreferrer"
+              itemProp="inAlbum"
+            >
+              {album}
+            </a>
+          </em>
+          .
+        </p>
+      );
+    } else {
+      return <p itemProp="about">Unreleased</p>;
+    }
+  }
+
   render() {
     const {
       artist,
@@ -58,21 +82,7 @@ class Track extends React.Component {
         </em>
         <div className="track__info">
           {this.hasNotes(notes)}
-          <p itemProp="about">
-            Released on{" "}
-            <em>
-              <a
-                href={url}
-                className="track__albumUrl"
-                target="_blank"
-                rel="noopener noreferrer"
-                itemProp="inAlbum"
-              >
-                {album}
-              </a>
-            </em>
-            .{" "}
-          </p>
+          {this.hasAlbum(album, url)}
           <meta
             itemProp="inPlaylist"
             content={`Under The Covers, Vol. ${this.props.volume}`}
