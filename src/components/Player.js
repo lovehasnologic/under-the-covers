@@ -51,8 +51,12 @@ class Player extends React.Component {
   }
 
   handleSkip(direction) {
-    const nextTrack = parseFloat(this.props.selectedTrack) + 1;
-    const prevTrack = parseFloat(this.props.selectedTrack) - 1;
+    const nextTrack = this.props.selectedTrack
+      ? parseFloat(this.props.selectedTrack) + 1
+      : 2;
+    const prevTrack = this.props.selectedTrack
+      ? parseFloat(this.props.selectedTrack) - 1
+      : 0;
     if (direction === "next") {
       if (
         nextTrack >

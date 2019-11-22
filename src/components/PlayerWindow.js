@@ -62,27 +62,18 @@ class PlayerWindow extends React.Component {
             />
             <Route
               exact
-              path={`/volume/:volume(${Object.keys(this.props.volumes)
-                .map(function(id) {
-                  return id;
-                })
-                .join("|")})`}
-              render={props => (
-                <Album
-                  {...props}
-                  currentAlbum={this.props.currentAlbum}
-                  setActiveAlbum={this.props.setActiveAlbum}
-                  volumes={this.props.volumes}
-                />
-              )}
-            />
-            <Route
-              exact
-              path={`/volume/:volume(${Object.keys(this.props.volumes)
-                .map(function(id) {
-                  return id;
-                })
-                .join("|")})/track/:track`}
+              path={[
+                `/volume/:volume(${Object.keys(this.props.volumes)
+                  .map(function(id) {
+                    return id;
+                  })
+                  .join("|")})`,
+                `/volume/:volume(${Object.keys(this.props.volumes)
+                  .map(function(id) {
+                    return id;
+                  })
+                  .join("|")})/track/:track`
+              ]}
               render={props => (
                 <Album
                   {...props}
