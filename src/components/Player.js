@@ -21,6 +21,10 @@ class Player extends React.Component {
         duration: e.target.duration
       });
     });
+
+    this.player.addEventListener("ended", e => {
+      this.handleSkip("next");
+    });
   }
 
   componentDidUpdate(prevProps, prevState) {
