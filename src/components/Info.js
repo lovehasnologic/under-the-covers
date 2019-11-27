@@ -11,6 +11,12 @@ class Info extends React.Component {
 
   componentDidMount() {
     this.props.setActiveAlbum("0");
+
+    window._paq.push(["setCustomUrl", "/info"]);
+    window._paq.push(["setDocumentTitle", "Info Page"]);
+    window._paq.push(["setGenerationTimeMs", 0]);
+    window._paq.push(["trackPageView"]);
+    window._paq.push(["enableLinkTracking"]);
   }
 
   render() {

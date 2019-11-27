@@ -10,6 +10,12 @@ class Billboard extends React.Component {
 
   componentDidMount() {
     this.props.clearAlbum();
+
+    window._paq.push(["setCustomUrl", "/"]);
+    window._paq.push(["setDocumentTitle", "Home Page"]);
+    window._paq.push(["setGenerationTimeMs", 0]);
+    window._paq.push(["trackPageView"]);
+    window._paq.push(["enableLinkTracking"]);
   }
 
   render() {

@@ -31,7 +31,7 @@ class Track extends React.Component {
           Released on{" "}
           <em>
             <a
-              href="{url}"
+              href={url}
               className="track__albumUrl"
               target="_blank"
               rel="noopener noreferrer"

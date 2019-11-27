@@ -25,6 +25,18 @@ class Album extends React.Component {
         selectedTrack: this.props.match.params.track
       });
     }
+
+    window._paq.push([
+      "setCustomUrl",
+      "/volume/" + this.props.match.params.volume
+    ]);
+    window._paq.push([
+      "setDocumentTitle",
+      "Album Page, Vol." + this.props.match.params.volume
+    ]);
+    window._paq.push(["setGenerationTimeMs", 0]);
+    window._paq.push(["trackPageView"]);
+    window._paq.push(["enableLinkTracking"]);
   }
 
   componentDidUpdate(prevProps, prevState) {

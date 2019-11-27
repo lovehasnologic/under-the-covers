@@ -23,6 +23,15 @@ class Player extends React.Component {
     });
 
     this.player.addEventListener("ended", e => {
+      window._paq.push([
+        "trackEvent",
+        "Song",
+        "Complete",
+        "Vol. " +
+          this.props.currentAlbum +
+          ", Track " +
+          (this.props.selectedTrack ? this.props.selectedTrack : "1")
+      ]);
       this.handleSkip("next");
     });
   }
@@ -32,12 +41,25 @@ class Player extends React.Component {
       prevState.isPlaying &&
       this.props.selectedTrack !== prevProps.selectedTrack
     ) {
-      this.player.play();
+      this.playTrack();
     }
   }
 
   componentWillUnmount() {
     this.player.removeEventListener("timeupdate", () => {});
+  }
+
+  playTrack() {
+    this.player.play();
+    window._paq.push([
+      "trackEvent",
+      "Song",
+      "Play",
+      "Vol. " +
+        this.props.currentAlbum +
+        ", Track " +
+        (this.props.selectedTrack ? this.props.selectedTrack : "1")
+    ]);
   }
 
   playToggle() {
@@ -47,7 +69,7 @@ class Player extends React.Component {
         isPlaying: false
       });
     } else {
-      this.player.play();
+      this.playTrack();
       this.setState({
         isPlaying: true
       });
@@ -86,11 +108,13 @@ class Player extends React.Component {
   volumeControl() {
     if (this.state.isMuted) {
       this.player.muted = false;
+      window._paq.push(["trackEvent", "Player", "Unmuted"]);
       this.setState({
         isMuted: false
       });
     } else {
       this.player.muted = true;
+      window._paq.push(["trackEvent", "Player", "Muted"]);
       this.setState({
         isMuted: true
       });

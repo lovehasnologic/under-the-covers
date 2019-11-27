@@ -10,6 +10,12 @@ class Missing extends React.Component {
 
   componentDidMount() {
     this.props.clearAlbum();
+
+    window._paq.push(["setCustomUrl", this.props.location.pathname]);
+    window._paq.push(["setDocumentTitle", "404 Page"]);
+    window._paq.push(["setGenerationTimeMs", 0]);
+    window._paq.push(["trackPageView"]);
+    window._paq.push(["enableLinkTracking"]);
   }
 
   render() {
