@@ -18,7 +18,7 @@
 - [x] Fix NaN error when playing from /volume/# URL and hitting next button
 - [x] Highlight first track when playing from /volume/#
 - [x] Auto play from one track to the next (https://dev.to/ma5ly/lets-upgrade-our-little-audio-player-in-react-pfa)
-- [ ] Add analytics for downloads, listens, and (top-level) pageviews
+- [x] Add analytics for downloads, listens, and (top-level) pageviews
 - [ ] Redesign "info" controls
 - [ ] Research Hooks and refactor where appropriate
 
