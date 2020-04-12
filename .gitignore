@@ -26,3 +26,5 @@ yarn-error.log*
 
 /public/assets/albums
 /public/assets/songs
+account.key
+*.sketch
