@@ -3842,7 +3842,7 @@
         "artist": "Man Dingo",
         "title": "Walking On A Thin Line",
         "album": "All The Songs You’ve Always Hated",
-        "original_artist": "Huey Lewis And The News",
+        "original_artist": "Huey Lewis & The News",
         "url": "https://www.discogs.com/Mandingo-All-The-Songs-Youve-Always-Hated/master/817582"
       },
       "22": {
@@ -5647,6 +5647,522 @@
     "color": {
       "primary": "#7e3e1b",
       "secondary": "#eed761"
+    }
+  },
+  "33": {
+    "tracklist": {
+      "1": {
+        "artist": "The Futureheads",
+        "title": "Hounds Of Love",
+        "album": "The Futureheads",
+        "original_artist": "Kate Bush",
+        "url": "https://www.discogs.com/The-Futureheads-The-Futureheads/master/72706"
+      },
+      "2": {
+        "artist": "Pteradon",
+        "title": "Harder To Tell",
+        "album": "Split 7” w/ Shinobu",
+        "original_artist": "Discount",
+        "url": "https://www.discogs.com/master/view/478428"
+      },
+      "3": {
+        "artist": "Spoon",
+        "title": "Waiting To Know You",
+        "album": "Or Thousands Of Prizes",
+        "original_artist": "The Fiery Furnaces",
+        "url": "https://www.discogs.com/Various-Or-Thousands-Of-Prizes-Limited-Edition-7-inch-Subscription-Box-Set/release/7404445"
+      },
+      "4": {
+        "artist": "The Get Up Kids",
+        "title": "Alec Eiffel",
+        "album": "Eudora",
+        "original_artist": "Pixies",
+        "url": "https://www.discogs.com/The-Get-Up-Kids-Eudora/master/178199"
+      },
+      "5": {
+        "artist": "Augusta Koch",
+        "title": "Love, Love, Love",
+        "album": "Don’t Stop Now: A Collection Of Covers",
+        "original_artist": "The Mountain Goats",
+        "url": "https://dontstopnowacollectionofcovers.bandcamp.com/album/dont-stop-now-a-collection-of-covers"
+      },
+      "6": {
+        "artist": "Angel Olsen",
+        "title": "Tougher Than The Rest",
+        "album": "Others’ Blues",
+        "original_artist": "Bruce Springsteen",
+        "url": "https://www.discogs.com/Angel-Olsen-Others-Blues/release/9027763"
+      },
+      "7": {
+        "artist": "The Hated",
+        "title": "I Am A Rock",
+        "album": "The Machines 1990-1993",
+        "original_artist": "Simon & Garfunkel",
+        "url": "https://www.discogs.com/Various-The-Machines-1990-1993/master/574267"
+      },
+      "8": {
+        "artist": "Grieving Eucalyptus",
+        "title": "Bee-Bop-A-Lula",
+        "album": "Oldies But Goodies!",
+        "original_artist": "Gene Vincent",
+        "url": "https://www.discogs.com/Various-Oldies-But-Goodies/release/5792684"
+      },
+      "9": {
+        "artist": "The Queers",
+        "title": "Chewy Chewy",
+        "album": "Acid Beaters, Split CD w/ The Manges",
+        "original_artist": "Ohio Express",
+        "url": "https://www.discogs.com/Queers-Manges-Acid-Beaters-Love-And-Let-Die/master/874812"
+      },
+      "10": {
+        "artist": "MxPx",
+        "title": "I Will Follow",
+        "album": "On The Cover II",
+        "original_artist": "U2",
+        "url": "https://www.discogs.com/MxPx-On-The-Cover-II/master/442802"
+      },
+      "11": {
+        "artist": "The Vindictives",
+        "title": "What A Wonderful World",
+        "album": "Party Time For Assholes",
+        "original_artist": "Louis Armstrong",
+        "url": "https://www.discogs.com/master/view/340973"
+      },
+      "12": {
+        "artist": "Windwalker",
+        "title": "Burning Inside",
+        "album": "The Mint Is Still A Terrible Thing To Taste",
+        "original_artist": "Ministry",
+        "url": "https://www.discogs.com/Various-The-Mint-Is-Still-A-Terrible-Thing-To-Taste/release/2372648"
+      },
+      "13": {
+        "artist": "8-Bit Misfits",
+        "title": "Sweet Child O’ Mine",
+        "album": "8-Bit Versions Of Guns N’ Roses",
+        "original_artist": "Guns N’ Roses",
+        "url": "https://www.amazon.com/8-Bit-Versions-Guns-N-Roses/dp/B07255XXLJ/"
+      },
+      "14": {
+        "artist": "John Otway",
+        "title": "I Am The Walrus",
+        "album": "Under The Covers And Over The Top",
+        "original_artist": "The Beatles",
+        "url": "https://www.discogs.com/master/view/774816"
+      },
+      "15": {
+        "artist": "The Streets",
+        "title": "Your Song",
+        "album": "Radio 1 Established 1967",
+        "original_artist": "Elton John",
+        "url": "https://www.discogs.com/Various-Radio-1-Established-1967/master/1230615"
+      },
+      "16": {
+        "artist": "Patterson Hood & The Downtown Rumblers",
+        "title": "Hate This Town",
+        "album": "Songs for Slim: Rockin' Here Tonight – A Benefit Compilation for Slim Dunlap",
+        "original_artist": "Slim Dunlap",
+        "url": "https://www.discogs.com/Various-Songs-for-Slim-Rockin-Here-Tonight-A-Benefit-Compilation-for-Slim-Dunlap-/master/1189668"
+      },
+      "17": {
+        "artist": "Illuminati Hotties",
+        "title": "I Wanna Dance With Somebody (Who Loves Me)",
+        "album": "",
+        "original_artist": "Whitney Houston",
+        "url": "",
+        "notes": "This was available for download on the band’s bandcamp page for a short time."
+      },
+      "18": {
+        "artist": "The Kills",
+        "title": "List Of Demands (Reparations)",
+        "album": "List Of Demands (Reparations)",
+        "original_artist": "Saul Williams",
+        "url": "https://www.discogs.com/master/view/1350870"
+      },
+      "19": {
+        "artist": "Deerhoof",
+        "title": "Fight The Power",
+        "album": "Untitled",
+        "original_artist": "Public Enemy",
+        "url": "https://www.discogs.com/Deerhoof-Untitled/release/8684314"
+      },
+      "20": {
+        "artist": "Radiator Hospital",
+        "title": "Will You Still Love Me Tomorrow?",
+        "album": "Split 7” w/ Sorority Noise",
+        "original_artist": "The Shirelles",
+        "url": "https://www.discogs.com/Sorority-Noise-Radiator-Hospital-Sorority-Noise-Radiator-Hospital/master/753646"
+      },
+      "21": {
+        "artist": "Locas In Love",
+        "title": "I’m Downright Amazed At What I Can Destroy With Just A Hammer",
+        "album": "Up End Atom: A Tribute To Atom And His Package",
+        "original_artist": "Atom And His Package",
+        "url": "https://www.amazon.com/Up-End-Atom-Various-artists/dp/B0027PAI4E"
+      },
+      "22": {
+        "artist": "City And Colour",
+        "title": "Hop A Plane",
+        "album": "Tegan And Sara Present The Con X: Covers",
+        "original_artist": "Tegan And Sara",
+        "url": "https://www.discogs.com/master/view/1269810"
+      },
+      "23": {
+        "artist": "The Wynona Riders",
+        "title": "Power Rangers",
+        "album": "J.D. Salinger",
+        "original_artist": "The Mighty Morph’n Power Rangers",
+        "url": "https://www.discogs.com/master/view/244309",
+        "notes": "This was included on the CD version of the album."
+      }
+    },
+    "color": {
+      "primary": "#611869",
+      "secondary": "#e3c1da"
+    }
+  },
+  "34": {
+    "tracklist": {
+      "1": {
+        "artist": "Screaming Females",
+        "title": "Shake It Off",
+        "album": "Singles Too",
+        "original_artist": "Taylor Swift",
+        "url": "https://www.discogs.com/master/view/1622975"
+      },
+      "2": {
+        "artist": "Good Riddance",
+        "title": "My War",
+        "album": "Cover Ups",
+        "original_artist": "Black Flag",
+        "url": "https://www.discogs.com/Good-Riddance-Cover-Ups/master/666550"
+      },
+      "3": {
+        "artist": "Iron Maiden",
+        "title": "Communication Breakdown",
+        "album": "Eddie’s Archive",
+        "original_artist": "Led Zeppelin",
+        "url": "https://www.discogs.com/Iron-Maiden-Eddies-Archive/master/570227"
+      },
+      "4": {
+        "artist": "The Blake Babies",
+        "title": "Temptation Eyes",
+        "album": "Innocence And Experience",
+        "original_artist": "The Grass Roots",
+        "url": "https://www.discogs.com/Blake-Babies-Innocence-And-Experience/master/154583"
+      },
+      "5": {
+        "artist": "Mcfly",
+        "title": "Town Called Malice",
+        "album": "Radio 1 Established 1967",
+        "original_artist": "The Jam",
+        "url": "https://www.discogs.com/master/view/1230615"
+      },
+      "6": {
+        "artist": "Charles Douglas",
+        "title": "She’s An Angel",
+        "album": "Statecraft",
+        "original_artist": "They Might Be Giants",
+        "url": "https://www.discogs.com/Charles-Douglas-Statecraft/master/1283687"
+      },
+      "7": {
+        "artist": "Anne",
+        "title": "Atlantic City",
+        "album": "Mixed Singles Vol. 1",
+        "original_artist": "Bruce Springsteen",
+        "url": "https://www.discogs.com/Various-Mixed-Singles-Vol-1/release/4741311"
+      },
+      "8": {
+        "artist": "Luna",
+        "title": "Straight Up",
+        "album": "Guilt By Association",
+        "original_artist": "Paula Abdul",
+        "url": "https://www.discogs.com/master/view/854968"
+      },
+      "9": {
+        "artist": "Sarah Blasko",
+        "title": "Don’t Dream It’s Over",
+        "album": "She Will Have Her Way: The Songs Of Tim & Neil Finn",
+        "original_artist": "Crowded House",
+        "url": "https://www.discogs.com/Various-She-Will-Have-Her-Way-The-Songs-Of-Tim-Neil-Finn/master/152625"
+      },
+      "10": {
+        "artist": "MxPx",
+        "title": "Somebody To Love",
+        "album": "On The Cover II",
+        "original_artist": "Queen",
+        "url": "https://www.discogs.com/MxPx-On-The-Cover-II/master/442802"
+      },
+      "11": {
+        "artist": "Jesca Hoop",
+        "title": "John, I’m Only Dancing",
+        "album": "A Salute To The Thin White Duke - The Songs Of David Bowie",
+        "original_artist": "David Bowie",
+        "url": "https://www.discogs.com/master/view/901333"
+      },
+      "12": {
+        "artist": "The Usuals",
+        "title": "Bring On The Night",
+        "album": "No Idea 100: Redefiling Music",
+        "original_artist": "The Police",
+        "url": "https://www.discogs.com/Various-No-Idea-100-Redefiling-Music/master/356079"
+      },
+      "13": {
+        "artist": "Erica Freas",
+        "title": "Identity",
+        "album": "Tether",
+        "original_artist": "Hidden Spots",
+        "url": "https://www.discogs.com/Erica-Freas-Tether/release/6384640"
+      },
+      "14": {
+        "artist": "The Bouncing Souls",
+        "title": "I Know What Boys Like",
+        "album": "The Good, The Bad, And The Argyle",
+        "original_artist": "The Waitresses",
+        "url": "https://www.discogs.com/The-Bouncing-Souls-The-GoodBad-And-The-Argyle/master/39138"
+      },
+      "15": {
+        "artist": "The Chubbies",
+        "title": "What Girls Want",
+        "album": "What Girls Want!",
+        "original_artist": "Material Issue",
+        "url": "https://www.discogs.com/The-Chubbies-What-Girls-Want/release/2574345"
+      },
+      "16": {
+        "artist": "The Muffs",
+        "title": "Kids In America",
+        "album": "Hamburger",
+        "original_artist": "Kim Wilde",
+        "url": "https://www.discogs.com/The-Muffs-Hamburger/master/68552"
+      },
+      "17": {
+        "artist": "Lazy Cowgirls",
+        "title": "Hybrid Moments",
+        "album": "Third Time’s The Charm - Again",
+        "original_artist": "Misfits",
+        "url": "https://www.discogs.com/The-Lazy-Cowgirls-Third-Times-The-Charm-Again/master/339208"
+      },
+      "18": {
+        "artist": "Gigantor",
+        "title": "Beth",
+        "album": "Quicker Than Quick! Stronger Than Strong!",
+        "original_artist": "Kiss",
+        "url": "https://www.discogs.com/Gigantor-Quicker-Than-Quick-Stronger-Than-Strong/master/275503"
+      },
+      "19": {
+        "artist": "The Four Corners",
+        "title": "Gimme Some Money",
+        "album": "A Kindercore Records Single Of The Month: July 2000",
+        "original_artist": "Spinal Tap",
+        "url": "https://www.discogs.com/Dressy-Bessy-The-Four-Corners-A-Kindercore-Records-Single-Of-The-Month-July-2000/release/1080701"
+      },
+      "20": {
+        "artist": "Beatnik Termites",
+        "title": "Fun, Fun, Fun",
+        "album": "Split 7” w/ Shock Treatment",
+        "original_artist": "The Beach Boys",
+        "url": "https://www.discogs.com/Beatnik-Termites-Shock-Treatment-Split/release/1558314"
+      },
+      "21": {
+        "artist": "Heavenly",
+        "title": "It Won’t Be Long",
+        "album": "Revolution No. 9 (A Tribute To The Beatles In Aid Of Cambodia)",
+        "original_artist": "The Beatles",
+        "url": "https://www.discogs.com/Various-Revolution-No-9-A-Tribute-To-The-Beatles-In-Aid-Of-Cambodia/master/68542"
+      },
+      "22": {
+        "artist": "Ted Leo",
+        "title": "Many Rivers To Cross",
+        "album": "Don't Know When I’ll Be Back Again - A Compilation Benefiting American Veterans Of The Vietnam War",
+        "original_artist": "Jimmy Cliff",
+        "url": "https://www.discogs.com/Various-Dont-Know-When-Ill-Be-Back-Again-A-Compilation-Benefiting-American-Veterans-Of-The-Vietnam-W/release/2608307"
+      },
+      "23": {
+        "artist": "The Dopamines",
+        "title": "Power Of Love",
+        "album": "The Goldman Wedding Record",
+        "original_artist": "Huey Lewis & The News",
+        "url": ""
+      },
+      "24": {
+        "artist": "The Wedding Present",
+        "title": "High",
+        "album": "The Many Faces Of The Cure (A Journey Through The Inner World Of The Cure)",
+        "original_artist": "The Cure",
+        "url": "https://www.discogs.com/Various-The-Many-Faces-Of-The-Cure-A-Journey-Through-The-Inner-World-Of-The-Cure/master/1173054"
+      }
+    },
+    "color": {
+      "primary": "#ad4f18",
+      "secondary": "#e9cff3"
+    }
+  },
+  "35": {
+    "tracklist": {
+      "1": {
+        "artist": "Bailiff",
+        "title": "Danicing In The Dark",
+        "album": "Audiotree Live Session 2011",
+        "original_artist": "Bruce Springsteen",
+        "url": "https://www.discogs.com/Bailiff-Audiotree-Live-Session-2011/release/9253635"
+      },
+      "2": {
+        "artist": "Unrest",
+        "title": "Strutter",
+        "album": "Malcolm X Park",
+        "original_artist": "Kiss",
+        "url": "https://www.discogs.com/Unrest-Malcolm-X-Park/master/130267"
+      },
+      "3": {
+        "artist": "The New Bomb Turks",
+        "title": "Jim Motherfucker",
+        "album": "I Wanna Sleep",
+        "original_artist": "Gaunt",
+        "url": "https://www.discogs.com/The-New-Bomb-Turks-I-Wanna-Sleep/release/1660111"
+      },
+      "4": {
+        "artist": "Das Damen",
+        "title": "Making Time",
+        "album": "Sad Mile b/w Making Time",
+        "original_artist": "The Creation",
+        "url": "https://www.discogs.com/master/view/1159579"
+      },
+      "5": {
+        "artist": "Chris Farren",
+        "title": "Bamboo Bones",
+        "album": "Don’t Stop Now: A Collection Of Covers",
+        "original_artist": "Against Me!",
+        "url": "https://dontstopnowacollectionofcovers.bandcamp.com/album/dont-stop-now-a-collection-of-covers"
+      },
+      "6": {
+        "artist": "The Sarcastic Dharma Society",
+        "title": "Bad Bad Things",
+        "album": "Other People’s Songs (Volume One)",
+        "original_artist": "Andrew Jackson Jihad",
+        "url": "https://www.discogs.com/The-Sarcastic-Dharma-Society-Other-Peoples-Songs-Volume-One/release/11303784"
+      },
+      "7": {
+        "artist": "Deerhoof",
+        "title": "Pour Some Sugar On Me",
+        "album": "Untitled",
+        "original_artist": "Def Leppard",
+        "url": "https://www.discogs.com/Deerhoof-Untitled/release/8684314"
+      },
+      "8": {
+        "artist": "88 Fingers Louie",
+        "title": "Red Hot",
+        "album": "Get Off My Lawn",
+        "original_artist": "Mötley Crüe",
+        "url": "https://www.discogs.com/88-Fingers-Louie-Get-Off-My-Lawn/master/1358738"
+      },
+      "9": {
+        "artist": "New Found Glory",
+        "title": "Eye Of The Tiger",
+        "album": "From The Screen To Your Stereo 3",
+        "original_artist": "Survivor",
+        "url": "https://www.discogs.com/New-Found-Glory-From-The-Screen-To-Your-Stereo-3/master/1543360"
+      },
+      "10": {
+        "artist": "Alkaline Trio",
+        "title": "Lucretia My Reflection",
+        "album": "The Suicide Girls (Black Heart Retrospective)",
+        "original_artist": "The Sisters Of Mercy",
+        "url": "https://www.discogs.com/Various-The-Suicide-Girls-Black-Heart-Retrospective/release/592091"
+      },
+      "11": {
+        "artist": "Cold Wrecks",
+        "title": "Watermark",
+        "album": "One Great Tribute! A Love Letter To The Weakerthans",
+        "original_artist": "The Weakerthans",
+        "url": "https://theweakerthanstribute.bandcamp.com/album/one-great-tribute-a-love-letter-to-the-weakerthans"
+      },
+      "12": {
+        "artist": "MxPx",
+        "title": "Suburban Home",
+        "album": "On The Cover II",
+        "original_artist": "Descendents",
+        "url": "https://www.discogs.com/MxPx-On-The-Cover-II/master/442802"
+      },
+      "13": {
+        "artist": "The Vindictives",
+        "title": "Call Me Irresponsible",
+        "album": "Chairman Of The Board - Interpretations Of Songs Made Famous By Frank Sinatra",
+        "original_artist": "Frank Sinatra",
+        "url": "https://www.discogs.com/Various-Chairman-Of-The-Board-Interpretations-Of-Songs-Made-Famous-By-Frank-Sinatra/master/370512"
+      },
+      "14": {
+        "artist": "Evergreen Terrace",
+        "title": "Stars",
+        "album": "Writers Block",
+        "original_artist": "Hum",
+        "url": "https://www.discogs.com/Evergreen-Terrace-Writers-Block/master/579844"
+      },
+      "15": {
+        "artist": "Dirt Bike Annie",
+        "title": "Debaser",
+        "album": "It Ain’t Easy Bein’ Single",
+        "original_artist": "Pixies",
+        "url": "https://www.discogs.com/Dirt-Bike-Annie-It-Aint-Easy-Bein-Single-Vinyl-EPs-And-Rarities/release/3455788"
+      },
+      "16": {
+        "artist": "Diesel Boy",
+        "title": "Dust In The Wind",
+        "album": "Music To Listen To Music By",
+        "original_artist": "Kansas",
+        "url": "https://www.discogs.com/Various-Music-To-Listen-To-Music-By/release/2173185"
+      },
+      "17": {
+        "artist": "The Methadones",
+        "title": "I’m The Man",
+        "album": "21st Century Power Pop Riot",
+        "original_artist": "Joe Jackson",
+        "url": "https://www.discogs.com/The-Methadones-21st-Century-Power-Pop-Riot/master/428540"
+      },
+      "18": {
+        "artist": "Western Addiction",
+        "title": "Rat Patrol",
+        "album": "Split EP w/ New Mexican Disaster Squad",
+        "original_artist": "Naked Raygun",
+        "url": "https://www.discogs.com/Western-Addiction-New-Mexican-Disaster-Squad-New-Mexican-Disaster-Squad-Western-Addiction/master/376265"
+      },
+      "19": {
+        "artist": "J Church",
+        "title": "If We Wait…",
+        "album": "Split 7” w/ Fluf",
+        "original_artist": "Guided By Voices",
+        "url": "https://www.discogs.com/Fluf-J-Church-Fluf-J-Church/master/267962"
+      },
+      "20": {
+        "artist": "Matt Pond",
+        "title": "These Days",
+        "album": "I Saved Latin! A Tribute To Wes Anderson",
+        "original_artist": "Jackson Browne",
+        "url": "https://www.discogs.com/master/view/802359"
+      },
+      "21": {
+        "artist": "Nouvelle Vague",
+        "title": "Love Will Tear Us Apart",
+        "album": "Nouvelle Vague",
+        "original_artist": "Joy Division",
+        "url": "https://www.discogs.com/Nouvelle-Vague-Nouvelle-Vague/master/5128"
+      },
+      "22": {
+        "artist": "Jesse Lacey",
+        "title": "Bad Day",
+        "album": "Devinyl Splits No. 6, Split 7” w/ Kevin Devine",
+        "original_artist": "R.E.M.",
+        "url": "https://www.discogs.com/Jesse-Lacey-Kevin-Devine-Devinyl-Splits-No-6/master/975992"
+      },
+      "23": {
+        "artist": "8-Bit Misfits",
+        "title": "Don’t Stop Believin’",
+        "album": "8-Bit Arena Anthems",
+        "original_artist": "Journey",
+        "url": "https://www.amazon.com/gp/product/B07D8FYKZ2/"
+      }
+    },
+    "color": {
+      "primary": "#2e327b",
+      "secondary": "#f03529"
     }
   }
 }
