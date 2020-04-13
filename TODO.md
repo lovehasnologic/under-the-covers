@@ -21,9 +21,3 @@
 - [x] Add analytics for downloads, listens, and (top-level) pageviews
 - [ ] Redesign "info" controls
 - [ ] Research Hooks and refactor where appropriate
-
-### Artwork:
-
-- [ ] 30 - David Bowie - Heroes
-- [ ] 31 - The Germs - GI
-- [ ] 32 - Seals & Croft - Summer Breeze
