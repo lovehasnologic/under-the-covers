@@ -6517,5 +6517,160 @@
       "primary": "#c0252b",
       "secondary": "#d0d2de"
     }
+  },
+  "38": {
+    "tracklist": {
+      "1": {
+        "title": "Float On",
+        "artist": "Ben Lee",
+        "original_artist": "Modest Mouse",
+        "album": "Catch My Disease",
+        "url": "https://www.discogs.com/Ben-Lee-Catch-My-Disease/master/714539"
+      },
+      "2": {
+        "title": "Tainted Love",
+        "artist": "My Brightest Diamond",
+        "original_artist": "Soft Cell",
+        "album": "Guilt By Association Vol. 2",
+        "url": "https://www.discogs.com/Various-Guilt-By-Association-Vol-2/release/4186671"
+      },
+      "3": {
+        "title": "The Morning Paper",
+        "artist": "John Yoko",
+        "original_artist": "Smog",
+        "album": "Papa Was A Rodeo",
+        "url": "https://www.discogs.com/John-Yoko-Papa-Was-A-Rodeo/release/473115"
+      },
+      "4": {
+        "title": "Love Vigilantes",
+        "artist": "Comet Gain",
+        "original_artist": "New Order",
+        "album": "I Never Happened",
+        "url": "https://www.discogs.com/Comet-Gain-I-Never-Happened/release/3088472"
+      },
+      "5": {
+        "title": "Suffragette City",
+        "artist": "Ume",
+        "original_artist": "David Bowie",
+        "album": "A Salute To The Thin White Duke - The Songs Of David Bowie",
+        "url": "https://www.discogs.com/master/view/901333"
+      },
+      "6": {
+        "title": "Beautiful Sunday",
+        "artist": "McRackins",
+        "original_artist": "Daniel Boone",
+        "album": "I’ll Stick To Beer",
+        "url": "https://www.discogs.com/McRackins-Ill-Stick-To-Beer/master/664877"
+      },
+      "7": {
+        "title": "Speed Racer",
+        "artist": "The Mr. T Experience",
+        "original_artist": "TV Theme",
+        "album": "Strum Und Bang, Live?!",
+        "url": "https://www.discogs.com/The-Mr-T-Experience-Strum-Und-Bang-Live/release/1991696"
+      },
+      "8": {
+        "title": "When You Were Mine",
+        "artist": "Cigaretteman",
+        "original_artist": "Prince",
+        "album": "A Short Story",
+        "url": "https://www.discogs.com/Various-A-Short-Story/release/6058996"
+      },
+      "9": {
+        "title": "My Way",
+        "artist": "Crispy Nuts",
+        "original_artist": "Frank Sinatra",
+        "album": "Crispy Nuts",
+        "url": "https://www.discogs.com/Crispy-Nuts-Crispy-Nuts/release/7296501"
+      },
+      "10": {
+        "title": "How Much More",
+        "artist": "Redd Kross",
+        "original_artist": "Go-Go’s",
+        "album": "Freedom Of Choice",
+        "url": "https://www.discogs.com/master/view/29871"
+      },
+      "11": {
+        "title": "It's Alright Ma, It's Only Witchcraft",
+        "artist": "The Resonars",
+        "original_artist": "Fairport Convention",
+        "album": "Trouble In Mind Covers EP 2013",
+        "url": "https://www.discogs.com/Various-Trouble-In-Mind-Covers-EP-2013/release/4492065"
+      },
+      "12": {
+        "title": "Ace Of Spades",
+        "artist": "Coal",
+        "original_artist": "Motörhead",
+        "album": "The Mint Is Still A Terrible Thing To Taste",
+        "url": "https://www.discogs.com/Various-The-Mint-Is-Still-A-Terrible-Thing-To-Taste/release/2372648"
+      },
+      "13": {
+        "title": "Neighborhood #1 (Tunnels)",
+        "artist": "Times New Viking",
+        "original_artist": "Arcade Fire",
+        "album": "Score! 20 Years Of Merge Records: The Covers!",
+        "url": "https://www.discogs.com/Various-Score-20-Years-Of-Merge-Records-The-Covers/release/2130900"
+      },
+      "14": {
+        "title": "Accident Prone",
+        "artist": "Ghost Thrower",
+        "original_artist": "Jawbreaker",
+        "album": "What’s The Score? Save Your Generation Presents A Collection Of Covers",
+        "url": "https://www.discogs.com/Various-Whats-The-Score-Save-Your-Generation-Presents-A-Collection-Of-Covers/master/946948"
+      },
+      "15": {
+        "title": "Like I Love You",
+        "artist": "Maxïmo Park",
+        "original_artist": "Justin Timberlake",
+        "album": "Karaoke Plays",
+        "url": "https://www.discogs.com/Maxïmo-Park-Karaoke-Plays/release/1173224"
+      },
+      "16": {
+        "title": "Runaway Return",
+        "artist": "Great Apes",
+        "original_artist": "Fugazi",
+        "album": "Everybody Wants Somewhere: A Tribute To Fugazi",
+        "url": "https://www.discogs.com/Various-Everybody-Wants-Somewhere-A-Tribute-To-Fugazi/release/10527975"
+      },
+      "17": {
+        "title": "Forensic Economics",
+        "artist": "Joan Of Arc",
+        "original_artist": "Metroschifter",
+        "album": "Encapsulated",
+        "url": "https://www.discogs.com/Metroschifter-Encapsulated/master/252957"
+      },
+      "18": {
+        "title": "House Where Nobody Lives",
+        "artist": "Iris DeMent",
+        "original_artist": "Tom Waits",
+        "album": "Come On Up To The House: Women Sing Waits",
+        "url": "https://www.discogs.com/Various-Come-On-Up-To-The-House-Women-Sing-Waits/master/1640683"
+      },
+      "19": {
+        "title": "Lodi",
+        "artist": "Advance Base",
+        "original_artist": "Credence Clearwater Revival",
+        "album": "Plastic Owen Band",
+        "url": "https://www.discogs.com/Advance-Base-Plastic-Owen-Band/master/1262318"
+      },
+      "20": {
+        "title": "Runaway",
+        "artist": "Yoni Wolf",
+        "original_artist": "The National",
+        "album": "Snow Jams (Covers Tape)",
+        "url": "https://www.discogs.com/Yoni-Wolf-Snow-Jams-Covers-Tape/release/6525706"
+      },
+      "21": {
+        "title": "The Final Countdown",
+        "artist": "Nicotine",
+        "original_artist": "Europe",
+        "album": "Metal Addiction, Split w/ Sun Eats Hours",
+        "url": "https://www.discogs.com/Sun-Eats-Hours-Nicotine-Metal-Addiction/release/3136266"
+      }
+    },
+    "color": {
+      "primary": "#829666",
+      "secondary": "#ffc5db"
+    }
   }
 }
