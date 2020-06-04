@@ -3022,7 +3022,7 @@
         "url": "https://www.discogs.com/Various-Japan-31111-A-Benefit-Album/release/3150275"
       },
       "10": {
-        "artist": "Casiotone For The Painfully Alone & Concern",
+        "artist": "Casiotone For The Painfully Alone",
         "title": "Born In The USA",
         "album": "Advance Base Battery Life",
         "original_artist": "Bruce Springsteen",
@@ -6347,6 +6347,175 @@
     "color": {
       "primary": "#343e43",
       "secondary": "#fde2a3"
+    }
+  },
+  "37": {
+    "tracklist": {
+      "1": {
+        "title": "Regrets",
+        "artist": "We Versus The Shark",
+        "original_artist": "Ben Folds Five",
+        "album": "Murmurmur",
+        "url": "http://quoteunquoterecords.com/qur017.htm"
+      },
+      "2": {
+        "title": "The Signs Of The Times",
+        "artist": "Off With Their Heads",
+        "original_artist": "Crusades",
+        "album": "Split w/ Crusades",
+        "url": "https://www.discogs.com/Off-With-Their-Heads-Crusades-Off-With-Their-Heads-Crusades/release/9931450"
+      },
+      "3": {
+        "title": "Streets Of Phildadelphia",
+        "artist": "Casiotone For The Painfully Alone",
+        "original_artist": "Bruce Springsteen",
+        "album": "Advance Base Battery Life",
+        "url": "https://www.discogs.com/Casiotone-For-The-Painfully-Alone-Advance-Base-Battery-Life/master/143883"
+      },
+      "4": {
+        "title": "Epic",
+        "artist": "Love Is All",
+        "original_artist": "Faith No More",
+        "album": "Wishing Well / Epic",
+        "url": "https://www.discogs.com/Love-Is-All-Wishing-Well-Epic-Faith-No-More/release/7152841"
+      },
+      "5": {
+        "title": "Leavin’ On A Jet Plane",
+        "artist": "Sloppy Seconds",
+        "original_artist": "John Denver",
+        "album": "Come Back, Traci",
+        "url": "https://www.discogs.com/master/view/127316"
+      },
+      "6": {
+        "title": "Fast Cars",
+        "artist": "The Thumbs",
+        "original_artist": "Buzzcocks",
+        "album": "Split 7” w/ Jack Palance Band",
+        "url": "https://www.discogs.com/Jack-Palance-Band-The-Thumbs-Jack-Palance-Band-The-Thumbs/release/2628556"
+      },
+      "7": {
+        "title": "Sweet Dreams",
+        "artist": "Beat Crusaders",
+        "original_artist": "Snuff",
+        "album": "Rest Crusaders",
+        "url": "https://www.discogs.com/Beat-Crusaders-Rest-Crusaders/release/15318813"
+      },
+      "8": {
+        "title": "Enjoy The Silence",
+        "artist": "No Use For A Name",
+        "original_artist": "Depeche Mode",
+        "album": "Rarities Vol. 1: The Covers",
+        "url": "https://www.discogs.com/No-Use-For-A-Name-Rarities-Vol-1-The-Covers/master/1219085"
+      },
+      "9": {
+        "title": "I’m So Tired",
+        "artist": "Gnarboots",
+        "original_artist": "Fugazi",
+        "album": "Everybody Wants Somewhere: A Tribute To Fugazi",
+        "url": "https://www.discogs.com/Various-Everybody-Wants-Somewhere-A-Tribute-To-Fugazi/release/10527975"
+      },
+      "10": {
+        "title": "I Love My Label",
+        "artist": "Wilco",
+        "original_artist": "Nick Lowe",
+        "album": "I Might b/w I Love My Label",
+        "url": "https://www.discogs.com/Wilco-I-Might-bw-I-Love-My-Label/master/354168"
+      },
+      "11": {
+        "title": "Wolves At The Door",
+        "artist": "Broad Cast",
+        "original_artist": "David Bazan",
+        "album": "Don’t Stop Now: A Collection Of Covers",
+        "url": "https://dontstopnowacollectionofcovers.bandcamp.com/album/dont-stop-now-a-collection-of-covers"
+      },
+      "12": {
+        "title": "Hammer Down",
+        "artist": "Hospital Ships",
+        "original_artist": "Magnolia Electric Co.",
+        "album": "Weary Engine Blues: A Tribute To Jason Molina",
+        "url": "https://www.discogs.com/master/view/555014"
+      },
+      "13": {
+        "title": "Drive My Car",
+        "artist": "Brilliant Corners",
+        "original_artist": "The Beatles",
+        "album": "Heart On Your Sleeve (A Decade In Pop 1983-1993)",
+        "url": "https://www.discogs.com/The-Brilliant-Corners-Heart-On-Your-Sleeve-A-Decade-In-Pop-1983-1993/release/4418484"
+      },
+      "14": {
+        "title": "Spit-Bite",
+        "artist": "Colossal",
+        "original_artist": "Jawbox",
+        "album": "Until The Shaking Stops: A Salute To Jawbox",
+        "url": "https://www.discogs.com/Various-Until-The-Shaking-Stops-A-Salute-To-Jawbox/release/1590526"
+      },
+      "15": {
+        "title": "Bad Guy",
+        "artist": "The Interrupters",
+        "original_artist": "Billie Eilish",
+        "album": "Bad Guy Single",
+        "url": "https://www.amazon.com/Bad-Guy-Interrupters/dp/B07Y9BJSSN"
+      },
+      "16": {
+        "title": "Gates Of Steel",
+        "artist": "Sweet Cobra",
+        "original_artist": "Devo",
+        "album": "Are We Not Men? Split w/ Doomriders",
+        "url": "https://www.discogs.com/Doomriders-Sweet-Cobra-Are-We-Not-Men/master/429927"
+      },
+      "17": {
+        "title": "Living After Midnight",
+        "artist": "The Donnas",
+        "original_artist": "Judas Priest",
+        "album": "Turn 21",
+        "url": "https://www.discogs.com/The-Donnas-Turn-21/master/124087"
+      },
+      "18": {
+        "title": "For Broken Ears",
+        "artist": "The Loved Ones",
+        "original_artist": "Chuck Ragan",
+        "album": "Split w/ Chuck Ragan",
+        "url": "https://www.discogs.com/Chuck-Ragan-The-Loved-Ones-Give-And-Take/master/256938"
+      },
+      "19": {
+        "title": "Springtime",
+        "artist": "Hot Water Music",
+        "original_artist": "Leatherface",
+        "album": "Til The Wheels Fall Off",
+        "url": "https://www.discogs.com/Hot-Water-Music-Till-The-Wheels-Fall-Off/master/172282"
+      },
+      "20": {
+        "title": "Always On My Mind",
+        "artist": "Weston",
+        "original_artist": "Willie Nelson",
+        "album": "A Real-Life Story Of Teenage Rebellion",
+        "url": "https://www.discogs.com/Weston-A-Real-Life-Story-Of-Teenage-Rebellion/master/314348"
+      },
+      "21": {
+        "title": "White Rabbit",
+        "artist": "The Thermals",
+        "original_artist": "Jefferson Airplane",
+        "album": "Hey You / White Rabbit",
+        "url": "https://www.discogs.com/master/view/1075979"
+      },
+      "22": {
+        "title": "Here Comes My Baby",
+        "artist": "Tea Cozies",
+        "original_artist": "Cat Stevens",
+        "album": "I Saved Latin! A Tribute To Wes Anderson",
+        "url": "https://www.discogs.com/master/view/802359"
+      },
+      "23": {
+        "title": "Asleep",
+        "artist": "Emily Browning",
+        "original_artist": "The Smiths",
+        "album": "Sucker Punch (Original Motion Picture Soundtrack)",
+        "url": "https://www.discogs.com/master/view/336150"
+      }
+    },
+    "color": {
+      "primary": "#c0252b",
+      "secondary": "#d0d2de"
     }
   }
 }
