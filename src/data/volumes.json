@@ -7131,7 +7131,7 @@
         "title": "Serious",
         "artist": "Sloppy Seconds",
         "original_artist": "Alice Cooper",
-        "album": "I Don't Wanna Be A Homosexual",
+        "album": "I Don’t Wanna Be A Homosexual",
         "url": "https://www.discogs.com/Sloppy-Seconds-I-Dont-Wanna-Be-A-Homosexual-Serious/release/3385159",
         "notes": "This track was added as a new B-Side when the single was re-issued."
       },
@@ -7203,6 +7203,182 @@
     "color": {
       "primary": "#1f1f1f",
       "secondary": "#b2b2b2"
+    }
+  },
+  "42": {
+    "tracklist": {
+      "1": {
+        "title": "Prayer to God",
+        "artist": "Dikembe",
+        "original_artist": "Shellac",
+        "album": "Covers 2017",
+        "url": "https://dikembe.bandcamp.com/album/covers-2017",
+        "notes": "Track features Bob Nanna (Braid) on vocals."
+      },
+      "2": {
+        "title": "Mad World",
+        "artist": "Superchunk",
+        "original_artist": "Corrosion Of Conformity",
+        "album": "Break The Glass",
+        "url": "https://www.discogs.com/Superchunk-Break-The-Glass/master/1255057"
+      },
+      "3": {
+        "title": "Good Enough",
+        "artist": "Surfer Blood",
+        "original_artist": "Mudhoney",
+        "album": "Covers",
+        "url": "https://www.discogs.com/Surfer-Blood-Covers/release/10990829"
+      },
+      "4": {
+        "title": "After The Gold Rush",
+        "artist": "Jeff Rosenstock & Laura Stevenson",
+        "original_artist": "Neil Young",
+        "album": "Still Young",
+        "url": "https://www.discogs.com/master/view/1740411"
+      },
+      "5": {
+        "title": "Drain You",
+        "artist": "Straylight Run",
+        "original_artist": "Nirvana",
+        "album": ""
+      },
+      "6": {
+        "title": "Fun Fun Fun",
+        "artist": "The Hotlines",
+        "original_artist": "The Beach Boys",
+        "album": "Split 7” w/ The Queers",
+        "url": "https://www.discogs.com/master/view/1727649"
+      },
+      "7": {
+        "title": "Give Me Some Money",
+        "artist": "Gories",
+        "original_artist": "Spinal Tap",
+        "album": "Give Me Some Money / You Don’t Love Me",
+        "url": "https://www.discogs.com/Gories-Give-Me-Some-Money-You-Dont-Love-Me/master/428932"
+      },
+      "8": {
+        "title": "ELO Kiddies",
+        "artist": "Easy Action",
+        "original_artist": "Cheap Trick",
+        "album": "She Ain’t My Girlfriend",
+        "url": "https://www.discogs.com/Easy-Action-She-Aint-My-Girlfriend/release/3002074"
+      },
+      "9": {
+        "title": "Leader Of The Pack",
+        "artist": "Good Riddance",
+        "original_artist": "The Shangri-Las",
+        "album": "Cover Ups",
+        "url": "https://www.discogs.com/Good-Riddance-Cover-Ups/master/666550"
+      },
+      "10": {
+        "title": "Bizarre Love Triangle",
+        "artist": "Frente!",
+        "original_artist": "New Order",
+        "album": "Bizarre Love Triangle",
+        "url": "https://www.discogs.com/Frente-Bizarre-Love-Triangle/master/165228"
+      },
+      "11": {
+        "title": "I’m In Love With A Girl",
+        "artist": "Chris Carrabba",
+        "original_artist": "Big Star",
+        "album": "Covered In The Flood",
+        "url": "https://www.discogs.com/Chris-Carrabba-Covered-In-The-Flood/release/6854345"
+      },
+      "12": {
+        "title": "The Reasons",
+        "artist": "My Crooked Teeth",
+        "original_artist": "The Weakerthans",
+        "album": "One Great Tribute! A Love Letter To The Weakerthans",
+        "url": "https://theweakerthanstribute.bandcamp.com/album/one-great-tribute-a-love-letter-to-the-weakerthans"
+      },
+      "13": {
+        "title": "Head Over Heels",
+        "artist": "Doc Hopper",
+        "original_artist": "Go-Go’s",
+        "album": "Aloha",
+        "url": "https://www.discogs.com/Doc-Hopper-Aloha/master/379647"
+      },
+      "14": {
+        "title": "Lemmings",
+        "artist": "Invalids",
+        "original_artist": "Blink-182",
+        "album": "I Guess This Is Growing Up (Volume 1)",
+        "url": "https://enjoymentrecords.bandcamp.com/album/i-guess-this-is-growing-up-volume-1"
+      },
+      "15": {
+        "title": "Waiting",
+        "artist": "The Menzingers",
+        "original_artist": "Green Day",
+        "album": "Covers EP",
+        "url": "https://www.last.fm/music/The+Menzingers/Covers+EP"
+      },
+      "16": {
+        "title": "Everybody Wants To Rule The World",
+        "artist": "Fenomenon",
+        "original_artist": "Tears For Fears",
+        "album": "Hourglass",
+        "url": "https://www.discogs.com/Fenomenon-Hourglass/master/356325"
+      },
+      "17": {
+        "title": "Back In Your Head",
+        "artist": "Cyndi Lauper",
+        "original_artist": "Tegan And Sara",
+        "album": "Tegan And Sara Present The Con X: Covers",
+        "url": "https://www.discogs.com/Various-Tegan-And-Sara-Present-The-Con-X-Covers/release/11304041"
+      },
+      "18": {
+        "title": "Roxanne",
+        "artist": "Juliana Hatfield",
+        "original_artist": "The Police",
+        "album": "Juliana Hatfield Sings The Police",
+        "url": "https://www.discogs.com/Juliana-Hatfield-Juliana-Hatfield-Sings-The-Police/master/1634050"
+      },
+      "19": {
+        "title": "I Melt With You",
+        "artist": "Sean Bonnette",
+        "original_artist": "Modern English",
+        "album": "Skateboarding’s Greatest Hits",
+        "url": "http://quoteunquoterecords.com/qur076.htm"
+      },
+      "20": {
+        "title": "Long, Long Way From Home",
+        "artist": "88 Fingers Louie",
+        "original_artist": "Foreigner",
+        "album": "Get Off My Lawn",
+        "url": "https://www.discogs.com/88-Fingers-Louie-Get-Off-My-Lawn/master/1358738"
+      },
+      "21": {
+        "title": "Electric Avenue",
+        "artist": "Servotron",
+        "original_artist": "Eddy Grant",
+        "album": "The Inefficiency Of Humans",
+        "url": "https://www.discogs.com/Servotron-The-Inefficiency-Of-Humans/release/1180028"
+      },
+      "22": {
+        "title": "Yummy Yummy Yummy",
+        "artist": "Captain 9’s & The Knickerbocker Trio",
+        "original_artist": "Ohio Express",
+        "album": "Vinyl Retentive",
+        "url": "https://www.discogs.com/Various-Vinyl-Retentive/release/2404942"
+      },
+      "23": {
+        "title": "Turning Japanese",
+        "artist": "The Vindictives",
+        "original_artist": "The Vapors",
+        "album": "Party Time For Assholes",
+        "url": "https://www.discogs.com/The-Vindictives-Party-Time-For-Assholes/master/340973"
+      },
+      "24": {
+        "title": "I Can See For Miles",
+        "artist": "Hyperhead",
+        "original_artist": "The Who",
+        "album": "Who Covers Who",
+        "url": "https://www.discogs.com/Various-Who-Covers-Who/master/405893"
+      }
+    },
+    "color": {
+      "primary": "#5e6a1d",
+      "secondary": "#de1627"
     }
   }
 }
