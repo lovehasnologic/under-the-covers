@@ -7537,7 +7537,7 @@
         "title": "Wipeout",
         "artist": "The Queers",
         "original_artist": "The Surfaris",
-        "album": "Acid Beaters (Love And Let Die)",
+        "album": "Acid Beaters (Love And Let Die), Split w/ The Manges",
         "url": "https://www.discogs.com/Queers-Manges-Acid-Beaters-Love-And-Let-Die/master/874812"
       },
       "23": {
@@ -8138,6 +8138,374 @@
     "color": {
       "primary": "#01a8ec",
       "secondary": "#f7da02"
+    }
+  },
+  "47": {
+    "tracklist": {
+      "1": {
+        "title": "Imagine",
+        "artist": "Heart Harbor",
+        "original_artist": "John Lennon",
+        "album": "Don’t Stop Now: A Collection Of Covers",
+        "url": "https://dontstopnowacollectionofcovers.bandcamp.com/album/dont-stop-now-a-collection-of-covers"
+      },
+      "2": {
+        "title": "Don’t Let Me Down",
+        "artist": "Paul Weller",
+        "original_artist": "The Beatles",
+        "album": "Fly On The Wall",
+        "url": "https://www.discogs.com/Paul-Weller-Fly-On-The-Wall-B-Sides-Rarities/master/236388"
+      },
+      "3": {
+        "title": "These Days",
+        "artist": "The Ophelias",
+        "original_artist": "Jackson Browne",
+        "album": "Creature Native",
+        "url": "https://www.discogs.com/The-Ophelias-Creature-Native/master/1361682"
+      },
+      "4": {
+        "title": "Always On My Mind",
+        "artist": "Jacco Gardner",
+        "original_artist": "Billy Nicholls",
+        "album": "Trouble In Mind Covers EP 2013",
+        "url": "https://www.discogs.com/Various-Trouble-In-Mind-Covers-EP-2013/release/4492065"
+      },
+      "5": {
+        "title": "No Love Lost",
+        "artist": "LCD Soundsystem",
+        "original_artist": "Joy Division",
+        "album": "This Is Happening",
+        "url": "https://www.discogs.com/master/view/248221",
+        "notes": "Bonus track added to the Japanese edition of the album."
+      },
+      "6": {
+        "title": "Manic Monday",
+        "artist": "Sevenpercentsolution",
+        "original_artist": "The Bangles",
+        "album": "Split 7” w/ Piebald",
+        "url": "https://www.discogs.com/Piebald-Sevenpercentsolution-Split-7/release/2572531"
+      },
+      "7": {
+        "title": "I Stole Your Love",
+        "artist": "Good Riddance",
+        "original_artist": "Kiss",
+        "album": "Cover Ups",
+        "url": "https://www.discogs.com/Good-Riddance-Cover-Ups/master/666550"
+      },
+      "8": {
+        "title": "High Voltage",
+        "artist": "Electric Frankenstein",
+        "original_artist": "AC/DC",
+        "album": "We Will Bury You!",
+        "url": "https://www.discogs.com/Electric-Frankenstein-We-Will-Bury-You/master/536445"
+      },
+      "9": {
+        "title": "Little Honda",
+        "artist": "Yo La Tengo",
+        "original_artist": "The Beach Boys",
+        "album": "I Can Hear The Heart Beating As One",
+        "url": "https://www.discogs.com/master/view/32485"
+      },
+      "10": {
+        "title": "Teenage Kicks",
+        "artist": "Nouvelle Vague",
+        "original_artist": "The Undertones",
+        "album": "Nouvelle Vague",
+        "url": "https://www.discogs.com/Nouvelle-Vague-Nouvelle-Vague/master/5128"
+      },
+      "11": {
+        "title": "Disarm",
+        "artist": "Silverstein",
+        "original_artist": "Smashing Pumpkins",
+        "album": "Songs That Saved My Life, Vol. 2",
+        "url": "https://www.discogs.com/master/view/1636374"
+      },
+      "12": {
+        "title": "Girl You Want",
+        "artist": "Quadiliacha",
+        "original_artist": "Devo",
+        "album": "Totally Fucking The ’80s",
+        "url": "https://www.discogs.com/Various-Totally-Fucking-The-80s/master/153030"
+      },
+      "13": {
+        "title": "I Turned Into A Martian",
+        "artist": "Boris The Sprinkler",
+        "original_artist": "Misfits",
+        "album": "Split 7” w/ The Droids",
+        "url": "https://www.discogs.com/Boris-The-Sprinkler-The-Droids-Boris-The-Sprinkler-Droids-The/release/2291865"
+      },
+      "14": {
+        "title": "Leaving On A Jet Plane",
+        "artist": "Everready",
+        "original_artist": "John Denver",
+        "album": "Reinheitsgebot",
+        "url": "https://www.discogs.com/Everready-Reinheitsgebot/release/3645287"
+      },
+      "15": {
+        "title": "Nowhere Is My Home",
+        "artist": "The Tim Version",
+        "original_artist": "The Replacements",
+        "album": "Know When To Fold ’Em",
+        "url": "https://www.discogs.com/The-Tim-Version-Know-When-To-Fold-Em/release/2790228"
+      },
+      "16": {
+        "title": "Pints Of Guinness Make You Strong",
+        "artist": "Murder By Death",
+        "original_artist": "Against Me!",
+        "album": "As You Wish: Kickstarter Covers Vol 3",
+        "url": "https://www.discogs.com/master/view/1566476"
+      },
+      "17": {
+        "title": "I Don’t Care",
+        "artist": "Nomeansno",
+        "original_artist": "Ramones",
+        "album": "Sasquatch: The Man, The Myth, The Compilation",
+        "url": "https://www.discogs.com/Various-Sasquatch-The-ManMythCompilation/release/726782"
+      },
+      "18": {
+        "title": "You Vandal",
+        "artist": "August Burns Red",
+        "original_artist": "Saves The Day",
+        "album": "Four Minutes Being Cool",
+        "url": "https://www.discogs.com/master/view/845471"
+      },
+      "19": {
+        "title": "Sucked Out",
+        "artist": "Hot Rod Circuit",
+        "original_artist": "Superdrag",
+        "album": "Hot Rod Circuit",
+        "url": "https://www.discogs.com/Hot-Rod-Circuit-Hot-Rod-Circuit/master/557772"
+      },
+      "20": {
+        "title": "Surrender",
+        "artist": "The Manges",
+        "original_artist": "Cheap Trick",
+        "album": "Acid Beaters (Love And Let Die), Split w/ The Queers",
+        "url": "https://www.discogs.com/Queers-Manges-Acid-Beaters-Love-And-Let-Die/master/874812"
+      },
+      "21": {
+        "title": "Rabbit Fighter",
+        "artist": "Kevin Seconds",
+        "original_artist": "T. Rex",
+        "album": "Under The Influence, Split 7” w/ Kepi Ghoulie",
+        "url": "https://www.discogs.com/Kevin-Seconds-Kepi-Rabbit-Fighter-Hot-Love/master/568947"
+      },
+      "22": {
+        "title": "Boys Don’t Cry",
+        "artist": "The Submarines",
+        "original_artist": "The Cure",
+        "album": "Just Like Heaven (A Tribute To The Cure)",
+        "url": "https://www.discogs.com/Various-Just-Like-Heaven-A-Tribute-To-The-Cure/master/1288955"
+      },
+      "23": {
+        "title": "A New England",
+        "artist": "Groovie Ghoulies",
+        "original_artist": "Billy Bragg",
+        "album": "World Contact Day",
+        "url": "https://www.discogs.com/Groovie-Ghoulies-World-Contact-Day/master/228297"
+      },
+      "24": {
+        "title": "Safe European Home",
+        "artist": "Panthro UK United 13",
+        "original_artist": "The Clash",
+        "album": "No Idea 100: Redefiling Music",
+        "url": "https://www.discogs.com/master/view/356079"
+      },
+      "25": {
+        "title": "Live Wire",
+        "artist": "Boy Sets Fire",
+        "original_artist": "Mötley Crüe",
+        "album": "The Day The Sun Went Out",
+        "url": "https://www.discogs.com/Boy-Sets-Fire-The-Day-The-Sun-Went-Out/master/106894"
+      }
+    },
+    "color": {
+      "primary": "#5b6e7a",
+      "secondary": "#c9c3c3"
+    }
+  },
+  "48": {
+    "tracklist": {
+      "1": {
+        "title": "Androgynous",
+        "artist": "Quiet Slang",
+        "original_artist": "The Replacements",
+        "album": "We Were Babies & We Were Dirtbags",
+        "url": "https://www.discogs.com/Quiet-Slang-We-Were-Babies-We-Were-Dirtbags/master/1252085"
+      },
+      "2": {
+        "title": "Chop Suey",
+        "artist": "Casey Shea",
+        "original_artist": "System Of A Down",
+        "album": "Guilt By Association",
+        "url": "https://www.discogs.com/master/view/854968"
+      },
+      "3": {
+        "title": "Footloose",
+        "artist": "Cibelle",
+        "original_artist": "Kenny Loggins",
+        "album": "Hollywood, Mon Amour",
+        "url": "https://www.discogs.com/master/view/167499"
+      },
+      "4": {
+        "title": "AM 180",
+        "artist": "Light FM",
+        "original_artist": "Grandaddy",
+        "album": "AM 180 Single",
+        "url": "https://lightfm.bandcamp.com/track/am-180-grandaddy-cover"
+      },
+      "5": {
+        "title": "Ears Ring",
+        "artist": "Owen",
+        "original_artist": "Rainer Maria",
+        "album": "Polyvinyl Plays Polyvinyl",
+        "url": "https://www.discogs.com/master/view/1638493"
+      },
+      "6": {
+        "title": "The Concept",
+        "artist": "Jimmy Eat World",
+        "original_artist": "Teenage Fanclub",
+        "album": "Work Single",
+        "url": "https://www.discogs.com/Jimmy-Eat-World-Work/master/234220"
+      },
+      "7": {
+        "title": "Gates Of Steel",
+        "artist": "The Breeders",
+        "original_artist": "Devo",
+        "album": "Wait In The Car",
+        "url": "https://www.discogs.com/The-Breeders-Wait-In-The-Car/release/11059090",
+        "notes": "There are 3 versions of this single, with a different cover on each one. This is the “yellow” version."
+      },
+      "8": {
+        "title": "Sharp Dressed Man",
+        "artist": "Xiu Xiu",
+        "original_artist": "ZZ Top",
+        "album": "Split 7” w/ (r)",
+        "url": "https://www.discogs.com/master/view/1281641"
+      },
+      "9": {
+        "title": "Trompe Le Monde",
+        "artist": "Braid",
+        "original_artist": "Pixies",
+        "album": "Movie Music Vol. Two",
+        "url": "https://www.discogs.com/master/view/284236"
+      },
+      "10": {
+        "title": "Runnin’ Riot",
+        "artist": "No Empathy",
+        "original_artist": "Cocksparrer",
+        "album": "The Same Mistakes Endlessly Repeated",
+        "url": "https://www.discogs.com/No-Empathy-The-Same-Mistakes-Endlessly-Repeated/master/727305"
+      },
+      "11": {
+        "title": "Kamala Is Too Nice",
+        "artist": "Navel",
+        "original_artist": "Screeching Weasel",
+        "album": "Who Killed Weasel - Screeching Weasel Covers Compilation",
+        "url": "https://www.discogs.com/Various-Who-Killed-Weasel-Screeching-Weasel-Covers-Compilation/master/1571779"
+      },
+      "12": {
+        "title": "Run Down",
+        "artist": "The Mono Men",
+        "original_artist": "The Saints",
+        "album": "Waste ’O Time / Run Down",
+        "url": "https://www.discogs.com/The-Mono-Men-Waste-O-Time-Run-Down/release/857373"
+      },
+      "13": {
+        "title": "Repulsion",
+        "artist": "Bunnygrunt",
+        "original_artist": "Dinosaur Jr.",
+        "album": "Pop Goes The World",
+        "url": "https://www.discogs.com/master/view/1037301"
+      },
+      "14": {
+        "title": "It’s Not The Way I Feel Anymore",
+        "artist": "Rye Coalition",
+        "original_artist": "Metroschifter",
+        "album": "Encapsulated",
+        "url": "https://www.discogs.com/Metroschifter-Encapsulated/master/252957"
+      },
+      "15": {
+        "title": "Howling At The Moon (Sha-La-La)",
+        "artist": "Jon Cougar Concentration Camp",
+        "original_artist": "Ramones",
+        "album": "Too Tough To Die",
+        "url": "https://www.discogs.com/Jon-Cougar-Concentration-Camp-Too-Tough-To-Die/master/428538"
+      },
+      "16": {
+        "title": "Mamma Mia",
+        "artist": "First Base",
+        "original_artist": "Abba",
+        "album": "Not Too Bad",
+        "url": "https://www.discogs.com/First-Base-Not-That-Bad/master/1272478"
+      },
+      "17": {
+        "title": "I Don’t Wanna Hear It",
+        "artist": "Darkest Hour",
+        "original_artist": "Minor Threat",
+        "album": "Darkest Hour",
+        "url": "https://www.discogs.com/Darkest-Hour-Darkest-Hour/release/10172425"
+      },
+      "18": {
+        "title": "Police Story",
+        "artist": "Los Campesinos!",
+        "original_artist": "Black Flag",
+        "album": "The International Tweexcore Underground",
+        "url": "https://www.discogs.com/Los-Campesinos-The-International-Tweexcore-Underground/master/47834"
+      },
+      "19": {
+        "title": "Blister In The Sun",
+        "artist": "Face To Face",
+        "original_artist": "Violent Femmes",
+        "album": "Split 7” w/ Horace Pinker",
+        "url": "https://www.discogs.com/master/view/563515"
+      },
+      "20": {
+        "title": "Money For Nothing",
+        "artist": "Royal Trux",
+        "original_artist": "Dire Straits",
+        "album": "Liar",
+        "url": "https://www.discogs.com/Royal-Trux-Liar/master/237733"
+      },
+      "21": {
+        "title": "Back Against The Wall",
+        "artist": "Boris The Sprinkler",
+        "original_artist": "Circle Jerks",
+        "album": "Group Sex",
+        "url": "https://www.discogs.com/Boris-The-Sprinkler-Group-Sex/release/2743545"
+      },
+      "22": {
+        "title": "Southern Rock",
+        "artist": "The Atom Age",
+        "original_artist": "Alkaline Trio",
+        "album": "Asian Man Music For Asian Man People!",
+        "url": "https://www.discogs.com/master/view/1003414"
+      },
+      "23": {
+        "title": "Let It Go",
+        "artist": "New Found Glory",
+        "original_artist": "Idina Menzel",
+        "album": "From The Screen To Your Stereo 3",
+        "url": "https://www.discogs.com/New-Found-Glory-From-The-Screen-To-Your-Stereo-3/master/1543360"
+      },
+      "24": {
+        "title": "Clampdown",
+        "artist": "Indigo Girls",
+        "original_artist": "The Clash",
+        "album": "Burning London: The Clash Tribute",
+        "url": "https://www.discogs.com/Various-Burning-London-The-Clash-Tribute/master/30439"
+      },
+      "25": {
+        "title": "Thunderstruck",
+        "artist": "Beat Crusaders",
+        "original_artist": "AC/DC",
+        "album": "Rest Crusaders",
+        "url": "https://www.discogs.com/Beat-Crusaders-Rest-Crusaders/release/15318813"
+      }
+    },
+    "color": {
+      "primary": "#ee1f29",
+      "secondary": "#dbe5fc"
     }
   }
 }
