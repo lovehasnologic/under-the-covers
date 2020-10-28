@@ -34,6 +34,7 @@ class Tag extends React.Component {
             <span className="tag__volumeNumber" itemProp="hasPart">
               {this.props.volume}
             </span>
+            {this.props.details.holiday === true ? <span class="tag__category">Holiday</span> : ""}
           </span>
         </Link>
         {this.setCloseLink()}

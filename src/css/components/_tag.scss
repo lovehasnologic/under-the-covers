@@ -22,6 +22,9 @@
 .tag__label {
   position: relative;
   display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
   grid-column: tag-start / tag-end;
   mix-blend-mode: screen;
 
@@ -47,20 +50,30 @@
 }
 
 .tag__volumeNumber {
-  font-size: 7vh;
+  font-size: 6vh;
   line-height: 1;
-  position: relative;
   z-index: 2;
-  display: block;
-  align-self: center;
-  flex: 1;
-  padding-right: 20px;
   text-align: right;
+  margin-left: auto;
+}
+
+.tag__category,
+.tag__volumeNumber {
   color: var(--baseFontColor);
   mix-blend-mode: difference;
+  z-index: 3;
+  display: block;
+  padding-right: 20px;
 
   @include mq(1) {
     font-size: 3.5vh;
     padding-right: 12px;
   }
+}
+
+.tag__category {
+  font-size: 1.5vh;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-family: var(--font--body);
 }
