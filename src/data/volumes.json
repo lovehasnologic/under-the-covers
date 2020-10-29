@@ -8959,7 +8959,7 @@
         "artist": "Sharon Jones & The Dap-Kings",
         "title": "Silver Bells",
         "original_artist": "William Frawley",
-        "album": "It's A Holiday Should Party",
+        "album": "It’s A Holiday Should Party",
         "url": "https://www.discogs.com/master/view/905561"
       },
       "11": {
@@ -8994,7 +8994,7 @@
         "artist": "The Vindictives",
         "title": "Jingle Bells",
         "original_artist": "James Lord Pierpont",
-        "album": "Nuttin' For Christmas",
+        "album": "Nuttin’ For Christmas",
         "url": "https://www.discogs.com/master/view/244299"
       },
       "16": {
@@ -9015,14 +9015,14 @@
         "artist": "Dave Miello",
         "title": "All I Want For Christmas Is You",
         "original_artist": "Mariah Carey",
-        "album": "A Santa Cause (It's A Punk Rock Christmas)",
+        "album": "A Santa Cause (It’s A Punk Rock Christmas)",
         "url": "https://www.discogs.com/master/view/784678"
       },
       "19": {
         "artist": "8 Bit Weapon & ComputeHer",
         "title": "God Rest Ye Merry, Gentlemen",
         "original_artist": "Traditional",
-        "album": "It's A Chiptune Holiday!",
+        "album": "It’s A Chiptune Holiday!",
         "url": "https://www.discogs.com/8-Bit-Weapon-ComputeHer-Its-a-Chiptune-Holiday/release/13761992"
       },
       "20": {
@@ -9042,7 +9042,7 @@
       "22": {
         "artist": "Saturday Looks Good To Me",
         "title": "Blue Christmas",
-        "original_artist": "Doye O'Dell",
+        "original_artist": "Doye O’Dell",
         "album": "Sound On Sound",
         "url": "https://www.discogs.com/Saturday-Looks-Good-To-Me-Sound-On-Sound/release/2453908"
       },
@@ -9078,6 +9078,177 @@
     "color": {
       "primary": "#128601",
       "secondary": "#fbcb13"
+    },
+    "holiday": true
+  },
+  "52": {
+    "tracklist": {
+      "1": {
+        "artist": "Mrenc",
+        "title": "Christmas Time Is Here",
+        "original_artist": "Vince Guaraldi Trio",
+        "album": "A Lakeland Christmas Vol. 1",
+        "url": "https://www.discogs.com/Various-A-Lakeland-Christmas-Vol-1/release/14718530"
+      },
+      "2": {
+        "artist": "Richard Edwards",
+        "title": "Jesus Christ",
+        "original_artist": "Big Star",
+        "album": "Holiday Party, Vol. 1",
+        "url": "https://joyfulnoise.bandcamp.com/album/holiday-party-vol-1"
+      },
+      "3": {
+        "artist": "Ohmme",
+        "title": "Jing-A-Ling, Jing-A-Ling",
+        "original_artist": "The Andrew Sisters",
+        "album": "Holiday Party, Vol. 2",
+        "url": "https://joyfulnoise.bandcamp.com/album/holiday-party-vol-2"
+      },
+      "4": {
+        "artist": "Cap’n Jazz",
+        "title": "Winter Wonderland",
+        "original_artist": "Richard Himber",
+        "album": "Analphabetapolothology",
+        "url": "https://www.discogs.com/Capn-Jazz-Analphabetapolothology/master/257533"
+      },
+      "5": {
+        "artist": "David Bazan",
+        "title": "Long Way Around The Sea",
+        "original_artist": "Low",
+        "album": "Dark Sacred Night",
+        "url": "https://www.discogs.com/David-Bazan-Dark-Sacred-Night/master/1085589"
+      },
+      "6": {
+        "artist": "Asobi Seksu",
+        "title": "Merry Christmas (I Don’t Want To Fight Tonight)",
+        "original_artist": "Ramones",
+        "album": "Merry Christmas (I Don’t Want To Fight Tonight)",
+        "url": "https://www.discogs.com/Asobi-Seksu-Merry-Christmas-I-Dont-Want-To-Fight-Tonight/master/128320"
+      },
+      "7": {
+        "artist": "Sufjan Stevens",
+        "title": "What Child Is This Anyway?",
+        "original_artist": "William Chatterton Dix",
+        "album": "Hark! Songs For Christmas, Vol. II",
+        "url": "https://www.discogs.com/Sufjan-Stevens-Hark-Songs-For-Christmas-Vol-II/release/6454128"
+      },
+      "8": {
+        "artist": "Matt Pond PA",
+        "title": "Holiday Road",
+        "original_artist": "Lindsey Buckingham",
+        "album": "Winter Songs",
+        "url": "https://www.discogs.com/Matt-Pond-PA-Winter-Songs/release/2701281"
+      },
+      "9": {
+        "artist": "Bunnygrunt",
+        "title": "Blue Christmas",
+        "original_artist": "Doye O’Dell",
+        "album": "Blue Christmas",
+        "url": "https://www.discogs.com/Bunnygrunt-Blue-Christmas/release/1483537"
+      },
+      "10": {
+        "artist": "Dikembe",
+        "title": "All I Want For Christmas Is You",
+        "original_artist": "Mariah Carey",
+        "album": "Christmas Split",
+        "url": "https://www.discogs.com/You-Blew-It-Dikembe-Have-Mercy-4-Kittyhawk-Christmas-Split/master/940884"
+      },
+      "11": {
+        "artist": "SNMNMNM",
+        "title": "Father Christmas",
+        "original_artist": "The Kinks",
+        "album": "So Have A Cup Of Cheer",
+        "url": "https://www.discogs.com/SNMNMNM-So-Have-A-Cup-Of-Cheer/release/6337236"
+      },
+      "12": {
+        "artist": "Legendary Shack Shakers",
+        "title": "God Rest Ye Merry, Gentlemen",
+        "original_artist": "Traditional",
+        "album": "Oh Santa!",
+        "url": "https://www.discogs.com/Various-Oh-Santa/release/2714211"
+      },
+      "13": {
+        "artist": "Weezer",
+        "title": "The First Noel",
+        "original_artist": "Traditional",
+        "album": "Christmas With Weezer",
+        "url": "https://www.discogs.com/Weezer-Christmas-With-Weezer/master/981375"
+      },
+      "14": {
+        "artist": "Fever Fever",
+        "title": "Little Drummer Boy",
+        "original_artist": "The Trapp Family Singers",
+        "album": "A Very Cherry Christmas 5",
+        "url": "https://www.discogs.com/Various-A-Very-Cherry-Christmas-5/release/2044709"
+      },
+      "15": {
+        "artist": "Sharon Jones & The Dap-Kings",
+        "title": "Silent Night",
+        "original_artist": "Franz Xaver Gruber",
+        "album": "It’s A Holiday Soul Party",
+        "url": "https://www.discogs.com/Sharon-Jones-The-Dap-Kings-Its-A-Holiday-Soul-Party/master/905561"
+      },
+      "16": {
+        "artist": "The Bollweevils",
+        "title": "White Christmas",
+        "original_artist": "Irving Berlin",
+        "album": "History Of The Bollweevils Part I",
+        "url": "https://www.discogs.com/master/view/585627"
+      },
+      "17": {
+        "artist": "The Gifted Children",
+        "title": "You’re A Mean One, Mr. Grinch",
+        "original_artist": "Dr. Seuss",
+        "album": "Christmas, Volume 04",
+        "url": "https://thegiftedchildren.bandcamp.com/album/christmas-volume-04"
+      },
+      "18": {
+        "artist": "Lights",
+        "title": "Happy Xmas (War is Over)",
+        "original_artist": "John & Yoko / The Plastic Ono Band With The Harlem Community Choir",
+        "album": "Happy Xmas (War Is Over)",
+        "url": "https://lights.lnk.to/happyxmas"
+      },
+      "19": {
+        "artist": "Maggie & Drew",
+        "title": "Have Yourself A Merry Little Christmas",
+        "original_artist": "Judy Garland",
+        "album": "Christmas Songs",
+        "url": "",
+        "notes": "Recording shared with friends and colleagues."
+      },
+      "20": {
+        "artist": "8 Bit Weapon & ComputeHer",
+        "title": "Joy To The World",
+        "original_artist": "Isaac Watts",
+        "album": "It’s A Chiptune Holiday!",
+        "url": "https://www.discogs.com/8-Bit-Weapon-ComputeHer-Its-a-Chiptune-Holiday/release/13761992"
+      },
+      "21": {
+        "artist": "Swastika Girls",
+        "title": "Last Christmas",
+        "original_artist": "Wham!",
+        "album": "Christmas With Swastika Girls",
+        "url": "https://www.last.fm/music/Swastika+Girls/Christmas+with+Swastika+Girls"
+      },
+      "22": {
+        "artist": "Pomplamoose",
+        "title": "Dance Of The Sugar Plum Fairy",
+        "original_artist": "Pyotr Ilyich Tchaikovsky",
+        "album": "Christmas In Space",
+        "url": "https://www.allmusic.com/album/christmas-in-space-mw0002506083"
+      },
+      "23": {
+        "artist": "Dumb Numbers",
+        "title": "X-Mas Time In The Mountains",
+        "original_artist": "Palace Songs",
+        "album": "X-Mas Time In The Mountains",
+        "url": "https://www.discogs.com/Dumb-Numbers-X-Mas-Time-In-The-Mountains-Palace-cover/release/11457246"
+      }
+    },
+    "color": {
+      "primary": "#e30c09",
+      "secondary": "#ffbfc9"
     },
     "holiday": true
   }
