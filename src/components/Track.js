@@ -24,21 +24,35 @@ class Track extends React.Component {
     }
   }
 
+  hasUrl(url, album) {
+    if (url) {
+      return (
+        <a
+          href={url}
+          className="track__albumUrl"
+          target="_blank"
+          rel="noopener noreferrer"
+          itemProp="inAlbum"
+        >
+          {album}
+        </a>
+      );
+    } else {
+      return (
+        <span>
+          {album}
+        </span>
+      )
+    }
+  }
+
   hasAlbum(album, url) {
     if (album) {
       return (
         <p itemProp="about">
           Released on{" "}
           <em>
-            <a
-              href={url}
-              className="track__albumUrl"
-              target="_blank"
-              rel="noopener noreferrer"
-              itemProp="inAlbum"
-            >
-              {album}
-            </a>
+            {this.hasUrl(url, album)}
           </em>
           .
         </p>
